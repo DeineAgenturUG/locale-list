@@ -49,8 +49,7 @@ az_Cyrl,"Azerbaijani (Cyrillic)"
 az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
 az_Latn,"Azerbaijani (Latin)"
 bm,Bambara
-bm_Latn_ML,"Bambara (Latin, Mali)"
-bm_Latn,"Bambara (Latin)"
+bm_ML,"Bambara (Mali)"
 eu,Basque
 eu_ES,"Basque (Spain)"
 bn,bengalagiella
@@ -68,6 +67,8 @@ bg,bulgáriagiella
 bg_BG,"bulgáriagiella (Bulgária)"
 my,burmagiella
 my_MM,"burmagiella (Burma)"
+ce,Chechen
+ce_RU,"Chechen (Russia)"
 cs,čeahkagiella
 cs_CZ,"čeahkagiella (Čeahkka)"
 se,davvisámegiella
@@ -82,6 +83,7 @@ no_NO,"dárogiella (Norga)"
 de,duiskkagiella
 de_BE,"duiskkagiella (Belgia)"
 de_DE,"duiskkagiella (Duiska)"
+de_IT,"duiskkagiella (Itália)"
 de_LI,"duiskkagiella (Liechtenstein)"
 de_LU,"duiskkagiella (Luxembourg)"
 de_AT,"duiskkagiella (Nuortariika)"
@@ -106,12 +108,15 @@ en_BZ,"eaŋgalsgiella (Belize)"
 en_BM,"eaŋgalsgiella (Bermuda)"
 en_BW,"eaŋgalsgiella (Botswana)"
 en_VG,"eaŋgalsgiella (Brittania Virgin-sullot)"
+en_BI,"eaŋgalsgiella (Burundi)"
 en_KY,"eaŋgalsgiella (Cayman-sullot)"
 en_CC,"eaŋgalsgiella (Cocos-sullot)"
 en_CK,"eaŋgalsgiella (Cook-sullot)"
 en_MP,"eaŋgalsgiella (Davvi-Mariánat)"
+en_DK,"eaŋgalsgiella (Dánmárku)"
 en_DG,"eaŋgalsgiella (Diego Garcia)"
 en_DM,"eaŋgalsgiella (Dominica)"
+en_DE,"eaŋgalsgiella (Duiska)"
 en_ER,"eaŋgalsgiella (Eritrea)"
 en_FK,"eaŋgalsgiella (Falklandsullot)"
 en_FJ,"eaŋgalsgiella (Fijisullot)"
@@ -126,6 +131,7 @@ en_GY,"eaŋgalsgiella (Guyana)"
 en_HK,"eaŋgalsgiella (Hongkong)"
 en_IN,"eaŋgalsgiella (India)"
 en_IE,"eaŋgalsgiella (Irlánda)"
+en_IL,"eaŋgalsgiella (Israel)"
 en_JM,"eaŋgalsgiella (Jamaica)"
 en_JE,"eaŋgalsgiella (Jersey)"
 en_CX,"eaŋgalsgiella (Juovllat-sullot)"
@@ -133,6 +139,7 @@ en_CM,"eaŋgalsgiella (Kamerun)"
 en_CA,"eaŋgalsgiella (Kanáda)"
 en_KE,"eaŋgalsgiella (Kenia)"
 en_KI,"eaŋgalsgiella (Kiribati)"
+en_CY,"eaŋgalsgiella (Kypros)"
 en_LS,"eaŋgalsgiella (Lesotho)"
 en_LR,"eaŋgalsgiella (Liberia)"
 en_MG,"eaŋgalsgiella (Madagaskar)"
@@ -152,12 +159,14 @@ en_NR,"eaŋgalsgiella (Nauru)"
 en_NG,"eaŋgalsgiella (Nigeria)"
 en_NU,"eaŋgalsgiella (Niue)"
 en_NF,"eaŋgalsgiella (Norfolksullot)"
+en_AT,"eaŋgalsgiella (Nuortariika)"
 en_NZ,"eaŋgalsgiella (Ođđa-Selánda)"
 en_PK,"eaŋgalsgiella (Pakistan)"
 en_PW,"eaŋgalsgiella (Palau)"
 en_PG,"eaŋgalsgiella (Papua-Ođđa-Guinea)"
 en_PN,"eaŋgalsgiella (Pitcairn)"
 en_PR,"eaŋgalsgiella (Puerto Rico)"
+en_SE,"eaŋgalsgiella (Ruoŧŧa)"
 en_RW,"eaŋgalsgiella (Rwanda)"
 en_SH,"eaŋgalsgiella (Saint Helena)"
 en_KN,"eaŋgalsgiella (Saint Kitts ja Nevis)"
@@ -168,9 +177,12 @@ en_WS,"eaŋgalsgiella (Samoa)"
 en_SC,"eaŋgalsgiella (Seychellsullot)"
 en_SL,"eaŋgalsgiella (Sierra Leone)"
 en_SG,"eaŋgalsgiella (Singapore)"
+en_SI,"eaŋgalsgiella (Slovenia)"
 en_GB,"eaŋgalsgiella (Stuorra-Británnia)"
 en_SD,"eaŋgalsgiella (Sudan)"
+en_FI,"eaŋgalsgiella (Suopma)"
 en_SZ,"eaŋgalsgiella (Svazieana)"
+en_CH,"eaŋgalsgiella (Šveica)"
 en_TZ,"eaŋgalsgiella (Tanzánia)"
 en_TK,"eaŋgalsgiella (Tokelau)"
 en_TO,"eaŋgalsgiella (Tonga)"
@@ -180,6 +192,7 @@ en_TV,"eaŋgalsgiella (Tuvalu)"
 en_UG,"eaŋgalsgiella (Uganda)"
 en_VU,"eaŋgalsgiella (Vanuatu)"
 en_SX,"eaŋgalsgiella (Vuolleeatnamat Saint Martin)"
+en_NL,"eaŋgalsgiella (Vuolleeatnamat)"
 en_ZM,"eaŋgalsgiella (Zambia)"
 en_ZW,"eaŋgalsgiella (Zimbabwe)"
 en_IO,"English (British Indian Ocean Territory)"
@@ -191,6 +204,7 @@ ee,Ewe
 ee_GH,"Ewe (Ghana)"
 ee_TG,"Ewe (Togo)"
 fo,fearagiella
+fo_DK,"fearagiella (Dánmárku)"
 fo_FO,"fearagiella (Fearsullot)"
 fr,fránskkagiella
 fr_DZ,"fránskkagiella (Algeria)"
@@ -260,10 +274,6 @@ gu,gujaratagiella
 gu_IN,"gujaratagiella (India)"
 ha,haussagiella
 ha_GH,"haussagiella (Ghana)"
-ha_Latn_GH,"haussagiella (láhtenaš, Ghana)"
-ha_Latn_NE,"haussagiella (láhtenaš, Niger)"
-ha_Latn_NG,"haussagiella (láhtenaš, Nigeria)"
-ha_Latn,"haussagiella (láhtenaš)"
 ha_NE,"haussagiella (Niger)"
 ha_NG,"haussagiella (Nigeria)"
 he,Hebrew
@@ -289,6 +299,7 @@ it,itáliagiella
 it_IT,"itáliagiella (Itália)"
 it_SM,"itáliagiella (San Marino)"
 it_CH,"itáliagiella (Šveica)"
+it_VA,"itáliagiella (Vatikána)"
 ja,japánagiella
 ja_JP,"japánagiella (Japána)"
 kl,Kalaallisut
@@ -298,8 +309,6 @@ km_KH,"kambožagiella (Kamboža)"
 kn,Kannada
 kn_IN,"Kannada (India)"
 ks,Kashmiri
-ks_Arab_IN,"Kashmiri (Arabic, India)"
-ks_Arab,"Kashmiri (Arabic)"
 ks_IN,"Kashmiri (India)"
 ca,katalánagiella
 ca_AD,"katalánagiella (Andorra)"
@@ -308,8 +317,6 @@ ca_IT,"katalánagiella (Itália)"
 ca_ES,"katalánagiella (Spánia)"
 kk,kazakhgiella
 kk_KZ,"kazakhgiella (Kasakstan)"
-kk_Cyrl_KZ,"kazakhgiella (kyrillalaš, Kasakstan)"
-kk_Cyrl,"kazakhgiella (kyrillalaš)"
 zh,kiinnágiella
 zh_Hans_HK,"kiinnágiella (álkes kiinnálaš, Hongkong)"
 zh_Hans_CN,"kiinnágiella (álkes kiinnálaš, Kiinná)"
@@ -340,8 +347,6 @@ hr_HR,"kroátiagiella (Kroátia)"
 cy,kymragiella
 cy_GB,"kymragiella (Stuorra-Británnia)"
 ky,Kyrgyz
-ky_Cyrl_KG,"Kyrgyz (Cyrillic, Kyrgyzstan)"
-ky_Cyrl,"Kyrgyz (Cyrillic)"
 ky_KG,"Kyrgyz (Kyrgyzstan)"
 lo,laogiella
 lo_LA,"laogiella (Laos)"
@@ -364,10 +369,6 @@ mg,Malagasy
 mg_MG,"Malagasy (Madagascar)"
 ms,Malay
 ms_BN,"Malay (Brunei)"
-ms_Latn_BN,"Malay (Latin, Brunei)"
-ms_Latn_MY,"Malay (Latin, Malaysia)"
-ms_Latn_SG,"Malay (Latin, Singapore)"
-ms_Latn,"Malay (Latin)"
 ms_MY,"Malay (Malaysia)"
 ms_SG,"Malay (Singapore)"
 ml,Malayalam
@@ -379,8 +380,6 @@ gv_IM,"manksgiella (Mann-sullot)"
 mr,Marathi
 mr_IN,"Marathi (India)"
 mn,mongoliagiella
-mn_Cyrl_MN,"mongoliagiella (kyrillalaš, Mongolia)"
-mn_Cyrl,"mongoliagiella (kyrillalaš)"
 mn_MN,"mongoliagiella (Mongolia)"
 ne,nepalagiella
 ne_IN,"nepalagiella (India)"
@@ -389,10 +388,10 @@ nd,"North Ndebele"
 nd_ZW,"North Ndebele (Zimbabwe)"
 fy,oarjifriisagiella
 fy_NL,"oarjifriisagiella (Vuolleeatnamat)"
+or,Odia
+or_IN,"Odia (India)"
 nn,ođđadárogiella
 nn_NO,"ođđadárogiella (Norga)"
-or,Oriya
-or_IN,"Oriya (India)"
 om,Oromo
 om_ET,"Oromo (Ethiopia)"
 om_KE,"Oromo (Kenya)"
@@ -414,13 +413,16 @@ pl_PL,"polskkagiella (Polen)"
 pt,portugálagiella
 pt_AO,"portugálagiella (Angola)"
 pt_BR,"portugálagiella (Brasil)"
+pt_GQ,"portugálagiella (Ekvatoriála Guinea)"
 pt_GW,"portugálagiella (Guinea-Bissau)"
 pt_CV,"portugálagiella (Kap Verde)"
+pt_LU,"portugálagiella (Luxembourg)"
 pt_MO,"portugálagiella (Makáo)"
 pt_MZ,"portugálagiella (Mosambik)"
 pt_TL,"portugálagiella (Nuorta-Timor)"
 pt_PT,"portugálagiella (Portugála)"
 pt_ST,"portugálagiella (São Tomé ja Príncipe)"
+pt_CH,"portugálagiella (Šveica)"
 pa_Guru_IN,"Punjabi (Gurmukhi, India)"
 pa_Guru,"Punjabi (Gurmukhi)"
 qu,Quechua
@@ -484,7 +486,9 @@ so_SO,"Somali (Somalia)"
 es,spánskkagiella
 es_US,"spánskkagiella (Amerihká ovttastuvvan stáhtat)"
 es_AR,"spánskkagiella (Argentina)"
+es_BZ,"spánskkagiella (Belize)"
 es_BO,"spánskkagiella (Bolivia)"
+es_BR,"spánskkagiella (Brasil)"
 es_EA,"spánskkagiella (Ceuta ja Melilla)"
 es_CR,"spánskkagiella (Costa Rica)"
 es_CL,"spánskkagiella (Čiile)"
@@ -510,6 +514,7 @@ es_VE,"spánskkagiella (Venezuela)"
 fi,suomagiella
 fi_FI,"suomagiella (Suopma)"
 sw,Swahili
+sw_CD,"Swahili (Congo - Kinshasa)"
 sw_KE,"Swahili (Kenya)"
 sw_TZ,"Swahili (Tanzania)"
 sw_UG,"Swahili (Uganda)"
@@ -540,8 +545,6 @@ ur,urdugiella
 ur_IN,"urdugiella (India)"
 ur_PK,"urdugiella (Pakistan)"
 ug,Uyghur
-ug_Arab_CN,"Uyghur (Arabic, China)"
-ug_Arab,"Uyghur (Arabic)"
 ug_CN,"Uyghur (China)"
 uz,Uzbek
 uz_AF,"Uzbek (Afghanistan)"

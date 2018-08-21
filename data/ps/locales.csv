@@ -1,34 +1,55 @@
 id,value
+as,آسامي
+as_IN,"آسامي (هند)"
 hy,ارمني
 uz,ازبکي
 uz_AF,"ازبکي (افغانستان)"
 uz_Arab_AF,"ازبکي (عربي, افغانستان)"
 uz_Arab,"ازبکي (عربي)"
+sq,الباني
+sq_AL,"الباني (البانیه)"
 de,الماني
 de_AT,"الماني (اتریش)"
 de_DE,"الماني (المان)"
+de_IT,"الماني (ایټالیه)"
 de_CH,"الماني (سویس)"
-en,انګلیسي
-en_GB,"انګلیسي (برتانیه)"
-en_PK,"انګلیسي (پاکستان)"
-en_TZ,"انګلیسي (تنزانیا)"
-en_JM,"انګلیسي (جمیکا)"
-en_RW,"انګلیسي (روندا)"
-en_CA,"انګلیسي (کاناډا)"
-en_GH,"انګلیسي (ګانا)"
-en_LR,"انګلیسي (لایبریا)"
-en_MY,"انګلیسي (مالیزیا)"
-en_NG,"انګلیسي (نایجیریا)"
-en_NZ,"انګلیسي (نیوزیلنډ)"
-en_IN,"انګلیسي (هند)"
+am,امهاري
+am_ET,"امهاري (حبشه)"
+en,انګریزي
+en_AT,"انګریزي (اتریش)"
+en_DE,"انګریزي (المان)"
+en_GB,"انګریزي (برتانیه)"
+en_PK,"انګریزي (پاکستان)"
+en_TZ,"انګریزي (تنزانیا)"
+en_JM,"انګریزي (جمیکا)"
+en_DK,"انګریزي (ډنمارک)"
+en_RW,"انګریزي (روندا)"
+en_SE,"انګریزي (سویډن)"
+en_CH,"انګریزي (سویس)"
+en_FI,"انګریزي (فنلینډ)"
+en_CA,"انګریزي (کاناډا)"
+en_GH,"انګریزي (ګانا)"
+en_LR,"انګریزي (لایبریا)"
+en_MY,"انګریزي (مالیزیا)"
+en_NG,"انګریزي (نایجیریا)"
+en_NZ,"انګریزي (نیوزیلنډ)"
+en_NL,"انګریزي (هالېنډ)"
+en_IN,"انګریزي (هند)"
 it,ایټالوي
 it_IT,"ایټالوي (ایټالیه)"
 it_CH,"ایټالوي (سویس)"
+eu,باسکي
+eu_ES,"باسکي (هسپانیه)"
+bg,بلغاري
+bg_BG,"بلغاري (بلغاریه)"
+bs,بوسني
+be,بېلاروسي
 ps,پښتو
 ps_AF,"پښتو (افغانستان)"
 pt,پورتګالي
 pt_AO,"پورتګالي (انګولا)"
 pt_PT,"پورتګالي (پورتګال)"
+pt_CH,"پورتګالي (سویس)"
 pl,پولنډي
 pl_PL,"پولنډي (پولنډ)"
 ja,جاپانی
@@ -73,6 +94,11 @@ mk,مقدوني
 ms,ملایا
 ms_MY,"ملایا (مالیزیا)"
 mg,ملغاسي
+ne,نېپالي
+ne_NP,"نېپالي (نیپال)"
+ne_IN,"نېپالي (هند)"
+nl,هالېنډي
+nl_NL,"هالېنډي (هالېنډ)"
 hi,هندي
 hi_IN,"هندي (هند)"
 el,یوناني
@@ -82,12 +108,8 @@ af_NA,"Afrikaans (Namibia)"
 af_ZA,"Afrikaans (South Africa)"
 ak,Akan
 ak_GH,"Akan (Ghana)"
-sq,Albanian
-sq_AL,"Albanian (Albania)"
 sq_XK,"Albanian (Kosovo)"
 sq_MK,"Albanian (Macedonia)"
-am,Amharic
-am_ET,"Amharic (Ethiopia)"
 ar_BH,"Arabic (Bahrain)"
 ar_TD,"Arabic (Chad)"
 ar_KM,"Arabic (Comoros)"
@@ -105,8 +127,6 @@ ar_TN,"Arabic (Tunisia)"
 ar_AE,"Arabic (United Arab Emirates)"
 ar_EH,"Arabic (Western Sahara)"
 hy_AM,"Armenian (Armenia)"
-as,Assamese
-as_IN,"Assamese (India)"
 az,Azerbaijani
 az_AZ,"Azerbaijani (Azerbaijan)"
 az_Cyrl_AZ,"Azerbaijani (Cyrillic, Azerbaijan)"
@@ -114,16 +134,11 @@ az_Cyrl,"Azerbaijani (Cyrillic)"
 az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
 az_Latn,"Azerbaijani (Latin)"
 bm,Bambara
-bm_Latn_ML,"Bambara (Latin, Mali)"
-bm_Latn,"Bambara (Latin)"
-eu,Basque
-eu_ES,"Basque (Spain)"
-be,Belarusian
+bm_ML,"Bambara (Mali)"
+bn,Bangla
+bn_BD,"Bangla (Bangladesh)"
+bn_IN,"Bangla (India)"
 be_BY,"Belarusian (Belarus)"
-bn,Bengali
-bn_BD,"Bengali (Bangladesh)"
-bn_IN,"Bengali (India)"
-bs,Bosnian
 bs_BA,"Bosnian (Bosnia & Herzegovina)"
 bs_Cyrl_BA,"Bosnian (Cyrillic, Bosnia & Herzegovina)"
 bs_Cyrl,"Bosnian (Cyrillic)"
@@ -131,8 +146,6 @@ bs_Latn_BA,"Bosnian (Latin, Bosnia & Herzegovina)"
 bs_Latn,"Bosnian (Latin)"
 br,Breton
 br_FR,"Breton (France)"
-bg,Bulgarian
-bg_BG,"Bulgarian (Bulgaria)"
 my,Burmese
 my_MM,"Burmese (Myanmar (Burma))"
 ca,Catalan
@@ -140,6 +153,8 @@ ca_AD,"Catalan (Andorra)"
 ca_FR,"Catalan (France)"
 ca_IT,"Catalan (Italy)"
 ca_ES,"Catalan (Spain)"
+ce,Chechen
+ce_RU,"Chechen (Russia)"
 zh_HK,"Chinese (Hong Kong SAR China)"
 zh_MO,"Chinese (Macau SAR China)"
 zh_Hans_CN,"Chinese (Simplified, China)"
@@ -159,16 +174,14 @@ hr,Croatian
 hr_BA,"Croatian (Bosnia & Herzegovina)"
 hr_HR,"Croatian (Croatia)"
 cs,Czech
-cs_CZ,"Czech (Czech Republic)"
+cs_CZ,"Czech (Czechia)"
 da,Danish
 da_DK,"Danish (Denmark)"
 da_GL,"Danish (Greenland)"
-nl,Dutch
 nl_AW,"Dutch (Aruba)"
 nl_BE,"Dutch (Belgium)"
 nl_BQ,"Dutch (Caribbean Netherlands)"
 nl_CW,"Dutch (Curaçao)"
-nl_NL,"Dutch (Netherlands)"
 nl_SX,"Dutch (Sint Maarten)"
 nl_SR,"Dutch (Suriname)"
 dz,Dzongkha
@@ -185,11 +198,13 @@ en_BM,"English (Bermuda)"
 en_BW,"English (Botswana)"
 en_IO,"English (British Indian Ocean Territory)"
 en_VG,"English (British Virgin Islands)"
+en_BI,"English (Burundi)"
 en_CM,"English (Cameroon)"
 en_KY,"English (Cayman Islands)"
 en_CX,"English (Christmas Island)"
 en_CC,"English (Cocos (Keeling) Islands)"
 en_CK,"English (Cook Islands)"
+en_CY,"English (Cyprus)"
 en_DG,"English (Diego Garcia)"
 en_DM,"English (Dominica)"
 en_ER,"English (Eritrea)"
@@ -204,6 +219,7 @@ en_GY,"English (Guyana)"
 en_HK,"English (Hong Kong SAR China)"
 en_IE,"English (Ireland)"
 en_IM,"English (Isle of Man)"
+en_IL,"English (Israel)"
 en_JE,"English (Jersey)"
 en_KE,"English (Kenya)"
 en_KI,"English (Kiribati)"
@@ -231,6 +247,7 @@ en_SC,"English (Seychelles)"
 en_SL,"English (Sierra Leone)"
 en_SG,"English (Singapore)"
 en_SX,"English (Sint Maarten)"
+en_SI,"English (Slovenia)"
 en_SB,"English (Solomon Islands)"
 en_ZA,"English (South Africa)"
 en_SS,"English (South Sudan)"
@@ -258,6 +275,7 @@ ee,Ewe
 ee_GH,"Ewe (Ghana)"
 ee_TG,"Ewe (Togo)"
 fo,Faroese
+fo_DK,"Faroese (Denmark)"
 fo_FO,"Faroese (Faroe Islands)"
 fr_BE,"French (Belgium)"
 fr_BJ,"French (Benin)"
@@ -316,10 +334,6 @@ gu,Gujarati
 gu_IN,"Gujarati (India)"
 ha,Hausa
 ha_GH,"Hausa (Ghana)"
-ha_Latn_GH,"Hausa (Latin, Ghana)"
-ha_Latn_NE,"Hausa (Latin, Niger)"
-ha_Latn_NG,"Hausa (Latin, Nigeria)"
-ha_Latn,"Hausa (Latin)"
 ha_NE,"Hausa (Niger)"
 ha_NG,"Hausa (Nigeria)"
 he_IL,"Hebrew (Israel)"
@@ -334,17 +348,14 @@ id_ID,"Indonesian (Indonesia)"
 ga,Irish
 ga_IE,"Irish (Ireland)"
 it_SM,"Italian (San Marino)"
+it_VA,"Italian (Vatican City)"
 kl,Kalaallisut
 kl_GL,"Kalaallisut (Greenland)"
 kn,Kannada
 kn_IN,"Kannada (India)"
 ks,Kashmiri
-ks_Arab_IN,"Kashmiri (Arabic, India)"
-ks_Arab,"Kashmiri (Arabic)"
 ks_IN,"Kashmiri (India)"
 kk,Kazakh
-kk_Cyrl_KZ,"Kazakh (Cyrillic, Kazakhstan)"
-kk_Cyrl,"Kazakh (Cyrillic)"
 kk_KZ,"Kazakh (Kazakhstan)"
 km,Khmer
 km_KH,"Khmer (Cambodia)"
@@ -356,8 +367,6 @@ ko,Korean
 ko_KP,"Korean (North Korea)"
 ko_KR,"Korean (South Korea)"
 ky,Kyrgyz
-ky_Cyrl_KG,"Kyrgyz (Cyrillic, Kyrgyzstan)"
-ky_Cyrl,"Kyrgyz (Cyrillic)"
 ky_KG,"Kyrgyz (Kyrgyzstan)"
 lo,Lao
 lo_LA,"Lao (Laos)"
@@ -377,10 +386,6 @@ lb_LU,"Luxembourgish (Luxembourg)"
 mk_MK,"Macedonian (Macedonia)"
 mg_MG,"Malagasy (Madagascar)"
 ms_BN,"Malay (Brunei)"
-ms_Latn_BN,"Malay (Latin, Brunei)"
-ms_Latn_MY,"Malay (Latin, Malaysia)"
-ms_Latn_SG,"Malay (Latin, Singapore)"
-ms_Latn,"Malay (Latin)"
 ms_SG,"Malay (Singapore)"
 ml,Malayalam
 ml_IN,"Malayalam (India)"
@@ -390,11 +395,6 @@ gv,Manx
 gv_IM,"Manx (Isle of Man)"
 mr,Marathi
 mr_IN,"Marathi (India)"
-mn_Cyrl_MN,"Mongolian (Cyrillic, Mongolia)"
-mn_Cyrl,"Mongolian (Cyrillic)"
-ne,Nepali
-ne_IN,"Nepali (India)"
-ne_NP,"Nepali (Nepal)"
 nd,"North Ndebele"
 nd_ZW,"North Ndebele (Zimbabwe)"
 se,"Northern Sami"
@@ -408,8 +408,8 @@ nb_NO,"Norwegian Bokmål (Norway)"
 nb_SJ,"Norwegian Bokmål (Svalbard & Jan Mayen)"
 nn,"Norwegian Nynorsk"
 nn_NO,"Norwegian Nynorsk (Norway)"
-or,Oriya
-or_IN,"Oriya (India)"
+or,Odia
+or_IN,"Odia (India)"
 om,Oromo
 om_ET,"Oromo (Ethiopia)"
 om_KE,"Oromo (Kenya)"
@@ -419,7 +419,9 @@ os_RU,"Ossetic (Russia)"
 fa_IR,"Persian (Iran)"
 pt_BR,"Portuguese (Brazil)"
 pt_CV,"Portuguese (Cape Verde)"
+pt_GQ,"Portuguese (Equatorial Guinea)"
 pt_GW,"Portuguese (Guinea-Bissau)"
+pt_LU,"Portuguese (Luxembourg)"
 pt_MO,"Portuguese (Macau SAR China)"
 pt_MZ,"Portuguese (Mozambique)"
 pt_ST,"Portuguese (São Tomé & Príncipe)"
@@ -485,7 +487,9 @@ so_KE,"Somali (Kenya)"
 so_SO,"Somali (Somalia)"
 es,Spanish
 es_AR,"Spanish (Argentina)"
+es_BZ,"Spanish (Belize)"
 es_BO,"Spanish (Bolivia)"
+es_BR,"Spanish (Brazil)"
 es_IC,"Spanish (Canary Islands)"
 es_EA,"Spanish (Ceuta & Melilla)"
 es_CL,"Spanish (Chile)"
@@ -510,6 +514,7 @@ es_US,"Spanish (United States)"
 es_UY,"Spanish (Uruguay)"
 es_VE,"Spanish (Venezuela)"
 sw,Swahili
+sw_CD,"Swahili (Congo - Kinshasa)"
 sw_KE,"Swahili (Kenya)"
 sw_TZ,"Swahili (Tanzania)"
 sw_UG,"Swahili (Uganda)"
@@ -542,8 +547,6 @@ ur,Urdu
 ur_IN,"Urdu (India)"
 ur_PK,"Urdu (Pakistan)"
 ug,Uyghur
-ug_Arab_CN,"Uyghur (Arabic, China)"
-ug_Arab,"Uyghur (Arabic)"
 ug_CN,"Uyghur (China)"
 uz_Cyrl_UZ,"Uzbek (Cyrillic, Uzbekistan)"
 uz_Cyrl,"Uzbek (Cyrillic)"

@@ -12,6 +12,7 @@ de,allemand
 de_DE,"allemand (Allemagne)"
 de_AT,"allemand (Autriche)"
 de_BE,"allemand (Belgique)"
+de_IT,"allemand (Italie)"
 de_LI,"allemand (Liechtenstein)"
 de_LU,"allemand (Luxembourg)"
 de_CH,"allemand (Suisse)"
@@ -19,23 +20,29 @@ am,amharique
 am_ET,"amharique (Éthiopie)"
 en,anglais
 en_ZA,"anglais (Afrique du Sud)"
+en_DE,"anglais (Allemagne)"
 en_AI,"anglais (Anguilla)"
 en_AG,"anglais (Antigua-et-Barbuda)"
 en_AU,"anglais (Australie)"
+en_AT,"anglais (Autriche)"
 en_BS,"anglais (Bahamas)"
 en_BB,"anglais (Barbade)"
 en_BE,"anglais (Belgique)"
 en_BZ,"anglais (Belize)"
 en_BM,"anglais (Bermudes)"
 en_BW,"anglais (Botswana)"
+en_BI,"anglais (Burundi)"
 en_CM,"anglais (Cameroun)"
 en_CA,"anglais (Canada)"
+en_CY,"anglais (Chypre)"
+en_DK,"anglais (Danemark)"
 en_DG,"anglais (Diego Garcia)"
 en_DM,"anglais (Dominique)"
 en_ER,"anglais (Érythrée)"
 en_FM,"anglais (États fédérés de Micronésie)"
 en_US,"anglais (États-Unis)"
 en_FJ,"anglais (Fidji)"
+en_FI,"anglais (Finlande)"
 en_GM,"anglais (Gambie)"
 en_GH,"anglais (Ghana)"
 en_GI,"anglais (Gibraltar)"
@@ -53,12 +60,14 @@ en_FK,"anglais (Îles Malouines)"
 en_MP,"anglais (Îles Mariannes du Nord)"
 en_MH,"anglais (Îles Marshall)"
 en_UM,"anglais (Îles mineures éloignées des États-Unis)"
+en_PN,"anglais (Îles Pitcairn)"
 en_SB,"anglais (Îles Salomon)"
 en_TC,"anglais (Îles Turques-et-Caïques)"
 en_VG,"anglais (Îles Vierges britanniques)"
 en_VI,"anglais (Îles Vierges des États-Unis)"
 en_IN,"anglais (Inde)"
 en_IE,"anglais (Irlande)"
+en_IL,"anglais (Israël)"
 en_JM,"anglais (Jamaïque)"
 en_JE,"anglais (Jersey)"
 en_KE,"anglais (Kenya)"
@@ -80,8 +89,8 @@ en_UG,"anglais (Ouganda)"
 en_PK,"anglais (Pakistan)"
 en_PW,"anglais (Palaos)"
 en_PG,"anglais (Papouasie-Nouvelle-Guinée)"
+en_NL,"anglais (Pays-Bas)"
 en_PH,"anglais (Philippines)"
-en_PN,"anglais (Pitcairn)"
 en_PR,"anglais (Porto Rico)"
 en_HK,"anglais (R.A.S. chinoise de Hong Kong)"
 en_MO,"anglais (R.A.S. chinoise de Macao)"
@@ -97,12 +106,15 @@ en_WS,"anglais (Samoa)"
 en_SC,"anglais (Seychelles)"
 en_SL,"anglais (Sierra Leone)"
 en_SG,"anglais (Singapour)"
+en_SI,"anglais (Slovénie)"
 en_SS,"anglais (Soudan du Sud)"
 en_SD,"anglais (Soudan)"
+en_SE,"anglais (Suède)"
+en_CH,"anglais (Suisse)"
 en_SZ,"anglais (Swaziland)"
 en_TZ,"anglais (Tanzanie)"
 en_IO,"anglais (Territoire britannique de l’océan Indien)"
-en_TK,"anglais (Tokelau)"
+en_TK,"anglais (Tokélaou)"
 en_TO,"anglais (Tonga)"
 en_TT,"anglais (Trinité-et-Tobago)"
 en_TV,"anglais (Tuvalu)"
@@ -148,8 +160,7 @@ az_Cyrl,"azéri (cyrillique)"
 az_Latn_AZ,"azéri (latin, Azerbaïdjan)"
 az_Latn,"azéri (latin)"
 bm,bambara
-bm_Latn_ML,"bambara (latin, Mali)"
-bm_Latn,"bambara (latin)"
+bm_ML,"bambara (Mali)"
 eu,basque
 eu_ES,"basque (Espagne)"
 bn,bengali
@@ -158,7 +169,7 @@ bn_IN,"bengali (Inde)"
 be,biélorusse
 be_BY,"biélorusse (Biélorussie)"
 my,birman
-my_MM,"birman (Myanmar)"
+my_MM,"birman (Myanmar (Birmanie))"
 bs,bosniaque
 bs_BA,"bosniaque (Bosnie-Herzégovine)"
 bs_Cyrl_BA,"bosniaque (cyrillique, Bosnie-Herzégovine)"
@@ -206,7 +217,9 @@ dz,dzongkha
 dz_BT,"dzongkha (Bhoutan)"
 es,espagnol
 es_AR,"espagnol (Argentine)"
+es_BZ,"espagnol (Belize)"
 es_BO,"espagnol (Bolivie)"
+es_BR,"espagnol (Brésil)"
 es_EA,"espagnol (Ceuta et Melilla)"
 es_CL,"espagnol (Chili)"
 es_CO,"espagnol (Colombie)"
@@ -237,6 +250,7 @@ ee,éwé
 ee_GH,"éwé (Ghana)"
 ee_TG,"éwé (Togo)"
 fo,féroïen
+fo_DK,"féroïen (Danemark)"
 fo_FO,"féroïen (Îles Féroé)"
 fi,finnois
 fi_FI,"finnois (Finlande)"
@@ -276,7 +290,7 @@ fr_PF,"français (Polynésie française)"
 fr_CF,"français (République centrafricaine)"
 fr_RW,"français (Rwanda)"
 fr_BL,"français (Saint-Barthélemy)"
-fr_MF,"français (Saint-Martin (partie française))"
+fr_MF,"français (Saint-Martin)"
 fr_PM,"français (Saint-Pierre-et-Miquelon)"
 fr_SN,"français (Sénégal)"
 fr_SC,"français (Seychelles)"
@@ -299,19 +313,15 @@ lg,ganda
 lg_UG,"ganda (Ouganda)"
 ka,géorgien
 ka_GE,"géorgien (Géorgie)"
+gu,goudjerati
+gu_IN,"goudjerati (Inde)"
 el,grec
 el_CY,"grec (Chypre)"
 el_GR,"grec (Grèce)"
 kl,groenlandais
 kl_GL,"groenlandais (Groenland)"
-gu,gujarati
-gu_IN,"gujarati (Inde)"
 ha,haoussa
 ha_GH,"haoussa (Ghana)"
-ha_Latn_GH,"haoussa (latin, Ghana)"
-ha_Latn_NE,"haoussa (latin, Niger)"
-ha_Latn_NG,"haoussa (latin, Nigéria)"
-ha_Latn,"haoussa (latin)"
 ha_NE,"haoussa (Niger)"
 ha_NG,"haoussa (Nigéria)"
 he,hébreu
@@ -329,6 +339,7 @@ ga_IE,"irlandais (Irlande)"
 is,islandais
 is_IS,"islandais (Islande)"
 it,italien
+it_VA,"italien (État de la Cité du Vatican)"
 it_IT,"italien (Italie)"
 it_SM,"italien (Saint-Marin)"
 it_CH,"italien (Suisse)"
@@ -337,20 +348,14 @@ ja_JP,"japonais (Japon)"
 kn,kannada
 kn_IN,"kannada (Inde)"
 ks,kashmiri
-ks_Arab_IN,"kashmiri (arabe, Inde)"
-ks_Arab,"kashmiri (arabe)"
 ks_IN,"kashmiri (Inde)"
 kk,kazakh
-kk_Cyrl_KZ,"kazakh (cyrillique, Kazakhstan)"
-kk_Cyrl,"kazakh (cyrillique)"
 kk_KZ,"kazakh (Kazakhstan)"
 km,khmer
 km_KH,"khmer (Cambodge)"
 ki,kikuyu
 ki_KE,"kikuyu (Kenya)"
 ky,kirghize
-ky_Cyrl_KG,"kirghize (cyrillique, Kirghizistan)"
-ky_Cyrl,"kirghize (cyrillique)"
 ky_KG,"kirghize (Kirghizistan)"
 lo,lao
 lo_LA,"lao (Laos)"
@@ -371,10 +376,6 @@ mk,macédonien
 mk_MK,"macédonien (Macédoine)"
 ms,malais
 ms_BN,"malais (Brunéi Darussalam)"
-ms_Latn_BN,"malais (latin, Brunéi Darussalam)"
-ms_Latn_MY,"malais (latin, Malaisie)"
-ms_Latn_SG,"malais (latin, Singapour)"
-ms_Latn,"malais (latin)"
 ms_MY,"malais (Malaisie)"
 ms_SG,"malais (Singapour)"
 ml,malayalam
@@ -383,13 +384,11 @@ mg,malgache
 mg_MG,"malgache (Madagascar)"
 mt,maltais
 mt_MT,"maltais (Malte)"
-gv,manx
-gv_IM,"manx (Île de Man)"
+gv,mannois
+gv_IM,"mannois (Île de Man)"
 mr,marathe
 mr_IN,"marathe (Inde)"
 mn,mongol
-mn_Cyrl_MN,"mongol (cyrillique, Mongolie)"
-mn_Cyrl,"mongol (cyrillique)"
 mn_MN,"mongol (Mongolie)"
 nd,"ndébélé du Nord"
 nd_ZW,"ndébélé du Nord (Zimbabwe)"
@@ -420,8 +419,6 @@ os,ossète
 os_GE,"ossète (Géorgie)"
 os_RU,"ossète (Russie)"
 ug,ouïghour
-ug_Arab_CN,"ouïghour (arabe, Chine)"
-ug_Arab,"ouïghour (arabe)"
 ug_CN,"ouïghour (Chine)"
 ur,ourdou
 ur_IN,"ourdou (Inde)"
@@ -458,11 +455,14 @@ pt,portugais
 pt_AO,"portugais (Angola)"
 pt_BR,"portugais (Brésil)"
 pt_CV,"portugais (Cap-Vert)"
+pt_GQ,"portugais (Guinée équatoriale)"
 pt_GW,"portugais (Guinée-Bissau)"
+pt_LU,"portugais (Luxembourg)"
 pt_MZ,"portugais (Mozambique)"
 pt_PT,"portugais (Portugal)"
 pt_MO,"portugais (R.A.S. chinoise de Macao)"
 pt_ST,"portugais (Sao Tomé-et-Principe)"
+pt_CH,"portugais (Suisse)"
 pt_TL,"portugais (Timor oriental)"
 qu,quechua
 qu_BO,"quechua (Bolivie)"
@@ -523,6 +523,7 @@ sv_FI,"suédois (Finlande)"
 sv_AX,"suédois (Îles Åland)"
 sv_SE,"suédois (Suède)"
 sw,swahili
+sw_CD,"swahili (Congo-Kinshasa)"
 sw_KE,"swahili (Kenya)"
 sw_UG,"swahili (Ouganda)"
 sw_TZ,"swahili (Tanzanie)"
@@ -534,7 +535,9 @@ ta_MY,"tamoul (Malaisie)"
 ta_SG,"tamoul (Singapour)"
 ta_LK,"tamoul (Sri Lanka)"
 cs,tchèque
-cs_CZ,"tchèque (République tchèque)"
+cs_CZ,"tchèque (Tchéquie)"
+ce,tchétchène
+ce_RU,"tchétchène (Russie)"
 te,télougou
 te_IN,"télougou (Inde)"
 th,thaï

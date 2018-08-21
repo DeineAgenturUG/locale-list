@@ -1,564 +1,567 @@
 id,value
-af,afrikaans
-af_ZA,"afrikaans (Cənub Afrika)"
-af_NA,"afrikaans (Namibiya)"
-ak,akanca
-ak_GH,"akanca (Qana)"
-sq,alban
-sq_AL,"alban (Albaniya)"
-sq_XK,"alban (Kosovo)"
-sq_MK,"alban (Makedoniya)"
-am,amhar
-am_ET,"amhar (Efiopiya)"
-as,assam
-as_IN,"assam (Һиндистан)"
-bm,bambara
-bm_Latn_ML,"bambara (latın, Mali)"
-bm_Latn,"bambara (latın)"
-eu,bask
-eu_ES,"bask (İspaniya)"
-be,belarus
-be_BY,"belarus (Belarus)"
-bn,benqal
-bn_BD,"benqal (Banqladeş)"
-bn_IN,"benqal (Һиндистан)"
-my,birma
-my_MM,"birma (Myanma)"
-nb,"bokmal norveç"
-nb_NO,"bokmal norveç (Norveç)"
-nb_SJ,"bokmal norveç (Svalbard və Yan Mayen)"
-bg,bolqar
-bg_BG,"bolqar (Bolqariya)"
-bs,bosniak
-bs_BA,"bosniak (Bosniya və Hersoqovina)"
-bs_Cyrl_BA,"bosniak (kiril, Bosniya və Hersoqovina)"
-bs_Cyrl,"bosniak (kiril)"
-bs_Latn_BA,"bosniak (latın, Bosniya və Hersoqovina)"
-bs_Latn,"bosniak (latın)"
-br,Bretonca
-br_FR,"Bretonca (Франса)"
-cs,çex
-cs_CZ,"çex (Çexiya)"
-da,danimarka
-da_DK,"danimarka (Danimarka)"
-da_GL,"danimarka (Qrenlandiya)"
-dz,dzonqa
-dz_BT,"dzonqa (Butan)"
-hy,erməni
-hy_AM,"erməni (Ermənistan)"
-eo,esperanto
-et,eston
-et_EE,"eston (Estoniya)"
-ee,eve
-ee_GH,"eve (Qana)"
-ee_TG,"eve (Toqo)"
-ar,ərəb
-ar_BH,"ərəb (Bəhreyn)"
-ar_AE,"ərəb (Birləşmiş Ərəb Əmirlikləri)"
-ar_SS,"ərəb (Cənubi Sudan)"
-ar_DJ,"ərəb (Cibuti)"
-ar_TD,"ərəb (Çad)"
-ar_ER,"ərəb (Eritreya)"
-ar_DZ,"ərəb (Əlcəzair)"
-ar_PS,"ərəb (Fələstin Əraziləri)"
-ar_JO,"ərəb (İordaniya)"
-ar_IQ,"ərəb (İraq)"
-ar_IL,"ərəb (İsrail)"
-ar_KM,"ərəb (Komor Adaları)"
-ar_KW,"ərəb (Küveyt)"
-ar_QA,"ərəb (Qatar)"
-ar_EH,"ərəb (Qərbi Sahara)"
-ar_LB,"ərəb (Livan)"
-ar_LY,"ərəb (Liviya)"
-ar_MR,"ərəb (Mavritaniya)"
-ar_MA,"ərəb (Mərakeş)"
-ar_EG,"ərəb (Misir)"
-ar_OM,"ərəb (Oman)"
-ar_SA,"ərəb (Səudiyyə Ərəbistanı)"
-ar_SO,"ərəb (Somali)"
-ar_SD,"ərəb (Sudan)"
-ar_SY,"ərəb (Suriya)"
-ar_TN,"ərəb (Tunis)"
-ar_YE,"ərəb (Yəmən)"
-fo,farer
-fo_FO,"farer (Farer Adaları)"
-fa,fars
-fa_AF,"fars (Əfqanıstan)"
-fa_IR,"fars (İran)"
-fi,fin
-fi_FI,"fin (Finlandiya)"
-ff,"fula dili"
-ff_CM,"fula dili (Kamerun)"
-ff_GN,"fula dili (Qvineya)"
-ff_MR,"fula dili (Mavritaniya)"
-ff_SN,"fula dili (Seneqal)"
-ka,gürcü
-ka_GE,"gürcü (Gürcüstan)"
-ha,hausa
-ha_GH,"hausa (Qana)"
-ha_Latn_GH,"hausa (latın, Qana)"
-ha_Latn_NE,"hausa (latın, Niger)"
-ha_Latn_NG,"hausa (latın, Nigeriya)"
-ha_Latn,"hausa (latın)"
-ha_NE,"hausa (Niger)"
-ha_NG,"hausa (Nigeriya)"
-hi,hindi
-hi_IN,"hindi (Һиндистан)"
-nl,holland
-nl_AW,"holland (Aruba)"
-nl_BE,"holland (Belçika)"
-nl_BQ,"holland (Karib Niderlandı)"
-nl_CW,"holland (Kurasao)"
-nl_NL,"holland (Niderland)"
-nl_SX,"holland (Sint Maarten)"
-nl_SR,"holland (Surinam)"
-hr,xorvat
-hr_BA,"xorvat (Bosniya və Hersoqovina)"
-hr_HR,"xorvat (Xorvatiya)"
-ig,iqbo
-ig_NG,"iqbo (Nigeriya)"
-id,indonez
-id_ID,"indonez (İndoneziya)"
-ga,irland
-ga_IE,"irland (İrlandiya)"
-is,island
-is_IS,"island (İslandiya)"
-sv,isveç
-sv_AX,"isveç (Aland Adaları)"
-sv_FI,"isveç (Finlandiya)"
-sv_SE,"isveç (İsveç)"
-he,ivrit
-he_IL,"ivrit (İsrail)"
-kl,kalaallisut
-kl_GL,"kalaallisut (Qrenlandiya)"
-kn,kannada
-kn_IN,"kannada (Һиндистан)"
-ks,kaşmir
-ks_Arab_IN,"kaşmir (ərəb, Һиндистан)"
-ks_Arab,"kaşmir (ərəb)"
-ks_IN,"kaşmir (Һиндистан)"
-ca,katalan
-ca_AD,"katalan (Andorra)"
-ca_ES,"katalan (İspaniya)"
-ca_IT,"katalan (Италија)"
-ca_FR,"katalan (Франса)"
-qu,keçua
-qu_BO,"keçua (Boliviya)"
-qu_EC,"keçua (Ekvador)"
-qu_PE,"keçua (Peru)"
-km,kxmer
-km_KH,"kxmer (Kamboca)"
-ki,kikuyu
-ki_KE,"kikuyu (Keniya)"
-rw,kinyarvanda
-rw_RW,"kinyarvanda (Ruanda)"
-ko,koreya
-ko_KR,"koreya (Cənubi Koreya)"
-ko_KP,"koreya (Şimali Koreya)"
-kw,korn
-kw_GB,"korn (Birləşmiş Krallıq)"
-gl,qalisian
-gl_ES,"qalisian (İspaniya)"
-lg,qanda
-lg_UG,"qanda (Uqanda)"
-kk,qazax
-kk_Cyrl_KZ,"qazax (kiril, Qazaxıstan)"
-kk_Cyrl,"qazax (kiril)"
-kk_KZ,"qazax (Qazaxıstan)"
-fy,"qərbi friz"
-fy_NL,"qərbi friz (Niderland)"
-ky,qırğız
-ky_Cyrl_KG,"qırğız (kiril, Qırğızıstan)"
-ky_Cyrl,"qırğız (kiril)"
-ky_KG,"qırğız (Qırğızıstan)"
-gu,qucarat
-gu_IN,"qucarat (Һиндистан)"
-lo,laos
-lo_LA,"laos (Laos)"
-lv,latış
-lv_LV,"latış (Latviya)"
-ln,linqala
-ln_AO,"linqala (Anqola)"
-ln_CG,"linqala (Konqo - Brazzavil)"
-ln_CD,"linqala (Konqo - Kinşasa)"
-ln_CF,"linqala (Mərkəzi Afrika Respublikası)"
-lt,litva
-lt_LT,"litva (Litva)"
-lu,luba-katanqa
-lu_CD,"luba-katanqa (Konqo - Kinşasa)"
-lb,lüksemburq
-lb_LU,"lüksemburq (Lüksemburq)"
-hu,macar
-hu_HU,"macar (Macarıstan)"
-mk,makedon
-mk_MK,"makedon (Makedoniya)"
-mg,malaqas
-mg_MG,"malaqas (Madaqaskar)"
-ms,malay
-ms_BN,"malay (Bruney)"
-ms_Latn_BN,"malay (latın, Bruney)"
-ms_Latn_MY,"malay (latın, Malayziya)"
-ms_Latn_SG,"malay (latın, Sinqapur)"
-ms_Latn,"malay (latın)"
-ms_MY,"malay (Malayziya)"
-ms_SG,"malay (Sinqapur)"
-ml,malayalam
-ml_IN,"malayalam (Һиндистан)"
-mt,malta
-mt_MT,"malta (Malta)"
-gv,manks
-gv_IM,"manks (Men Adası)"
-mr,marati
-mr_IN,"marati (Һиндистан)"
-mn,monqol
-mn_Cyrl_MN,"monqol (kiril, Monqoliya)"
-mn_Cyrl,"monqol (kiril)"
-mn_MN,"monqol (Monqoliya)"
-ne,nepal
-ne_NP,"nepal (Nepal)"
-ne_IN,"nepal (Һиндистан)"
-no,"norveç dili"
-no_NO,"norveç dili (Norveç)"
-nn,"nünorsk norveç"
-nn_NO,"nünorsk norveç (Norveç)"
-or,oriya
-or_IN,"oriya (Һиндистан)"
-om,oromo
-om_ET,"oromo (Efiopiya)"
-om_KE,"oromo (Keniya)"
-os,"osetik dili"
-os_GE,"osetik dili (Gürcüstan)"
-os_RU,"osetik dili (Русија)"
-uz,özbək
-uz_AF,"özbək (Əfqanıstan)"
-uz_Arab_AF,"özbək (ərəb, Əfqanıstan)"
-uz_Arab,"özbək (ərəb)"
-uz_Cyrl_UZ,"özbək (kiril, Özbəkistan)"
-uz_Cyrl,"özbək (kiril)"
-uz_Latn_UZ,"özbək (latın, Özbəkistan)"
-uz_Latn,"özbək (latın)"
-uz_UZ,"özbək (Özbəkistan)"
-pa,pəncab
-pa_Arab_PK,"pəncab (ərəb, Pakistan)"
-pa_Arab,"pəncab (ərəb)"
-pa_Guru_IN,"pəncab (qurmuxi, Һиндистан)"
-pa_Guru,"pəncab (qurmuxi)"
-pa_PK,"pəncab (Pakistan)"
-pa_IN,"pəncab (Һиндистан)"
-pl,polyak
-pl_PL,"polyak (Polşa)"
-ps,puştu
-ps_AF,"puştu (Əfqanıstan)"
-rm,retoroman
-rm_CH,"retoroman (İsveçrə)"
-ro,rumın
-ro_MD,"rumın (Moldova)"
-ro_RO,"rumın (Rumıniya)"
-rn,rundi
-rn_BI,"rundi (Burundi)"
-sg,sanqo
-sg_CF,"sanqo (Mərkəzi Afrika Respublikası)"
-sr,serb
-sr_BA,"serb (Bosniya və Hersoqovina)"
-sr_Cyrl_BA,"serb (kiril, Bosniya və Hersoqovina)"
-sr_Cyrl_XK,"serb (kiril, Kosovo)"
-sr_Cyrl_ME,"serb (kiril, Monteneqro)"
-sr_Cyrl_RS,"serb (kiril, Serbiya)"
-sr_Cyrl,"serb (kiril)"
-sr_XK,"serb (Kosovo)"
-sr_Latn_BA,"serb (latın, Bosniya və Hersoqovina)"
-sr_Latn_XK,"serb (latın, Kosovo)"
-sr_Latn_ME,"serb (latın, Monteneqro)"
-sr_Latn_RS,"serb (latın, Serbiya)"
-sr_Latn,"serb (latın)"
-sr_ME,"serb (Monteneqro)"
-sr_RS,"serb (Serbiya)"
-sh,serb-xorvatca
-sh_BA,"serb-xorvatca (Bosniya və Hersoqovina)"
+no,norveç
+no_NO,"norveç (Норвеч)"
+sh,serb-xorvat
+sh_BA,"serb-xorvat (Боснија вә Һерсеговина)"
 ii,"siçuan yi"
 ii_CN,"siçuan yi (Чин)"
-si,sinhal
-si_LK,"sinhal (Şri Lanka)"
-gd,"skot gaelik dili"
-gd_GB,"skot gaelik dili (Birləşmiş Krallıq)"
-sk,slovak
-sk_SK,"slovak (Slovakiya)"
-sl,sloven
-sl_SI,"sloven (Sloveniya)"
-so,somali
-so_DJ,"somali (Cibuti)"
-so_ET,"somali (Efiopiya)"
-so_KE,"somali (Keniya)"
-so_SO,"somali (Somali)"
-sw,suahili
-sw_KE,"suahili (Keniya)"
-sw_TZ,"suahili (Tanzaniya)"
-sw_UG,"suahili (Uqanda)"
-nd,"şimali ndebele"
-nd_ZW,"şimali ndebele (Zimbabve)"
-se,"şimali sami"
-se_FI,"şimali sami (Finlandiya)"
-se_SE,"şimali sami (İsveç)"
-se_NO,"şimali sami (Norveç)"
-sn,şona
-sn_ZW,"şona (Zimbabve)"
-tl,"taqaloq dili"
-tl_PH,"taqaloq dili (Filippin)"
-ta,tamil
-ta_MY,"tamil (Malayziya)"
-ta_SG,"tamil (Sinqapur)"
-ta_LK,"tamil (Şri Lanka)"
-ta_IN,"tamil (Һиндистан)"
-th,tay
-th_TH,"tay (Tayland)"
-te,teluqu
-te_IN,"teluqu (Һиндистан)"
-bo,tibet
-bo_IN,"tibet (Һиндистан)"
-bo_CN,"tibet (Чин)"
-ti,tiqrin
-ti_ET,"tiqrin (Efiopiya)"
-ti_ER,"tiqrin (Eritreya)"
-to,tonqa
-to_TO,"tonqa (Tonqa)"
-tr,türk
-tr_CY,"türk (Kipr)"
-tr_TR,"türk (Türkiya)"
-cy,uels
-cy_GB,"uels (Birləşmiş Krallıq)"
-uk,ukrayna
-uk_UA,"ukrayna (Ukrayna)"
-ur,urdu
-ur_PK,"urdu (Pakistan)"
-ur_IN,"urdu (Һиндистан)"
-ug,uyğur
-ug_Arab_CN,"uyğur (ərəb, Чин)"
-ug_Arab,"uyğur (ərəb)"
-ug_CN,"uyğur (Чин)"
-vi,vyetnam
-vi_VN,"vyetnam (Vyetnam)"
-yi,"Yahudi dili"
-yo,yoruba
-yo_BJ,"yoruba (Benin)"
-yo_NG,"yoruba (Nigeriya)"
-el,yunan
-el_CY,"yunan (Kipr)"
-el_GR,"yunan (Yunanıstan)"
-zu,zulu
-zu_ZA,"zulu (Cənub Afrika)"
-az,Азәрбајҹан
-az_Cyrl_AZ,"Азәрбајҹан (kiril, Азәрбајҹан)"
-az_Cyrl,"Азәрбајҹан (kiril)"
-az_Latn_AZ,"Азәрбајҹан (latın, Азәрбајҹан)"
-az_Latn,"Азәрбајҹан (latın)"
-az_AZ,"Азәрбајҹан (Азәрбајҹан)"
-de,алманҹа
-de_AT,"алманҹа (Avstriya)"
-de_BE,"алманҹа (Belçika)"
-de_CH,"алманҹа (İsveçrə)"
-de_LI,"алманҹа (Lixtenşteyn)"
-de_LU,"алманҹа (Lüksemburq)"
-de_DE,"алманҹа (Алманија)"
-en,инҝилисҹә
-en_VI,"инҝилисҹә (ABŞ Vircin Adaları)"
-en_AS,"инҝилисҹә (Amerika Samoası)"
-en_AI,"инҝилисҹә (Angila)"
-en_AG,"инҝилисҹә (Antiqua və Barbuda)"
-en_AU,"инҝилисҹә (Avstraliya)"
-en_BS,"инҝилисҹә (Baham Adaları)"
-en_BB,"инҝилисҹә (Barbados)"
-en_BE,"инҝилисҹә (Belçika)"
-en_BZ,"инҝилисҹә (Beliz)"
-en_BM,"инҝилисҹә (Bermuda)"
-en_GB,"инҝилисҹә (Birləşmiş Krallıq)"
-en_UM,"инҝилисҹә (Birləşmiş Ştatlar Uzaq Adalar)"
-en_BW,"инҝилисҹә (Botsvana)"
-en_IO,"инҝилисҹә (Britaniya Hind Okeanı Ərazisi)"
-en_VG,"инҝилисҹә (Britaniya Vircin Adaları)"
-en_JE,"инҝилисҹә (Cersi)"
-en_ZA,"инҝилисҹә (Cənub Afrika)"
-en_SS,"инҝилисҹә (Cənubi Sudan)"
-en_DG,"инҝилисҹә (Dieqo Qarsiya)"
-en_DM,"инҝилисҹә (Dominika)"
-en_ER,"инҝилисҹә (Eritreya)"
-en_FJ,"инҝилисҹә (Fici)"
-en_PH,"инҝилисҹә (Filippin)"
-en_FK,"инҝилисҹә (Folklend Adaları)"
-en_GG,"инҝилисҹә (Gernsey)"
-en_GI,"инҝилисҹә (Gibraltar)"
-en_HK,"инҝилисҹә (Honq Konq Xüsusi İnzibati Ərazi Çin)"
-en_IE,"инҝилисҹә (İrlandiya)"
-en_CM,"инҝилисҹә (Kamerun)"
-en_CA,"инҝилисҹә (Kanada)"
-en_KY,"инҝилисҹә (Kayman Adaları)"
-en_KE,"инҝилисҹә (Keniya)"
-en_KI,"инҝилисҹә (Kiribati)"
-en_CC,"инҝилисҹә (Kokos Adaları)"
-en_CK,"инҝилисҹә (Kuk Adaları)"
-en_GM,"инҝилисҹә (Qambiya)"
-en_GH,"инҝилисҹә (Qana)"
-en_GD,"инҝилисҹә (Qrenada)"
-en_GU,"инҝилисҹә (Quam)"
-en_GY,"инҝилисҹә (Qviyana)"
-en_LS,"инҝилисҹә (Lesoto)"
-en_LR,"инҝилисҹә (Liberiya)"
-en_MG,"инҝилисҹә (Madaqaskar)"
-en_MO,"инҝилисҹә (Makao Xüsusi İnzibati Ərazi Çin)"
-en_MW,"инҝилисҹә (Malavi)"
-en_MY,"инҝилисҹә (Malayziya)"
-en_MT,"инҝилисҹә (Malta)"
-en_MH,"инҝилисҹә (Marşal Adaları)"
-en_MU,"инҝилисҹә (Mavriki)"
-en_IM,"инҝилисҹә (Men Adası)"
-en_FM,"инҝилисҹә (Mikroneziya)"
-en_CX,"инҝилисҹә (Milad Adası)"
-en_MS,"инҝилисҹә (Monserat)"
-en_SH,"инҝилисҹә (Müqəddəs Yelena)"
-en_NA,"инҝилисҹә (Namibiya)"
-en_NR,"инҝилисҹә (Nauru)"
-en_NG,"инҝилисҹә (Nigeriya)"
-en_NU,"инҝилисҹә (Niue)"
-en_NF,"инҝилисҹә (Norfolk Adası)"
-en_PK,"инҝилисҹә (Pakistan)"
-en_PW,"инҝилисҹә (Palau)"
-en_PG,"инҝилисҹә (Papua Yeni Qvineya)"
-en_PN,"инҝилисҹә (Pitkern Adaları)"
-en_PR,"инҝилисҹә (Puerto Riko)"
-en_RW,"инҝилисҹә (Ruanda)"
-en_WS,"инҝилисҹә (Samoa)"
-en_KN,"инҝилисҹә (San Kits və Nevis)"
-en_LC,"инҝилисҹә (San Lüsiya)"
-en_VC,"инҝилисҹә (San Vinsent və Qrenada)"
-en_SC,"инҝилисҹә (Seyşel Adaları)"
-en_SL,"инҝилисҹә (Siera Leon)"
-en_SG,"инҝилисҹә (Sinqapur)"
-en_SX,"инҝилисҹә (Sint Maarten)"
-en_SB,"инҝилисҹә (Solomon Adaları)"
-en_SD,"инҝилисҹә (Sudan)"
-en_SZ,"инҝилисҹә (Svazilend)"
-en_MP,"инҝилисҹә (Şimali Mariana Adaları)"
-en_TZ,"инҝилисҹә (Tanzaniya)"
-en_TK,"инҝилисҹә (Tokelau)"
-en_TO,"инҝилисҹә (Tonqa)"
-en_TT,"инҝилисҹә (Trinidad və Tobaqo)"
-en_TC,"инҝилисҹә (Turks və Kaikos Adaları)"
-en_TV,"инҝилисҹә (Tuvalu)"
-en_UG,"инҝилисҹә (Uqanda)"
-en_VU,"инҝилисҹә (Vanuatu)"
-en_JM,"инҝилисҹә (Yamayka)"
-en_NZ,"инҝилисҹә (Yeni Zelandiya)"
-en_ZM,"инҝилисҹә (Zambiya)"
-en_ZW,"инҝилисҹә (Zimbabve)"
-en_US,"инҝилисҹә (Америка Бирләшмиш Штатлары)"
-en_IN,"инҝилисҹә (Һиндистан)"
-es,испанҹа
-es_AR,"испанҹа (Argentina)"
-es_BO,"испанҹа (Boliviya)"
-es_CL,"испанҹа (Çili)"
-es_DO,"испанҹа (Dominikan Respublikası)"
-es_EC,"испанҹа (Ekvador)"
-es_GQ,"испанҹа (Ekvatorial Qvineya)"
-es_PH,"испанҹа (Filippin)"
-es_HN,"испанҹа (Honduras)"
-es_ES,"испанҹа (İspaniya)"
-es_IC,"испанҹа (Kanar Adaları)"
-es_CO,"испанҹа (Kolumbiya)"
-es_CR,"испанҹа (Kosta Rika)"
-es_CU,"испанҹа (Kuba)"
-es_GT,"испанҹа (Qvatemala)"
-es_MX,"испанҹа (Meksika)"
-es_NI,"испанҹа (Nikaraqua)"
-es_PA,"испанҹа (Panama)"
-es_PY,"испанҹа (Paraqvay)"
-es_PE,"испанҹа (Peru)"
-es_PR,"испанҹа (Puerto Riko)"
-es_SV,"испанҹа (Salvador)"
-es_EA,"испанҹа (Seuta və Melilya)"
-es_UY,"испанҹа (Uruqvay)"
-es_VE,"испанҹа (Venesuela)"
-es_US,"испанҹа (Америка Бирләшмиш Штатлары)"
-it,италјанҹа
-it_CH,"италјанҹа (İsveçrə)"
-it_SM,"италјанҹа (San Marino)"
-it_IT,"италјанҹа (Италија)"
-ja,јапонҹа
-ja_JP,"јапонҹа (Јапонија)"
-pt,португалҹа
-pt_AO,"португалҹа (Anqola)"
-pt_CV,"португалҹа (Kape Verde)"
-pt_GW,"португалҹа (Qvineya-Bisau)"
-pt_MO,"португалҹа (Makao Xüsusi İnzibati Ərazi Çin)"
-pt_MZ,"португалҹа (Mozambik)"
-pt_PT,"португалҹа (Portuqal)"
-pt_ST,"португалҹа (Sao Tome və Prinsip)"
-pt_TL,"португалҹа (Şərqi Timor)"
-pt_BR,"португалҹа (Бразилија)"
-ru,русҹа
-ru_BY,"русҹа (Belarus)"
-ru_KZ,"русҹа (Qazaxıstan)"
-ru_KG,"русҹа (Qırğızıstan)"
-ru_MD,"русҹа (Moldova)"
-ru_UA,"русҹа (Ukrayna)"
-ru_RU,"русҹа (Русија)"
-fr,франсызҹа
-fr_BE,"франсызҹа (Belçika)"
-fr_BJ,"франсызҹа (Benin)"
-fr_BF,"франсызҹа (Burkina Faso)"
-fr_BI,"франсызҹа (Burundi)"
-fr_DJ,"франсызҹа (Cibuti)"
-fr_TD,"франсызҹа (Çad)"
-fr_GQ,"франсызҹа (Ekvatorial Qvineya)"
-fr_DZ,"франсызҹа (Əlcəzair)"
-fr_CI,"франсызҹа (Fil Dişi Sahili)"
-fr_GF,"франсызҹа (Fransız Qviyanası)"
-fr_PF,"франсызҹа (Fransız Polineziyası)"
-fr_HT,"франсызҹа (Haiti)"
-fr_CH,"франсызҹа (İsveçrə)"
-fr_CM,"франсызҹа (Kamerun)"
-fr_CA,"франсызҹа (Kanada)"
-fr_KM,"франсызҹа (Komor Adaları)"
-fr_CG,"франсызҹа (Konqo - Brazzavil)"
-fr_CD,"франсызҹа (Konqo - Kinşasa)"
-fr_GA,"франсызҹа (Qabon)"
-fr_GP,"франсызҹа (Qvadelupa)"
-fr_GN,"франсызҹа (Qvineya)"
-fr_LU,"франсызҹа (Lüksemburq)"
-fr_MG,"франсызҹа (Madaqaskar)"
-fr_ML,"франсызҹа (Mali)"
-fr_MQ,"франсызҹа (Martinik)"
-fr_MU,"франсызҹа (Mavriki)"
-fr_MR,"франсызҹа (Mavritaniya)"
-fr_YT,"франсызҹа (Mayot)"
-fr_MA,"франсызҹа (Mərakeş)"
-fr_CF,"франсызҹа (Mərkəzi Afrika Respublikası)"
-fr_MC,"франсызҹа (Monako)"
-fr_NE,"франсызҹа (Niger)"
-fr_RE,"франсызҹа (Reunion)"
-fr_RW,"франсызҹа (Ruanda)"
-fr_BL,"франсызҹа (San Bartolomey)"
-fr_MF,"франсызҹа (San Martin)"
-fr_PM,"франсызҹа (San Pier və Mikelon)"
-fr_SN,"франсызҹа (Seneqal)"
-fr_SC,"франсызҹа (Seyşel Adaları)"
-fr_SY,"франсызҹа (Suriya)"
-fr_TG,"франсызҹа (Toqo)"
-fr_TN,"франсызҹа (Tunis)"
-fr_WF,"франсызҹа (Uolis və Futuna)"
-fr_VU,"франсызҹа (Vanuatu)"
-fr_NC,"франсызҹа (Yeni Kaledoniya)"
-fr_FR,"франсызҹа (Франса)"
-zh,чинҹә
-zh_Hant_HK,"чинҹә (ənənəvi han, Honq Konq Xüsusi İnzibati Ərazi Çin)"
-zh_Hant_MO,"чинҹә (ənənəvi han, Makao Xüsusi İnzibati Ərazi Çin)"
-zh_Hant_TW,"чинҹә (ənənəvi han, Tayvan)"
-zh_Hant,"чинҹә (ənənəvi han)"
-zh_HK,"чинҹә (Honq Konq Xüsusi İnzibati Ərazi Çin)"
-zh_MO,"чинҹә (Makao Xüsusi İnzibati Ərazi Çin)"
-zh_Hans_HK,"чинҹә (sadələşmiş han, Honq Konq Xüsusi İnzibati Ərazi Çin)"
-zh_Hans_MO,"чинҹә (sadələşmiş han, Makao Xüsusi İnzibati Ərazi Çin)"
-zh_Hans_SG,"чинҹә (sadələşmiş han, Sinqapur)"
-zh_Hans_CN,"чинҹә (sadələşmiş han, Чин)"
-zh_Hans,"чинҹә (sadələşmiş han)"
-zh_SG,"чинҹә (Sinqapur)"
-zh_TW,"чинҹә (Tayvan)"
-zh_CN,"чинҹә (Чин)"
+tl,taqaloq
+tl_PH,"taqaloq (Филиппин)"
+az,азәрбајҹан
+az_Latn_AZ,"азәрбајҹан (latın, Азәрбајҹан)"
+az_Latn,"азәрбајҹан (latın)"
+az_AZ,"азәрбајҹан (Азәрбајҹан)"
+az_Cyrl_AZ,"азәрбајҹан (Кирил, Азәрбајҹан)"
+az_Cyrl,"азәрбајҹан (Кирил)"
+ak,акан
+ak_GH,"акан (Гана)"
+sq,албан
+sq_MK,"албан (Makedoniya)"
+sq_AL,"албан (Албанија)"
+sq_XK,"албан (Косово)"
+de,алман
+de_AT,"алман (Австрија)"
+de_DE,"алман (Алманија)"
+de_BE,"алман (Белчика)"
+de_CH,"алман (Исвечрә)"
+de_IT,"алман (Италија)"
+de_LI,"алман (Лихтенштејн)"
+de_LU,"алман (Лүксембург)"
+am,амһар
+am_ET,"амһар (Ефиопија)"
+as,ассам
+as_IN,"ассам (Һиндистан)"
+af,африкаанс
+af_NA,"африкаанс (Намибија)"
+af_ZA,"африкаанс (Ҹәнуб Африка)"
+ar,әрәб
+ar_PS,"әрәб (Fələstin Əraziləri)"
+ar_EH,"әрәб (Qərbi Saxara)"
+ar_DZ,"әрәб (Әлҹәзаир)"
+ar_BH,"әрәб (Бәһрејн)"
+ar_AE,"әрәб (Бирләшмиш Әрәб Әмирликләри)"
+ar_QA,"әрәб (Гәтәр)"
+ar_ER,"әрәб (Еритреја)"
+ar_JO,"әрәб (Иорданија)"
+ar_IQ,"әрәб (Ираг)"
+ar_IL,"әрәб (Исраил)"
+ar_YE,"әрәб (Јәмән)"
+ar_KM,"әрәб (Комор адалары)"
+ar_KW,"әрәб (Күвејт)"
+ar_LB,"әрәб (Ливан)"
+ar_LY,"әрәб (Ливија)"
+ar_MR,"әрәб (Мавританија)"
+ar_MA,"әрәб (Мәракеш)"
+ar_EG,"әрәб (Мисир)"
+ar_OM,"әрәб (Оман)"
+ar_SA,"әрәб (Сәудијјә Әрәбистаны)"
+ar_SO,"әрәб (Сомали)"
+ar_SD,"әрәб (Судан)"
+ar_SY,"әрәб (Сурија)"
+ar_TN,"әрәб (Тунис)"
+ar_TD,"әрәб (Чад)"
+ar_SS,"әрәб (Ҹәнуби Судан)"
+ar_DJ,"әрәб (Ҹибути)"
+bm,бамбара
+bm_ML,"бамбара (Мали)"
+eu,баск
+eu_ES,"баск (Испанија)"
+be,беларус
+be_BY,"беларус (Беларус)"
+bn,бенгал
+bn_BD,"бенгал (Бангладеш)"
+bn_IN,"бенгал (Һиндистан)"
+my,бирман
+my_MM,"бирман (Мјанма)"
+nb,"бокмал норвеч"
+nb_NO,"бокмал норвеч (Норвеч)"
+nb_SJ,"бокмал норвеч (Свалбард вә Јан-Мајен)"
+bs,босниак
+bs_Latn_BA,"босниак (latın, Боснија вә Һерсеговина)"
+bs_Latn,"босниак (latın)"
+bs_BA,"босниак (Боснија вә Һерсеговина)"
+bs_Cyrl_BA,"босниак (Кирил, Боснија вә Һерсеговина)"
+bs_Cyrl,"босниак (Кирил)"
+br,бретон
+br_FR,"бретон (Франса)"
+bg,булгар
+bg_BG,"булгар (Болгарыстан)"
+vi,вјетнам
+vi_VN,"вјетнам (Вјетнам)"
+kk,газах
+kk_KZ,"газах (Газахыстан)"
+gl,галисија
+gl_ES,"галисија (Испанија)"
+lg,ганда
+lg_UG,"ганда (Уганда)"
+fy,"гәрби фриз"
+fy_NL,"гәрби фриз (Нидерланд)"
+gu,гуҹарат
+gu_IN,"гуҹарат (Һиндистан)"
+ky,гырғыз
+ky_KG,"гырғыз (Гырғызыстан)"
+da,данимарка
+da_GL,"данимарка (Гренландија)"
+da_DK,"данимарка (Данимарка)"
+dz,дзонга
+dz_BT,"дзонга (Бутан)"
+ee,еве
+ee_GH,"еве (Гана)"
+ee_TG,"еве (Того)"
+hy,ермәни
+hy_AM,"ермәни (Ермәнистан)"
+eo,есперанто
+et,естон
+et_EE,"естон (Естонија)"
+zu,зулу
+zu_ZA,"зулу (Ҹәнуб Африка)"
+he,иврит
+he_IL,"иврит (Исраил)"
+ig,игбо
+ig_NG,"игбо (Ниҝерија)"
+yi,идиш
+id,индонезија
+id_ID,"индонезија (Индонезија)"
+en,инҝилис
+en_VI,"инҝилис (АБШ Вирҝин адалары)"
+en_UM,"инҝилис (АБШ-а бағлы кичик адаҹыглар)"
+en_AU,"инҝилис (Австралија)"
+en_AT,"инҝилис (Австрија)"
+en_DE,"инҝилис (Алманија)"
+en_US,"инҝилис (Америка Бирләшмиш Штатлары)"
+en_AS,"инҝилис (Америка Самоасы)"
+en_AI,"инҝилис (Анҝилја)"
+en_AG,"инҝилис (Антигуа вә Барбуда)"
+en_BB,"инҝилис (Барбадос)"
+en_BS,"инҝилис (Баһам адалары)"
+en_BZ,"инҝилис (Белиз)"
+en_BE,"инҝилис (Белчика)"
+en_BM,"инҝилис (Бермуд адалары)"
+en_GB,"инҝилис (Бирләшмиш Краллыг)"
+en_BW,"инҝилис (Ботсвана)"
+en_VG,"инҝилис (Британијанын Вирҝин адалары)"
+en_IO,"инҝилис (Британтјанын Һинд Океаны Әразиси)"
+en_BI,"инҝилис (Бурунди)"
+en_VU,"инҝилис (Вануату)"
+en_GY,"инҝилис (Гајана)"
+en_GM,"инҝилис (Гамбија)"
+en_GH,"инҝилис (Гана)"
+en_GD,"инҝилис (Гренада)"
+en_GU,"инҝилис (Гуам)"
+en_DK,"инҝилис (Данимарка)"
+en_DG,"инҝилис (Диего Гарсија)"
+en_DM,"инҝилис (Доминика)"
+en_ER,"инҝилис (Еритреја)"
+en_ZM,"инҝилис (Замбија)"
+en_ZW,"инҝилис (Зимбабве)"
+en_IE,"инҝилис (Ирландија)"
+en_SE,"инҝилис (Исвеч)"
+en_CH,"инҝилис (Исвечрә)"
+en_IL,"инҝилис (Исраил)"
+en_JM,"инҝилис (Јамајка)"
+en_NZ,"инҝилис (Јени Зеландија)"
+en_KY,"инҝилис (Кајман адалары)"
+en_CM,"инҝилис (Камерун)"
+en_CA,"инҝилис (Канада)"
+en_KE,"инҝилис (Кенија)"
+en_CY,"инҝилис (Кипр)"
+en_KI,"инҝилис (Кирибати)"
+en_CC,"инҝилис (Кокос (Килинг) адалары)"
+en_CK,"инҝилис (Кук адалары)"
+en_GG,"инҝилис (Ҝернси)"
+en_LS,"инҝилис (Лесото)"
+en_LR,"инҝилис (Либерија)"
+en_MU,"инҝилис (Маврики)"
+en_MG,"инҝилис (Мадагаскар)"
+en_MO,"инҝилис (Макао Хүсуси Инзибати Әрази Чин)"
+en_MW,"инҝилис (Малави)"
+en_MY,"инҝилис (Малајзија)"
+en_MT,"инҝилис (Малта)"
+en_MH,"инҝилис (Маршал адалары)"
+en_IM,"инҝилис (Мен адасы)"
+en_FM,"инҝилис (Микронезија)"
+en_CX,"инҝилис (Милад адасы)"
+en_MS,"инҝилис (Монсерат)"
+en_SH,"инҝилис (Мүгәддәс Јелена)"
+en_NA,"инҝилис (Намибија)"
+en_NR,"инҝилис (Науру)"
+en_NL,"инҝилис (Нидерланд)"
+en_NG,"инҝилис (Ниҝерија)"
+en_NU,"инҝилис (Ниуе)"
+en_NF,"инҝилис (Норфолк адасы)"
+en_PK,"инҝилис (Пакистан)"
+en_PW,"инҝилис (Палау)"
+en_PG,"инҝилис (Папуа-Јени Гвинеја)"
+en_PN,"инҝилис (Питкерн адалары)"
+en_PR,"инҝилис (Пуерто Рико)"
+en_RW,"инҝилис (Руанда)"
+en_WS,"инҝилис (Самоа)"
+en_SZ,"инҝилис (Свазиленд)"
+en_SC,"инҝилис (Сејшел адалары)"
+en_VC,"инҝилис (Сент-Винсент вә Гренадинләр)"
+en_KN,"инҝилис (Сент-Китс вә Невис)"
+en_LC,"инҝилис (Сент-Лусија)"
+en_SG,"инҝилис (Сингапур)"
+en_SX,"инҝилис (Синт-Мартен)"
+en_SL,"инҝилис (Сјерра-Леоне)"
+en_SI,"инҝилис (Словенија)"
+en_SB,"инҝилис (Соломон адалары)"
+en_SD,"инҝилис (Судан)"
+en_TZ,"инҝилис (Танзанија)"
+en_TK,"инҝилис (Токелау)"
+en_TO,"инҝилис (Тонга)"
+en_TC,"инҝилис (Төркс вә Кајкос адалары)"
+en_TT,"инҝилис (Тринидад вә Тобаго)"
+en_TV,"инҝилис (Тувалу)"
+en_UG,"инҝилис (Уганда)"
+en_PH,"инҝилис (Филиппин)"
+en_FI,"инҝилис (Финландија)"
+en_FJ,"инҝилис (Фиҹи)"
+en_FK,"инҝилис (Фолкленд адалары)"
+en_IN,"инҝилис (Һиндистан)"
+en_HK,"инҝилис (Һонк Конг Хүсуси Инзибати Әрази Чин)"
+en_GI,"инҝилис (Ҹәбәллүтариг)"
+en_ZA,"инҝилис (Ҹәнуб Африка)"
+en_SS,"инҝилис (Ҹәнуби Судан)"
+en_JE,"инҝилис (Ҹерси)"
+en_MP,"инҝилис (Шимали Мариан адалары)"
+ga,ирланд
+ga_IE,"ирланд (Ирландија)"
+sv,исвеч
+sv_AX,"исвеч (Аланд адалары)"
+sv_SE,"исвеч (Исвеч)"
+sv_FI,"исвеч (Финландија)"
+is,исланд
+is_IS,"исланд (Исландија)"
+es,испан
+es_US,"испан (Америка Бирләшмиш Штатлары)"
+es_AR,"испан (Арҝентина)"
+es_BZ,"испан (Белиз)"
+es_BO,"испан (Боливија)"
+es_BR,"испан (Бразилија)"
+es_VE,"испан (Венесуела)"
+es_GT,"испан (Гватемала)"
+es_DO,"испан (Доминикан Республикасы)"
+es_EC,"испан (Еквадор)"
+es_GQ,"испан (Екваториал Гвинеја)"
+es_ES,"испан (Испанија)"
+es_IC,"испан (Канар адалары)"
+es_CO,"испан (Колумбија)"
+es_CR,"испан (Коста Рика)"
+es_CU,"испан (Куба)"
+es_MX,"испан (Мексика)"
+es_NI,"испан (Никарагуа)"
+es_PA,"испан (Панама)"
+es_PY,"испан (Парагвај)"
+es_PE,"испан (Перу)"
+es_PR,"испан (Пуерто Рико)"
+es_SV,"испан (Салвадор)"
+es_EA,"испан (Сеута вә Мелилја)"
+es_UY,"испан (Уругвај)"
+es_PH,"испан (Филиппин)"
+es_HN,"испан (Һондурас)"
+es_CL,"испан (Чили)"
+it,италјан
+it_VA,"италјан (Ватикан)"
+it_CH,"италјан (Исвечрә)"
+it_IT,"италјан (Италија)"
+it_SM,"италјан (Сан-Марино)"
+ja,јапон
+ja_JP,"јапон (Јапонија)"
+yo,јоруба
+yo_BJ,"јоруба (Бенин)"
+yo_NG,"јоруба (Ниҝерија)"
+el,јунан
+el_GR,"јунан (Јунаныстан)"
+el_CY,"јунан (Кипр)"
+kl,калааллисут
+kl_GL,"калааллисут (Гренландија)"
+kn,каннада
+kn_IN,"каннада (Һиндистан)"
+ca,каталан
+ca_AD,"каталан (Андорра)"
+ca_ES,"каталан (Испанија)"
+ca_IT,"каталан (Италија)"
+ca_FR,"каталан (Франса)"
+ks,кәшмир
+ks_IN,"кәшмир (Һиндистан)"
+qu,кечуа
+qu_BO,"кечуа (Боливија)"
+qu_EC,"кечуа (Еквадор)"
+qu_PE,"кечуа (Перу)"
+ki,кикују
+ki_KE,"кикују (Кенија)"
+rw,кинјарванда
+rw_RW,"кинјарванда (Руанда)"
+ko,кореја
+ko_KR,"кореја (Ҹәнуби Кореја)"
+ko_KP,"кореја (Шимали Кореја)"
+kw,корн
+kw_GB,"корн (Бирләшмиш Краллыг)"
+km,кхмер
+km_KH,"кхмер (Камбоҹа)"
+ka,ҝүрҹү
+ka_GE,"ҝүрҹү (Ҝүрҹүстан)"
+lo,лаос
+lo_LA,"лаос (Лаос)"
+lv,латыш
+lv_LV,"латыш (Латвија)"
+ln,лингала
+ln_AO,"лингала (Ангола)"
+ln_CG,"лингала (Конго-Браззавил)"
+ln_CD,"лингала (Конго-Киншаса)"
+ln_CF,"лингала (Мәркәзи Африка Республикасы)"
+lt,литва
+lt_LT,"литва (Литва)"
+lu,луба-катанга
+lu_CD,"луба-катанга (Конго-Киншаса)"
+lb,лүксембург
+lb_LU,"лүксембург (Лүксембург)"
+mk,македон
+mk_MK,"македон (Makedoniya)"
+mg,малагас
+mg_MG,"малагас (Мадагаскар)"
+ms,малај
+ms_BN,"малај (Брунеј)"
+ms_MY,"малај (Малајзија)"
+ms_SG,"малај (Сингапур)"
+ml,малајалам
+ml_IN,"малајалам (Һиндистан)"
+mt,малта
+mt_MT,"малта (Малта)"
+gv,манкс
+gv_IM,"манкс (Мен адасы)"
+mr,маратһи
+mr_IN,"маратһи (Һиндистан)"
+hu,маҹар
+hu_HU,"маҹар (Маҹарыстан)"
+mn,монгол
+mn_MN,"монгол (Монголустан)"
+ne,непал
+ne_NP,"непал (Непал)"
+ne_IN,"непал (Һиндистан)"
+nn,"нүнорск норвеч"
+nn_NO,"нүнорск норвеч (Норвеч)"
+or,одија
+or_IN,"одија (Һиндистан)"
+om,оромо
+om_ET,"оромо (Ефиопија)"
+om_KE,"оромо (Кенија)"
+os,осетин
+os_GE,"осетин (Ҝүрҹүстан)"
+os_RU,"осетин (Русија)"
+uz,өзбәк
+uz_Arab_AF,"өзбәк (ərəb, Әфганыстан)"
+uz_Arab,"өзбәк (ərəb)"
+uz_Latn_UZ,"өзбәк (latın, Өзбәкистан)"
+uz_Latn,"өзбәк (latın)"
+uz_AF,"өзбәк (Әфганыстан)"
+uz_Cyrl_UZ,"өзбәк (Кирил, Өзбәкистан)"
+uz_Cyrl,"өзбәк (Кирил)"
+uz_UZ,"өзбәк (Өзбәкистан)"
+pa,пәнҹаб
+pa_Arab_PK,"пәнҹаб (ərəb, Пакистан)"
+pa_Arab,"пәнҹаб (ərəb)"
+pa_Guru_IN,"пәнҹаб (qurmuxi, Һиндистан)"
+pa_Guru,"пәнҹаб (qurmuxi)"
+pa_PK,"пәнҹаб (Пакистан)"
+pa_IN,"пәнҹаб (Һиндистан)"
+pl,полјак
+pl_PL,"полјак (Полша)"
+pt,португал
+pt_AO,"португал (Ангола)"
+pt_BR,"португал (Бразилија)"
+pt_GW,"португал (Гвинеја-Бисау)"
+pt_GQ,"португал (Екваториал Гвинеја)"
+pt_CH,"португал (Исвечрә)"
+pt_CV,"португал (Кабо-Верде)"
+pt_LU,"португал (Лүксембург)"
+pt_MO,"португал (Макао Хүсуси Инзибати Әрази Чин)"
+pt_MZ,"португал (Мозамбик)"
+pt_PT,"португал (Португалија)"
+pt_ST,"португал (Сан-Томе вә Принсипи)"
+pt_TL,"португал (Шәрги Тимор)"
+ps,пушту
+ps_AF,"пушту (Әфганыстан)"
+rm,романш
+rm_CH,"романш (Исвечрә)"
+ro,румын
+ro_MD,"румын (Молдова)"
+ro_RO,"румын (Румынија)"
+rn,рунди
+rn_BI,"рунди (Бурунди)"
+ru,рус
+ru_BY,"рус (Беларус)"
+ru_KZ,"рус (Газахыстан)"
+ru_KG,"рус (Гырғызыстан)"
+ru_MD,"рус (Молдова)"
+ru_RU,"рус (Русија)"
+ru_UA,"рус (Украјна)"
+sg,санго
+sg_CF,"санго (Мәркәзи Африка Республикасы)"
+sr,серб
+sr_Latn_BA,"серб (latın, Боснија вә Һерсеговина)"
+sr_Latn_XK,"серб (latın, Косово)"
+sr_Latn_ME,"серб (latın, Монтенегро)"
+sr_Latn_RS,"серб (latın, Сербија)"
+sr_Latn,"серб (latın)"
+sr_BA,"серб (Боснија вә Һерсеговина)"
+sr_Cyrl_BA,"серб (Кирил, Боснија вә Һерсеговина)"
+sr_Cyrl_XK,"серб (Кирил, Косово)"
+sr_Cyrl_ME,"серб (Кирил, Монтенегро)"
+sr_Cyrl_RS,"серб (Кирил, Сербија)"
+sr_Cyrl,"серб (Кирил)"
+sr_XK,"серб (Косово)"
+sr_ME,"серб (Монтенегро)"
+sr_RS,"серб (Сербија)"
+si,синһала
+si_LK,"синһала (Шри-Ланка)"
+sk,словак
+sk_SK,"словак (Словакија)"
+sl,словен
+sl_SI,"словен (Словенија)"
+so,сомали
+so_ET,"сомали (Ефиопија)"
+so_KE,"сомали (Кенија)"
+so_SO,"сомали (Сомали)"
+so_DJ,"сомали (Ҹибути)"
+sw,суаһили
+sw_KE,"суаһили (Кенија)"
+sw_CD,"суаһили (Конго-Киншаса)"
+sw_TZ,"суаһили (Танзанија)"
+sw_UG,"суаһили (Уганда)"
+th,тај
+th_TH,"тај (Таиланд)"
+ta,тамил
+ta_MY,"тамил (Малајзија)"
+ta_SG,"тамил (Сингапур)"
+ta_IN,"тамил (Һиндистан)"
+ta_LK,"тамил (Шри-Ланка)"
+te,телугу
+te_IN,"телугу (Һиндистан)"
+bo,тибет
+bo_IN,"тибет (Һиндистан)"
+bo_CN,"тибет (Чин)"
+ti,тигрин
+ti_ER,"тигрин (Еритреја)"
+ti_ET,"тигрин (Ефиопија)"
+to,тонган
+to_TO,"тонган (Тонга)"
+tr,түрк
+tr_CY,"түрк (Кипр)"
+tr_TR,"түрк (Түркијә)"
+cy,уелс
+cy_GB,"уелс (Бирләшмиш Краллыг)"
+ug,ујғур
+ug_CN,"ујғур (Чин)"
+uk,украјна
+uk_UA,"украјна (Украјна)"
+ur,урду
+ur_PK,"урду (Пакистан)"
+ur_IN,"урду (Һиндистан)"
+fo,фарер
+fo_DK,"фарер (Данимарка)"
+fo_FO,"фарер (Фарер адалары)"
+fa,фарс
+fa_AF,"фарс (Әфганыстан)"
+fa_IR,"фарс (Иран)"
+fi,фин
+fi_FI,"фин (Финландија)"
+fr,франсыз
+fr_CI,"франсыз (Kотд’ивуар)"
+fr_DZ,"франсыз (Әлҹәзаир)"
+fr_BE,"франсыз (Белчика)"
+fr_BJ,"франсыз (Бенин)"
+fr_BF,"франсыз (Буркина Фасо)"
+fr_BI,"франсыз (Бурунди)"
+fr_VU,"франсыз (Вануату)"
+fr_GA,"франсыз (Габон)"
+fr_GP,"франсыз (Гваделупа)"
+fr_GN,"франсыз (Гвинеја)"
+fr_GQ,"франсыз (Екваториал Гвинеја)"
+fr_CH,"франсыз (Исвечрә)"
+fr_NC,"франсыз (Јени Каледонија)"
+fr_CM,"франсыз (Камерун)"
+fr_CA,"франсыз (Канада)"
+fr_KM,"франсыз (Комор адалары)"
+fr_CG,"франсыз (Конго-Браззавил)"
+fr_CD,"франсыз (Конго-Киншаса)"
+fr_LU,"франсыз (Лүксембург)"
+fr_MU,"франсыз (Маврики)"
+fr_MR,"франсыз (Мавританија)"
+fr_MG,"франсыз (Мадагаскар)"
+fr_YT,"франсыз (Мајот)"
+fr_ML,"франсыз (Мали)"
+fr_MQ,"франсыз (Мартиник)"
+fr_MA,"франсыз (Мәракеш)"
+fr_CF,"франсыз (Мәркәзи Африка Республикасы)"
+fr_MC,"франсыз (Монако)"
+fr_PM,"франсыз (Мүгәддәс Пјер вә Микелон)"
+fr_NE,"франсыз (Ниҝер)"
+fr_RE,"франсыз (Рејунјон)"
+fr_RW,"франсыз (Руанда)"
+fr_SC,"франсыз (Сејшел адалары)"
+fr_SN,"франсыз (Сенегал)"
+fr_MF,"франсыз (Сент Мартин)"
+fr_BL,"франсыз (Сент-Бартелеми)"
+fr_SY,"франсыз (Сурија)"
+fr_TG,"франсыз (Того)"
+fr_TN,"франсыз (Тунис)"
+fr_WF,"франсыз (Уоллис вә Футуна)"
+fr_GF,"франсыз (Франса Гвианасы)"
+fr_PF,"франсыз (Франса Полинезијасы)"
+fr_FR,"франсыз (Франса)"
+fr_HT,"франсыз (Һаити)"
+fr_TD,"франсыз (Чад)"
+fr_DJ,"франсыз (Ҹибути)"
+ff,фула
+ff_GN,"фула (Гвинеја)"
+ff_CM,"фула (Камерун)"
+ff_MR,"фула (Мавританија)"
+ff_SN,"фула (Сенегал)"
+hr,хорват
+hr_BA,"хорват (Боснија вә Һерсеговина)"
+hr_HR,"хорват (Хорватија)"
+ha,һауса
+ha_GH,"һауса (Гана)"
+ha_NE,"һауса (Ниҝер)"
+ha_NG,"һауса (Ниҝерија)"
+hi,һинд
+hi_IN,"һинд (Һиндистан)"
+nl,һолланд
+nl_BQ,"һолланд (Karib Niderlandı)"
+nl_AW,"һолланд (Аруба)"
+nl_BE,"һолланд (Белчика)"
+nl_CW,"һолланд (Курасао)"
+nl_NL,"һолланд (Нидерланд)"
+nl_SX,"һолланд (Синт-Мартен)"
+nl_SR,"һолланд (Суринам)"
+cs,чех
+cs_CZ,"чех (Чехија)"
+ce,чечен
+ce_RU,"чечен (Русија)"
+zh,чин
+zh_Hant_MO,"чин (ənənəvi, Макао Хүсуси Инзибати Әрази Чин)"
+zh_Hant_TW,"чин (ənənəvi, Тајван)"
+zh_Hant_HK,"чин (ənənəvi, Һонк Конг Хүсуси Инзибати Әрази Чин)"
+zh_Hant,"чин (ənənəvi)"
+zh_Hans_MO,"чин (sadələşmiş, Макао Хүсуси Инзибати Әрази Чин)"
+zh_Hans_SG,"чин (sadələşmiş, Сингапур)"
+zh_Hans_HK,"чин (sadələşmiş, Һонк Конг Хүсуси Инзибати Әрази Чин)"
+zh_Hans_CN,"чин (sadələşmiş, Чин)"
+zh_Hans,"чин (sadələşmiş)"
+zh_MO,"чин (Макао Хүсуси Инзибати Әрази Чин)"
+zh_SG,"чин (Сингапур)"
+zh_TW,"чин (Тајван)"
+zh_HK,"чин (Һонк Конг Хүсуси Инзибати Әрази Чин)"
+zh_CN,"чин (Чин)"
+nd,"шимали ндебеле"
+nd_ZW,"шимали ндебеле (Зимбабве)"
+se,"шимали сами"
+se_SE,"шимали сами (Исвеч)"
+se_NO,"шимали сами (Норвеч)"
+se_FI,"шимали сами (Финландија)"
+sn,шона
+sn_ZW,"шона (Зимбабве)"
+gd,"шотланд келт"
+gd_GB,"шотланд келт (Бирләшмиш Краллыг)"

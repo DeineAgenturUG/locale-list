@@ -42,19 +42,16 @@ hy,Armenia
 hy_AM,"Armenia (Armenia)"
 as,Assam
 as_IN,"Assam (India)"
-az,Azerbaijan
-az_AZ,"Azerbaijan (Azerbaijan)"
-az_Latn_AZ,"Azerbaijan (Latin, Azerbaijan)"
-az_Latn,"Azerbaijan (Latin)"
-az_Cyrl_AZ,"Azerbaijan (Sirilik, Azerbaijan)"
-az_Cyrl,"Azerbaijan (Sirilik)"
-id,"Bahasa Indonesia"
-id_ID,"Bahasa Indonesia (Indonesia)"
+az,Azerbaijani
+az_AZ,"Azerbaijani (Azerbaijan)"
+az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
+az_Latn,"Azerbaijani (Latin)"
+az_Cyrl_AZ,"Azerbaijani (Sirilik, Azerbaijan)"
+az_Cyrl,"Azerbaijani (Sirilik)"
 bm,Bambara
-bm_Latn_ML,"Bambara (Latin, Mali)"
-bm_Latn,"Bambara (Latin)"
-eu,Bask
-eu_ES,"Bask (Spanyol)"
+bm_ML,"Bambara (Mali)"
+eu,Basque
+eu_ES,"Basque (Spanyol)"
 nl,Belanda
 nl_AW,"Belanda (Aruba)"
 nl_NL,"Belanda (Belanda)"
@@ -79,27 +76,14 @@ bs_Cyrl_BA,"Bosnia (Sirilik, Bosnia dan Herzegovina)"
 bs_Cyrl,"Bosnia (Sirilik)"
 br,Breton
 br_FR,"Breton (Prancis)"
-bg,Bulgar
-bg_BG,"Bulgar (Bulgaria)"
+bg,Bulgaria
+bg_BG,"Bulgaria (Bulgaria)"
 my,Burma
 my_MM,"Burma (Myanmar (Burma))"
+ce,Chechen
+ce_RU,"Chechen (Rusia)"
 cs,Cheska
-cs_CZ,"Cheska (Republik Cheska)"
-zh,China
-zh_CN,"China (China)"
-zh_HK,"China (Hong Kong SAR China)"
-zh_MO,"China (Makau SAR China)"
-zh_Hans_CN,"China (Sederhana, China)"
-zh_Hans_HK,"China (Sederhana, Hong Kong SAR China)"
-zh_Hans_MO,"China (Sederhana, Makau SAR China)"
-zh_Hans_SG,"China (Sederhana, Singapura)"
-zh_Hans,"China (Sederhana)"
-zh_SG,"China (Singapura)"
-zh_TW,"China (Taiwan)"
-zh_Hant_HK,"China (Tradisional, Hong Kong SAR China)"
-zh_Hant_MO,"China (Tradisional, Makau SAR China)"
-zh_Hant_TW,"China (Tradisional, Taiwan)"
-zh_Hant,"China (Tradisional)"
+cs_CZ,"Cheska (Cheska)"
 da,Dansk
 da_DK,"Dansk (Denmark)"
 da_GL,"Dansk (Grinlandia)"
@@ -111,8 +95,9 @@ et_EE,"Esti (Estonia)"
 ee,Ewe
 ee_GH,"Ewe (Ghana)"
 ee_TG,"Ewe (Togo)"
-fo,Faro
-fo_FO,"Faro (Kepulauan Faroe)"
+fo,Faroe
+fo_DK,"Faroe (Denmark)"
+fo_FO,"Faroe (Kepulauan Faroe)"
 fy,"Frisia Barat"
 fy_NL,"Frisia Barat (Belanda)"
 ff,Fula
@@ -121,21 +106,17 @@ ff_CM,"Fula (Kamerun)"
 ff_MR,"Fula (Mauritania)"
 ff_SN,"Fula (Senegal)"
 gd,"Gaelik Skotlandia"
-gd_GB,"Gaelik Skotlandia (Inggris)"
+gd_GB,"Gaelik Skotlandia (Inggris Raya)"
 gl,Galisia
 gl_ES,"Galisia (Spanyol)"
 lg,Ganda
 lg_UG,"Ganda (Uganda)"
 ka,Georgia
 ka_GE,"Georgia (Georgia)"
-gu,Gujarati
-gu_IN,"Gujarati (India)"
+gu,Gujarat
+gu_IN,"Gujarat (India)"
 ha,Hausa
 ha_GH,"Hausa (Ghana)"
-ha_Latn_GH,"Hausa (Latin, Ghana)"
-ha_Latn_NE,"Hausa (Latin, Niger)"
-ha_Latn_NG,"Hausa (Latin, Nigeria)"
-ha_Latn,"Hausa (Latin)"
 ha_NE,"Hausa (Niger)"
 ha_NG,"Hausa (Nigeria)"
 hi,Hindi
@@ -146,23 +127,30 @@ he,Ibrani
 he_IL,"Ibrani (Israel)"
 ig,Igbo
 ig_NG,"Igbo (Nigeria)"
+id,Indonesia
+id_ID,"Indonesia (Indonesia)"
 en,Inggris
 en_ZA,"Inggris (Afrika Selatan)"
 en_US,"Inggris (Amerika Serikat)"
 en_AI,"Inggris (Anguilla)"
 en_AG,"Inggris (Antigua dan Barbuda)"
 en_AU,"Inggris (Australia)"
+en_AT,"Inggris (Austria)"
 en_BS,"Inggris (Bahama)"
 en_BB,"Inggris (Barbados)"
+en_NL,"Inggris (Belanda)"
 en_BE,"Inggris (Belgia)"
 en_BZ,"Inggris (Belize)"
 en_BM,"Inggris (Bermuda)"
 en_BW,"Inggris (Botswana)"
+en_BI,"Inggris (Burundi)"
+en_DK,"Inggris (Denmark)"
 en_DG,"Inggris (Diego Garcia)"
 en_DM,"Inggris (Dominika)"
 en_ER,"Inggris (Eritrea)"
 en_FJ,"Inggris (Fiji)"
 en_PH,"Inggris (Filipina)"
+en_FI,"Inggris (Finlandia)"
 en_GM,"Inggris (Gambia)"
 en_GH,"Inggris (Ghana)"
 en_GI,"Inggris (Gibraltar)"
@@ -170,17 +158,19 @@ en_GD,"Inggris (Grenada)"
 en_GU,"Inggris (Guam)"
 en_GG,"Inggris (Guernsey)"
 en_GY,"Inggris (Guyana)"
-en_HK,"Inggris (Hong Kong SAR China)"
+en_HK,"Inggris (Hong Kong SAR Tiongkok)"
 en_IN,"Inggris (India)"
-en_GB,"Inggris (Inggris)"
+en_GB,"Inggris (Inggris Raya)"
 en_IE,"Inggris (Irlandia)"
+en_IL,"Inggris (Israel)"
 en_JM,"Inggris (Jamaika)"
+en_DE,"Inggris (Jerman)"
 en_JE,"Inggris (Jersey)"
 en_CM,"Inggris (Kamerun)"
 en_CA,"Inggris (Kanada)"
 en_KE,"Inggris (Kenya)"
 en_KY,"Inggris (Kepulauan Cayman)"
-en_CC,"Inggris (Kepulauan Cocos)"
+en_CC,"Inggris (Kepulauan Cocos (Keeling))"
 en_CK,"Inggris (Kepulauan Cook)"
 en_FK,"Inggris (Kepulauan Malvinas)"
 en_MP,"Inggris (Kepulauan Mariana Utara)"
@@ -196,7 +186,7 @@ en_KI,"Inggris (Kiribati)"
 en_LS,"Inggris (Lesotho)"
 en_LR,"Inggris (Liberia)"
 en_MG,"Inggris (Madagaskar)"
-en_MO,"Inggris (Makau SAR China)"
+en_MO,"Inggris (Makau SAR Tiongkok)"
 en_MW,"Inggris (Malawi)"
 en_MY,"Inggris (Malaysia)"
 en_MT,"Inggris (Malta)"
@@ -225,9 +215,13 @@ en_SC,"Inggris (Seychelles)"
 en_SL,"Inggris (Sierra Leone)"
 en_SG,"Inggris (Singapura)"
 en_SX,"Inggris (Sint Maarten)"
+en_CY,"Inggris (Siprus)"
+en_SI,"Inggris (Slovenia)"
 en_SS,"Inggris (Sudan Selatan)"
 en_SD,"Inggris (Sudan)"
 en_SZ,"Inggris (Swaziland)"
+en_SE,"Inggris (Swedia)"
+en_CH,"Inggris (Swiss)"
 en_TZ,"Inggris (Tanzania)"
 en_TK,"Inggris (Tokelau)"
 en_TO,"Inggris (Tonga)"
@@ -246,11 +240,13 @@ it,Italia
 it_IT,"Italia (Italia)"
 it_SM,"Italia (San Marino)"
 it_CH,"Italia (Swiss)"
+it_VA,"Italia (Vatikan)"
 ja,Jepang
 ja_JP,"Jepang (Jepang)"
 de,Jerman
 de_AT,"Jerman (Austria)"
 de_BE,"Jerman (Belgia)"
+de_IT,"Jerman (Italia)"
 de_DE,"Jerman (Jerman)"
 de_LI,"Jerman (Liechtenstein)"
 de_LU,"Jerman (Luksemburg)"
@@ -260,8 +256,6 @@ kl_GL,"Kalaallisut (Grinlandia)"
 kn,Kannada
 kn_IN,"Kannada (India)"
 ks,Kashmir
-ks_Arab_IN,"Kashmir (Arab, India)"
-ks_Arab,"Kashmir (Arab)"
 ks_IN,"Kashmir (India)"
 ca,Katalan
 ca_AD,"Katalan (Andorra)"
@@ -270,8 +264,6 @@ ca_FR,"Katalan (Prancis)"
 ca_ES,"Katalan (Spanyol)"
 kk,Kazakh
 kk_KZ,"Kazakh (Kazakstan)"
-kk_Cyrl_KZ,"Kazakh (Sirilik, Kazakstan)"
-kk_Cyrl,"Kazakh (Sirilik)"
 km,Khmer
 km_KH,"Khmer (Kamboja)"
 ki,Kikuyu
@@ -280,13 +272,11 @@ rw,Kinyarwanda
 rw_RW,"Kinyarwanda (Rwanda)"
 ky,Kirgiz
 ky_KG,"Kirgiz (Kirgistan)"
-ky_Cyrl_KG,"Kirgiz (Sirilik, Kirgistan)"
-ky_Cyrl,"Kirgiz (Sirilik)"
 ko,Korea
 ko_KR,"Korea (Korea Selatan)"
 ko_KP,"Korea (Korea Utara)"
 kw,Kornish
-kw_GB,"Kornish (Inggris)"
+kw_GB,"Kornish (Inggris Raya)"
 hr,Kroasia
 hr_BA,"Kroasia (Bosnia dan Herzegovina)"
 hr_HR,"Kroasia (Kroasia)"
@@ -319,16 +309,10 @@ mr,Marathi
 mr_IN,"Marathi (India)"
 ms,Melayu
 ms_BN,"Melayu (Brunei)"
-ms_Latn_BN,"Melayu (Latin, Brunei)"
-ms_Latn_MY,"Melayu (Latin, Malaysia)"
-ms_Latn_SG,"Melayu (Latin, Singapura)"
-ms_Latn,"Melayu (Latin)"
 ms_MY,"Melayu (Malaysia)"
 ms_SG,"Melayu (Singapura)"
 mn,Mongolia
 mn_MN,"Mongolia (Mongolia)"
-mn_Cyrl_MN,"Mongolia (Sirilik, Mongolia)"
-mn_Cyrl,"Mongolia (Sirilik)"
 nd,"Ndebele Utara"
 nd_ZW,"Ndebele Utara (Zimbabwe)"
 ne,Nepali
@@ -356,11 +340,14 @@ pl_PL,"Polski (Polandia)"
 pt,Portugis
 pt_AO,"Portugis (Angola)"
 pt_BR,"Portugis (Brasil)"
+pt_GQ,"Portugis (Guinea Ekuatorial)"
 pt_GW,"Portugis (Guinea-Bissau)"
-pt_MO,"Portugis (Makau SAR China)"
+pt_LU,"Portugis (Luksemburg)"
+pt_MO,"Portugis (Makau SAR Tiongkok)"
 pt_MZ,"Portugis (Mozambik)"
 pt_PT,"Portugis (Portugal)"
 pt_ST,"Portugis (Sao Tome dan Principe)"
+pt_CH,"Portugis (Swiss)"
 pt_CV,"Portugis (Tanjung Verde)"
 pt_TL,"Portugis (Timor Leste)"
 fr,Prancis
@@ -400,7 +387,7 @@ fr_FR,"Prancis (Prancis)"
 fr_CF,"Prancis (Republik Afrika Tengah)"
 fr_RE,"Prancis (Réunion)"
 fr_RW,"Prancis (Rwanda)"
-fr_BL,"Prancis (Saint Barthelemy)"
+fr_BL,"Prancis (Saint Barthélemy)"
 fr_MF,"Prancis (Saint Martin)"
 fr_PM,"Prancis (Saint Pierre dan Miquelon)"
 fr_SN,"Prancis (Senegal)"
@@ -461,7 +448,7 @@ sh_BA,"Serbo-Kroasia (Bosnia dan Herzegovina)"
 sn,Shona
 sn_ZW,"Shona (Zimbabwe)"
 ii,"Sichuan Yi"
-ii_CN,"Sichuan Yi (China)"
+ii_CN,"Sichuan Yi (Tiongkok)"
 si,Sinhala
 si_LK,"Sinhala (Sri Lanka)"
 sk,Slovak
@@ -476,7 +463,9 @@ so_SO,"Somali (Somalia)"
 es,Spanyol
 es_US,"Spanyol (Amerika Serikat)"
 es_AR,"Spanyol (Argentina)"
+es_BZ,"Spanyol (Belize)"
 es_BO,"Spanyol (Bolivia)"
+es_BR,"Spanyol (Brasil)"
 es_EA,"Spanyol (Ceuta dan Melilla)"
 es_CL,"Spanyol (Cile)"
 es_EC,"Spanyol (Ekuador)"
@@ -503,6 +492,7 @@ fi,Suomi
 fi_FI,"Suomi (Finlandia)"
 sw,Swahili
 sw_KE,"Swahili (Kenya)"
+sw_CD,"Swahili (Kongo - Kinshasa)"
 sw_TZ,"Swahili (Tanzania)"
 sw_UG,"Swahili (Uganda)"
 sv,Swedia
@@ -521,11 +511,26 @@ te_IN,"Telugu (India)"
 th,Thai
 th_TH,"Thai (Thailand)"
 bo,Tibet
-bo_CN,"Tibet (China)"
 bo_IN,"Tibet (India)"
+bo_CN,"Tibet (Tiongkok)"
 ti,Tigrinya
 ti_ER,"Tigrinya (Eritrea)"
 ti_ET,"Tigrinya (Etiopia)"
+zh,Tionghoa
+zh_HK,"Tionghoa (Hong Kong SAR Tiongkok)"
+zh_MO,"Tionghoa (Makau SAR Tiongkok)"
+zh_Hans_HK,"Tionghoa (Sederhana, Hong Kong SAR Tiongkok)"
+zh_Hans_MO,"Tionghoa (Sederhana, Makau SAR Tiongkok)"
+zh_Hans_SG,"Tionghoa (Sederhana, Singapura)"
+zh_Hans_CN,"Tionghoa (Sederhana, Tiongkok)"
+zh_Hans,"Tionghoa (Sederhana)"
+zh_SG,"Tionghoa (Singapura)"
+zh_TW,"Tionghoa (Taiwan)"
+zh_CN,"Tionghoa (Tiongkok)"
+zh_Hant_HK,"Tionghoa (Tradisional, Hong Kong SAR Tiongkok)"
+zh_Hant_MO,"Tionghoa (Tradisional, Makau SAR Tiongkok)"
+zh_Hant_TW,"Tionghoa (Tradisional, Taiwan)"
+zh_Hant,"Tionghoa (Tradisional)"
 to,Tonga
 to_TO,"Tonga (Tonga)"
 tr,Turki
@@ -537,9 +542,7 @@ ur,Urdu
 ur_IN,"Urdu (India)"
 ur_PK,"Urdu (Pakistan)"
 ug,Uyghur
-ug_Arab_CN,"Uyghur (Arab, China)"
-ug_Arab,"Uyghur (Arab)"
-ug_CN,"Uyghur (China)"
+ug_CN,"Uyghur (Tiongkok)"
 uz,Uzbek
 uz_AF,"Uzbek (Afganistan)"
 uz_Arab_AF,"Uzbek (Arab, Afganistan)"
@@ -552,7 +555,7 @@ uz_UZ,"Uzbek (Uzbekistan)"
 vi,Vietnam
 vi_VN,"Vietnam (Vietnam)"
 cy,Welsh
-cy_GB,"Welsh (Inggris)"
+cy_GB,"Welsh (Inggris Raya)"
 yi,Yiddish
 yo,Yoruba
 yo_BJ,"Yoruba (Benin)"

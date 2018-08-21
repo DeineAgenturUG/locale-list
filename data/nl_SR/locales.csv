@@ -49,11 +49,10 @@ az,Azerbeidzjaans
 az_AZ,"Azerbeidzjaans (Azerbeidzjan)"
 az_Cyrl_AZ,"Azerbeidzjaans (Cyrillisch, Azerbeidzjan)"
 az_Cyrl,"Azerbeidzjaans (Cyrillisch)"
-az_Latn_AZ,"Azerbeidzjaans (Latijn, Azerbeidzjan)"
-az_Latn,"Azerbeidzjaans (Latijn)"
+az_Latn_AZ,"Azerbeidzjaans (Latijns, Azerbeidzjan)"
+az_Latn,"Azerbeidzjaans (Latijns)"
 bm,Bambara
-bm_Latn_ML,"Bambara (Latijn, Mali)"
-bm_Latn,"Bambara (Latijn)"
+bm_ML,"Bambara (Mali)"
 eu,Baskisch
 eu_ES,"Baskisch (Spanje)"
 bn,Bengaals
@@ -65,8 +64,8 @@ bs,Bosnisch
 bs_BA,"Bosnisch (Bosnië en Herzegovina)"
 bs_Cyrl_BA,"Bosnisch (Cyrillisch, Bosnië en Herzegovina)"
 bs_Cyrl,"Bosnisch (Cyrillisch)"
-bs_Latn_BA,"Bosnisch (Latijn, Bosnië en Herzegovina)"
-bs_Latn,"Bosnisch (Latijn)"
+bs_Latn_BA,"Bosnisch (Latijns, Bosnië en Herzegovina)"
+bs_Latn,"Bosnisch (Latijns)"
 br,Bretons
 br_FR,"Bretons (Frankrijk)"
 bg,Bulgaars
@@ -99,6 +98,7 @@ da_GL,"Deens (Groenland)"
 de,Duits
 de_BE,"Duits (België)"
 de_DE,"Duits (Duitsland)"
+de_IT,"Duits (Italië)"
 de_LI,"Duits (Liechtenstein)"
 de_LU,"Duits (Luxemburg)"
 de_AT,"Duits (Oostenrijk)"
@@ -119,17 +119,21 @@ en_BM,"Engels (Bermuda)"
 en_BW,"Engels (Botswana)"
 en_IO,"Engels (Britse Gebieden in de Indische Oceaan)"
 en_VG,"Engels (Britse Maagdeneilanden)"
+en_BI,"Engels (Burundi)"
 en_CA,"Engels (Canada)"
-en_KY,"Engels (Caymaneilanden)"
 en_CX,"Engels (Christmaseiland)"
 en_CC,"Engels (Cocoseilanden)"
 en_CK,"Engels (Cookeilanden)"
+en_CY,"Engels (Cyprus)"
+en_DK,"Engels (Denemarken)"
 en_DG,"Engels (Diego Garcia)"
 en_DM,"Engels (Dominica)"
+en_DE,"Engels (Duitsland)"
 en_ER,"Engels (Eritrea)"
 en_FK,"Engels (Falklandeilanden)"
 en_FJ,"Engels (Fiji)"
 en_PH,"Engels (Filipijnen)"
+en_FI,"Engels (Finland)"
 en_GM,"Engels (Gambia)"
 en_GH,"Engels (Ghana)"
 en_GI,"Engels (Gibraltar)"
@@ -141,8 +145,10 @@ en_HK,"Engels (Hongkong SAR van China)"
 en_IE,"Engels (Ierland)"
 en_IN,"Engels (India)"
 en_IM,"Engels (Isle of Man)"
+en_IL,"Engels (Israël)"
 en_JM,"Engels (Jamaica)"
 en_JE,"Engels (Jersey)"
+en_KY,"Engels (Kaaimaneilanden)"
 en_CM,"Engels (Kameroen)"
 en_KE,"Engels (Kenia)"
 en_KI,"Engels (Kiribati)"
@@ -160,12 +166,14 @@ en_FM,"Engels (Micronesia)"
 en_MS,"Engels (Montserrat)"
 en_NA,"Engels (Namibië)"
 en_NR,"Engels (Nauru)"
+en_NL,"Engels (Nederland)"
 en_NZ,"Engels (Nieuw-Zeeland)"
 en_NG,"Engels (Nigeria)"
 en_NU,"Engels (Niue)"
 en_MP,"Engels (Noordelijke Marianen)"
 en_NF,"Engels (Norfolk)"
 en_UG,"Engels (Oeganda)"
+en_AT,"Engels (Oostenrijk)"
 en_PK,"Engels (Pakistan)"
 en_PW,"Engels (Palau)"
 en_PG,"Engels (Papoea-Nieuw-Guinea)"
@@ -182,6 +190,7 @@ en_SL,"Engels (Sierra Leone)"
 en_SG,"Engels (Singapore)"
 en_SH,"Engels (Sint-Helena)"
 en_SX,"Engels (Sint-Maarten)"
+en_SI,"Engels (Slovenië)"
 en_SD,"Engels (Soedan)"
 en_SZ,"Engels (Swaziland)"
 en_TZ,"Engels (Tanzania)"
@@ -197,6 +206,8 @@ en_ZM,"Engels (Zambia)"
 en_ZW,"Engels (Zimbabwe)"
 en_ZA,"Engels (Zuid-Afrika)"
 en_SS,"Engels (Zuid-Soedan)"
+en_SE,"Engels (Zweden)"
+en_CH,"Engels (Zwitserland)"
 eo,Esperanto
 et,Estisch
 et_EE,"Estisch (Estland)"
@@ -204,6 +215,7 @@ ee,Ewe
 ee_GH,"Ewe (Ghana)"
 ee_TG,"Ewe (Togo)"
 fo,Faeröers
+fo_DK,"Faeröers (Denemarken)"
 fo_FO,"Faeröers (Faeröer)"
 fi,Fins
 fi_FI,"Fins (Finland)"
@@ -276,10 +288,6 @@ gu,Gujarati
 gu_IN,"Gujarati (India)"
 ha,Hausa
 ha_GH,"Hausa (Ghana)"
-ha_Latn_GH,"Hausa (Latijn, Ghana)"
-ha_Latn_NE,"Hausa (Latijn, Niger)"
-ha_Latn_NG,"Hausa (Latijn, Nigeria)"
-ha_Latn,"Hausa (Latijn)"
 ha_NE,"Hausa (Niger)"
 ha_NG,"Hausa (Nigeria)"
 he,Hebreeuws
@@ -299,6 +307,7 @@ id_ID,"Indonesisch (Indonesië)"
 it,Italiaans
 it_IT,"Italiaans (Italië)"
 it_SM,"Italiaans (San Marino)"
+it_VA,"Italiaans (Vaticaanstad)"
 it_CH,"Italiaans (Zwitserland)"
 ja,Japans
 ja_JP,"Japans (Japan)"
@@ -306,20 +315,14 @@ yi,Jiddisch
 kn,Kannada
 kn_IN,"Kannada (India)"
 ks,Kasjmiri
-ks_Arab_IN,"Kasjmiri (Arabisch, India)"
-ks_Arab,"Kasjmiri (Arabisch)"
 ks_IN,"Kasjmiri (India)"
 kk,Kazachs
-kk_Cyrl_KZ,"Kazachs (Cyrillisch, Kazachstan)"
-kk_Cyrl,"Kazachs (Cyrillisch)"
 kk_KZ,"Kazachs (Kazachstan)"
 km,Khmer
 km_KH,"Khmer (Cambodja)"
 rw,Kinyarwanda
 rw_RW,"Kinyarwanda (Rwanda)"
 ky,Kirgizisch
-ky_Cyrl_KG,"Kirgizisch (Cyrillisch, Kirgizië)"
-ky_Cyrl,"Kirgizisch (Cyrillisch)"
 ky_KG,"Kirgizisch (Kirgizië)"
 rn,Kirundi
 rn_BI,"Kirundi (Burundi)"
@@ -354,10 +357,6 @@ ml,Malayalam
 ml_IN,"Malayalam (India)"
 ms,Maleis
 ms_BN,"Maleis (Brunei)"
-ms_Latn_BN,"Maleis (Latijn, Brunei)"
-ms_Latn_MY,"Maleis (Latijn, Maleisië)"
-ms_Latn_SG,"Maleis (Latijn, Singapore)"
-ms_Latn,"Maleis (Latijn)"
 ms_MY,"Maleis (Maleisië)"
 ms_SG,"Maleis (Singapore)"
 mt,Maltees
@@ -367,8 +366,6 @@ gv_IM,"Manx (Isle of Man)"
 mr,Marathi
 mr_IN,"Marathi (India)"
 mn,Mongools
-mn_Cyrl_MN,"Mongools (Cyrillisch, Mongolië)"
-mn_Cyrl,"Mongools (Cyrillisch)"
 mn_MN,"Mongools (Mongolië)"
 nl,Nederlands
 nl_AW,"Nederlands (Aruba)"
@@ -397,8 +394,6 @@ no_NO,"Noors (Noorwegen)"
 or,Odia
 or_IN,"Odia (India)"
 ug,Oeigoers
-ug_Arab_CN,"Oeigoers (Arabisch, China)"
-ug_Arab,"Oeigoers (Arabisch)"
 ug_CN,"Oeigoers (China)"
 uk,Oekraïens
 uk_UA,"Oekraïens (Oekraïne)"
@@ -408,8 +403,8 @@ uz_Arab_AF,"Oezbeeks (Arabisch, Afghanistan)"
 uz_Arab,"Oezbeeks (Arabisch)"
 uz_Cyrl_UZ,"Oezbeeks (Cyrillisch, Oezbekistan)"
 uz_Cyrl,"Oezbeeks (Cyrillisch)"
-uz_Latn_UZ,"Oezbeeks (Latijn, Oezbekistan)"
-uz_Latn,"Oezbeeks (Latijn)"
+uz_Latn_UZ,"Oezbeeks (Latijns, Oezbekistan)"
+uz_Latn,"Oezbeeks (Latijns)"
 uz_UZ,"Oezbeeks (Oezbekistan)"
 os,Ossetisch
 os_GE,"Ossetisch (Georgië)"
@@ -424,13 +419,16 @@ pl_PL,"Pools (Polen)"
 pt,Portugees
 pt_AO,"Portugees (Angola)"
 pt_BR,"Portugees (Brazilië)"
+pt_GQ,"Portugees (Equatoriaal-Guinea)"
 pt_GW,"Portugees (Guinee-Bissau)"
 pt_CV,"Portugees (Kaapverdië)"
+pt_LU,"Portugees (Luxemburg)"
 pt_MO,"Portugees (Macau SAR van China)"
 pt_MZ,"Portugees (Mozambique)"
 pt_TL,"Portugees (Oost-Timor)"
 pt_PT,"Portugees (Portugal)"
 pt_ST,"Portugees (Sao Tomé en Principe)"
+pt_CH,"Portugees (Zwitserland)"
 pa,Punjabi
 pa_Arab_PK,"Punjabi (Arabisch, Pakistan)"
 pa_Arab,"Punjabi (Arabisch)"
@@ -448,12 +446,12 @@ ro,Roemeens
 ro_MD,"Roemeens (Moldavië)"
 ro_RO,"Roemeens (Roemenië)"
 ru,Russisch
+ru_BY,"Russisch (Belarus)"
 ru_KZ,"Russisch (Kazachstan)"
 ru_KG,"Russisch (Kirgizië)"
 ru_MD,"Russisch (Moldavië)"
 ru_UA,"Russisch (Oekraïne)"
 ru_RU,"Russisch (Rusland)"
-ru_BY,"Russisch (Wit-Rusland)"
 sg,Sango
 sg_CF,"Sango (Centraal-Afrikaanse Republiek)"
 gd,Schots-Gaelisch
@@ -466,15 +464,15 @@ sr_Cyrl_ME,"Servisch (Cyrillisch, Montenegro)"
 sr_Cyrl_RS,"Servisch (Cyrillisch, Servië)"
 sr_Cyrl,"Servisch (Cyrillisch)"
 sr_XK,"Servisch (Kosovo)"
-sr_Latn_BA,"Servisch (Latijn, Bosnië en Herzegovina)"
-sr_Latn_XK,"Servisch (Latijn, Kosovo)"
-sr_Latn_ME,"Servisch (Latijn, Montenegro)"
-sr_Latn_RS,"Servisch (Latijn, Servië)"
-sr_Latn,"Servisch (Latijn)"
+sr_Latn_BA,"Servisch (Latijns, Bosnië en Herzegovina)"
+sr_Latn_XK,"Servisch (Latijns, Kosovo)"
+sr_Latn_ME,"Servisch (Latijns, Montenegro)"
+sr_Latn_RS,"Servisch (Latijns, Servië)"
+sr_Latn,"Servisch (Latijns)"
 sr_ME,"Servisch (Montenegro)"
 sr_RS,"Servisch (Servië)"
-sh,Servokroatisch
-sh_BA,"Servokroatisch (Bosnië en Herzegovina)"
+sh,Servo-Kroatisch
+sh_BA,"Servo-Kroatisch (Bosnië en Herzegovina)"
 sn,Shona
 sn_ZW,"Shona (Zimbabwe)"
 si,Singalees
@@ -490,7 +488,9 @@ so_KE,"Somalisch (Kenia)"
 so_SO,"Somalisch (Somalië)"
 es,Spaans
 es_AR,"Spaans (Argentinië)"
+es_BZ,"Spaans (Belize)"
 es_BO,"Spaans (Bolivia)"
+es_BR,"Spaans (Brazilië)"
 es_IC,"Spaans (Canarische Eilanden)"
 es_EA,"Spaans (Ceuta en Melilla)"
 es_CL,"Spaans (Chili)"
@@ -515,6 +515,7 @@ es_UY,"Spaans (Uruguay)"
 es_VE,"Spaans (Venezuela)"
 es_US,"Spaans (Verenigde Staten)"
 sw,Swahili
+sw_CD,"Swahili (Congo-Kinshasa)"
 sw_KE,"Swahili (Kenia)"
 sw_UG,"Swahili (Oeganda)"
 sw_TZ,"Swahili (Tanzania)"
@@ -527,8 +528,8 @@ ta_SG,"Tamil (Singapore)"
 ta_LK,"Tamil (Sri Lanka)"
 te,Telugu
 te_IN,"Telugu (India)"
-th,Thais
-th_TH,"Thais (Thailand)"
+th,Thai
+th_TH,"Thai (Thailand)"
 bo,Tibetaans
 bo_CN,"Tibetaans (China)"
 bo_IN,"Tibetaans (India)"
@@ -538,7 +539,9 @@ ti_ET,"Tigrinya (Ethiopië)"
 to,Tongaans
 to_TO,"Tongaans (Tonga)"
 cs,Tsjechisch
-cs_CZ,"Tsjechisch (Tsjechië)"
+cs_CZ,"Tsjechisch (Tsjechische Republiek)"
+ce,Tsjetsjeens
+ce_RU,"Tsjetsjeens (Rusland)"
 tr,Turks
 tr_CY,"Turks (Cyprus)"
 tr_TR,"Turks (Turkije)"
@@ -550,7 +553,7 @@ vi_VN,"Vietnamees (Vietnam)"
 cy,Welsh
 cy_GB,"Welsh (Verenigd Koninkrijk)"
 be,Wit-Russisch
-be_BY,"Wit-Russisch (Wit-Rusland)"
+be_BY,"Wit-Russisch (Belarus)"
 ii,Yi
 ii_CN,"Yi (China)"
 yo,Yoruba

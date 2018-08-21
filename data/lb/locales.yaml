@@ -48,8 +48,7 @@ az_Latn: 'Aserbaidschanesch (Laténgesch)'
 as: Assamesesch
 as_IN: 'Assamesesch (Indien)'
 bm: Bambara-Sprooch
-bm_Latn_ML: 'Bambara-Sprooch (Laténgesch, Mali)'
-bm_Latn: 'Bambara-Sprooch (Laténgesch)'
+bm_ML: 'Bambara-Sprooch (Mali)'
 eu: Baskesch
 eu_ES: 'Baskesch (Spanien)'
 bn: Bengalesch
@@ -90,6 +89,7 @@ de: Däitsch
 de_BE: 'Däitsch (Belsch)'
 de_DE: 'Däitsch (Däitschland)'
 de_AT: 'Däitsch (Éisträich)'
+de_IT: 'Däitsch (Italien)'
 de_LU: 'Däitsch (Lëtzebuerg)'
 de_LI: 'Däitsch (Liechtenstein)'
 de_CH: 'Däitsch (Schwäiz)'
@@ -111,13 +111,18 @@ en_BM: 'Englesch (Bermuda)'
 en_BW: 'Englesch (Botsuana)'
 en_VG: 'Englesch (Britesch Joffereninselen)'
 en_IO: 'Englesch (Britescht Territorium am Indeschen Ozean)'
+en_BI: 'Englesch (Burundi)'
 en_CX: 'Englesch (Chrëschtdagsinsel)'
 en_CK: 'Englesch (Cookinselen)'
+en_DE: 'Englesch (Däitschland)'
+en_DK: 'Englesch (Dänemark)'
 en_DG: 'Englesch (Diego Garcia)'
 en_DM: 'Englesch (Dominica)'
+en_AT: 'Englesch (Éisträich)'
 en_ER: 'Englesch (Eritrea)'
 en_FK: 'Englesch (Falklandinselen)'
 en_FJ: 'Englesch (Fidschi)'
+en_FI: 'Englesch (Finnland)'
 en_GM: 'Englesch (Gambia)'
 en_GH: 'Englesch (Ghana)'
 en_GI: 'Englesch (Gibraltar)'
@@ -126,9 +131,11 @@ en_GB: 'Englesch (Groussbritannien)'
 en_GU: 'Englesch (Guam)'
 en_GG: 'Englesch (Guernsey)'
 en_GY: 'Englesch (Guyana)'
+en_NL: 'Englesch (Holland)'
 en_IN: 'Englesch (Indien)'
 en_IE: 'Englesch (Irland)'
 en_IM: 'Englesch (Isle of Man)'
+en_IL: 'Englesch (Israel)'
 en_JM: 'Englesch (Jamaika)'
 en_JE: 'Englesch (Jersey)'
 en_KY: 'Englesch (Kaimaninselen)'
@@ -164,11 +171,14 @@ en_RW: 'Englesch (Ruanda)'
 en_SB: 'Englesch (Salomonen)'
 en_ZM: 'Englesch (Sambia)'
 en_WS: 'Englesch (Samoa)'
+en_CH: 'Englesch (Schwäiz)'
+en_SE: 'Englesch (Schweden)'
 en_SC: 'Englesch (Seychellen)'
 en_SL: 'Englesch (Sierra Leone)'
 en_ZW: 'Englesch (Simbabwe)'
 en_SG: 'Englesch (Singapur)'
 en_SX: 'Englesch (Sint Maarten)'
+en_SI: 'Englesch (Slowenien)'
 en_HK: 'Englesch (Spezialverwaltungszon Hong Kong)'
 en_MO: 'Englesch (Spezialverwaltungszon Macau)'
 en_SH: 'Englesch (St. Helena)'
@@ -188,6 +198,7 @@ en_TV: 'Englesch (Tuvalu)'
 en_UG: 'Englesch (Uganda)'
 en_VU: 'Englesch (Vanuatu)'
 en_US: 'Englesch (Vereenegt Staate vun Amerika)'
+en_CY: 'Englesch (Zypern)'
 eo: Esperanto
 et: Estnesch
 et_EE: 'Estnesch (Estland)'
@@ -195,6 +206,7 @@ ee: Ewe-Sprooch
 ee_GH: 'Ewe-Sprooch (Ghana)'
 ee_TG: 'Ewe-Sprooch (Togo)'
 fo: Färöesch
+fo_DK: 'Färöesch (Dänemark)'
 fo_FO: 'Färöesch (Färöer)'
 fi: Finnesch
 fi_FI: 'Finnesch (Finnland)'
@@ -204,8 +216,8 @@ fr_BE: 'Franséisch (Belsch)'
 fr_BJ: 'Franséisch (Benin)'
 fr_BF: 'Franséisch (Burkina Faso)'
 fr_BI: 'Franséisch (Burundi)'
+fr_CI: 'Franséisch (Côte d’Ivoire)'
 fr_DJ: 'Franséisch (Dschibuti)'
-fr_CI: 'Franséisch (Elfebeeküst)'
 fr_GQ: 'Franséisch (Equatorialguinea)'
 fr_FR: 'Franséisch (Frankräich)'
 fr_PF: 'Franséisch (Franséisch-Polynesien)'
@@ -265,10 +277,6 @@ gu: Gujarati
 gu_IN: 'Gujarati (Indien)'
 ha: Hausa
 ha_GH: 'Hausa (Ghana)'
-ha_Latn_GH: 'Hausa (Laténgesch, Ghana)'
-ha_Latn_NE: 'Hausa (Laténgesch, Niger)'
-ha_Latn_NG: 'Hausa (Laténgesch, Nigeria)'
-ha_Latn: 'Hausa (Laténgesch)'
 ha_NE: 'Hausa (Niger)'
 ha_NG: 'Hausa (Nigeria)'
 he: Hebräesch
@@ -295,6 +303,7 @@ it: Italienesch
 it_IT: 'Italienesch (Italien)'
 it_SM: 'Italienesch (San Marino)'
 it_CH: 'Italienesch (Schwäiz)'
+it_VA: 'Italienesch (Vatikanstad)'
 ja: Japanesch
 ja_JP: 'Japanesch (Japan)'
 yi: Jiddesch
@@ -304,11 +313,7 @@ kn: Kannada
 kn_IN: 'Kannada (Indien)'
 kk: Kasachesch
 kk_KZ: 'Kasachesch (Kasachstan)'
-kk_Cyrl_KZ: 'Kasachesch (Kyrillesch, Kasachstan)'
-kk_Cyrl: 'Kasachesch (Kyrillesch)'
 ks: Kaschmiresch
-ks_Arab_IN: 'Kaschmiresch (Arabesch, Indien)'
-ks_Arab: 'Kaschmiresch (Arabesch)'
 ks_IN: 'Kaschmiresch (Indien)'
 ca: Katalanesch
 ca_AD: 'Katalanesch (Andorra)'
@@ -319,8 +324,6 @@ ki: Kikuyu-Sprooch
 ki_KE: 'Kikuyu-Sprooch (Kenia)'
 ky: Kirgisesch
 ky_KG: 'Kirgisesch (Kirgisistan)'
-ky_Cyrl_KG: 'Kirgisesch (Kyrillesch, Kirgisistan)'
-ky_Cyrl: 'Kirgisesch (Kyrillesch)'
 ko: Koreanesch
 ko_KP: 'Koreanesch (Nordkorea)'
 ko_KR: 'Koreanesch (Südkorea)'
@@ -348,10 +351,6 @@ mg: Malagassi-Sprooch
 mg_MG: 'Malagassi-Sprooch (Madagaskar)'
 ms: Malaiesch
 ms_BN: 'Malaiesch (Brunei)'
-ms_Latn_BN: 'Malaiesch (Laténgesch, Brunei)'
-ms_Latn_MY: 'Malaiesch (Laténgesch, Malaysia)'
-ms_Latn_SG: 'Malaiesch (Laténgesch, Singapur)'
-ms_Latn: 'Malaiesch (Laténgesch)'
 ms_MY: 'Malaiesch (Malaysia)'
 ms_SG: 'Malaiesch (Singapur)'
 ml: Malayalam
@@ -365,8 +364,6 @@ mr_IN: 'Marathi (Indien)'
 mk: Mazedonesch
 mk_MK: 'Mazedonesch (Mazedonien)'
 mn: Mongolesch
-mn_Cyrl_MN: 'Mongolesch (Kyrillesch, Mongolei)'
-mn_Cyrl: 'Mongolesch (Kyrillesch)'
 mn_MN: 'Mongolesch (Mongolei)'
 ne: Nepalesesch
 ne_IN: 'Nepalesesch (Indien)'
@@ -409,12 +406,15 @@ pl_PL: 'Polnesch (Polen)'
 pt: Portugisesch
 pt_AO: 'Portugisesch (Angola)'
 pt_BR: 'Portugisesch (Brasilien)'
+pt_GQ: 'Portugisesch (Equatorialguinea)'
 pt_GW: 'Portugisesch (Guinea-Bissau)'
 pt_CV: 'Portugisesch (Kap Verde)'
+pt_LU: 'Portugisesch (Lëtzebuerg)'
 pt_MZ: 'Portugisesch (Mosambik)'
 pt_TL: 'Portugisesch (Osttimor)'
 pt_PT: 'Portugisesch (Portugal)'
 pt_ST: 'Portugisesch (São Tomé a Príncipe)'
+pt_CH: 'Portugisesch (Schwäiz)'
 pt_MO: 'Portugisesch (Spezialverwaltungszon Macau)'
 qu: Quechua
 qu_BO: 'Quechua (Bolivien)'
@@ -478,7 +478,9 @@ so_KE: 'Somali (Kenia)'
 so_SO: 'Somali (Somalia)'
 es: Spuenesch
 es_AR: 'Spuenesch (Argentinien)'
+es_BZ: 'Spuenesch (Belize)'
 es_BO: 'Spuenesch (Bolivien)'
+es_BR: 'Spuenesch (Brasilien)'
 es_EA: 'Spuenesch (Ceuta a Melilla)'
 es_CL: 'Spuenesch (Chile)'
 es_CR: 'Spuenesch (Costa Rica)'
@@ -504,6 +506,7 @@ es_VE: 'Spuenesch (Venezuela)'
 es_US: 'Spuenesch (Vereenegt Staate vun Amerika)'
 sw: Suaheli
 sw_KE: 'Suaheli (Kenia)'
+sw_CD: 'Suaheli (Kongo-Kinshasa)'
 sw_TZ: 'Suaheli (Tansania)'
 sw_UG: 'Suaheli (Uganda)'
 ta: Tamilesch
@@ -528,9 +531,9 @@ to: Tongaesch
 to_TO: 'Tongaesch (Tonga)'
 cs: Tschechesch
 cs_CZ: 'Tschechesch (Tschechien)'
+ce: Tschetschenesch
+ce_RU: 'Tschetschenesch (Russland)'
 ug: Uiguresch
-ug_Arab_CN: 'Uiguresch (Arabesch, China)'
-ug_Arab: 'Uiguresch (Arabesch)'
 ug_CN: 'Uiguresch (China)'
 uk: Ukrainesch
 uk_UA: 'Ukrainesch (Ukrain)'

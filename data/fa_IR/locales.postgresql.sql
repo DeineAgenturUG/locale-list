@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'as', E'آسامی');
 INSERT INTO "list" ("id", "value") VALUES (E'as_IN', E'آسامی (هند)');
@@ -17,6 +17,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'sq_MK', E'آلبانیایی (مق�
 INSERT INTO "list" ("id", "value") VALUES (E'de', E'آلمانی');
 INSERT INTO "list" ("id", "value") VALUES (E'de_DE', E'آلمانی (آلمان)');
 INSERT INTO "list" ("id", "value") VALUES (E'de_AT', E'آلمانی (اتریش)');
+INSERT INTO "list" ("id", "value") VALUES (E'de_IT', E'آلمانی (ایتالیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'de_BE', E'آلمانی (بلژیک)');
 INSERT INTO "list" ("id", "value") VALUES (E'de_CH', E'آلمانی (سوئیس)');
 INSERT INTO "list" ("id", "value") VALUES (E'de_LU', E'آلمانی (لوکزامبورگ)');
@@ -41,7 +42,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'es_UY', E'اسپانیایی (ار�
 INSERT INTO "list" ("id", "value") VALUES (E'es_ES', E'اسپانیایی (اسپانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'es_EC', E'اسپانیایی (اکوادور)');
 INSERT INTO "list" ("id", "value") VALUES (E'es_SV', E'اسپانیایی (السالوادور)');
-INSERT INTO "list" ("id", "value") VALUES (E'es_US', E'اسپانیایی (ایالات متحدهٔ امریکا)');
+INSERT INTO "list" ("id", "value") VALUES (E'es_US', E'اسپانیایی (ایالات متحده)');
+INSERT INTO "list" ("id", "value") VALUES (E'es_BR', E'اسپانیایی (برزیل)');
+INSERT INTO "list" ("id", "value") VALUES (E'es_BZ', E'اسپانیایی (بلیز)');
 INSERT INTO "list" ("id", "value") VALUES (E'es_BO', E'اسپانیایی (بولیوی)');
 INSERT INTO "list" ("id", "value") VALUES (E'es_PY', E'اسپانیایی (پاراگوئه)');
 INSERT INTO "list" ("id", "value") VALUES (E'es_PA', E'اسپانیایی (پاناما)');
@@ -66,8 +69,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'et', E'استونیایی');
 INSERT INTO "list" ("id", "value") VALUES (E'et_EE', E'استونیایی (استونی)');
 INSERT INTO "list" ("id", "value") VALUES (E'sk', E'اسلواکی');
 INSERT INTO "list" ("id", "value") VALUES (E'sk_SK', E'اسلواکی (اسلواکی)');
-INSERT INTO "list" ("id", "value") VALUES (E'sl', E'اسلووینیایی');
-INSERT INTO "list" ("id", "value") VALUES (E'sl_SI', E'اسلووینیایی (اسلوونی)');
+INSERT INTO "list" ("id", "value") VALUES (E'sl', E'اسلوونیایی');
+INSERT INTO "list" ("id", "value") VALUES (E'sl_SI', E'اسلوونیایی (اسلوونی)');
 INSERT INTO "list" ("id", "value") VALUES (E'am', E'امهری');
 INSERT INTO "list" ("id", "value") VALUES (E'am_ET', E'امهری (اتیوپی)');
 INSERT INTO "list" ("id", "value") VALUES (E'id', E'اندونزیایی');
@@ -75,13 +78,17 @@ INSERT INTO "list" ("id", "value") VALUES (E'id_ID', E'اندونزیایی (ا�
 INSERT INTO "list" ("id", "value") VALUES (E'nd', E'انده‌بله‌ای شمالی');
 INSERT INTO "list" ("id", "value") VALUES (E'nd_ZW', E'انده‌بله‌ای شمالی (زیمبابوه)');
 INSERT INTO "list" ("id", "value") VALUES (E'en', E'انگلیسی');
+INSERT INTO "list" ("id", "value") VALUES (E'en_DE', E'انگلیسی (آلمان)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_AG', E'انگلیسی (آنتیگوا و باربودا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_AI', E'انگلیسی (آنگویلا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_AT', E'انگلیسی (اتریش)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_ER', E'انگلیسی (اریتره)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_AU', E'انگلیسی (استرالیا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_IL', E'انگلیسی (اسرائیل)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_SI', E'انگلیسی (اسلوونی)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_ZA', E'انگلیسی (افریقای جنوبی)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_UG', E'انگلیسی (اوگاندا)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_US', E'انگلیسی (ایالات متحدهٔ امریکا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_US', E'انگلیسی (ایالات متحده)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_IE', E'انگلیسی (ایرلند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_BB', E'انگلیسی (باربادوس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_BS', E'انگلیسی (باهاما)');
@@ -90,6 +97,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'en_GB', E'انگلیسی (بریت�
 INSERT INTO "list" ("id", "value") VALUES (E'en_BE', E'انگلیسی (بلژیک)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_BZ', E'انگلیسی (بلیز)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_BW', E'انگلیسی (بوتسوانا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_BI', E'انگلیسی (بوروندی)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_PG', E'انگلیسی (پاپوا گینهٔ نو)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_PK', E'انگلیسی (پاکستان)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_PW', E'انگلیسی (پالائو)');
@@ -108,7 +116,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'en_UM', E'انگلیسی (جزای�
 INSERT INTO "list" ("id", "value") VALUES (E'en_SB', E'انگلیسی (جزایر سلیمان)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_FK', E'انگلیسی (جزایر فالکلند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_CK', E'انگلیسی (جزایر کوک)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_CC', E'انگلیسی (جزایر کوکوس (کیلینگ))');
+INSERT INTO "list" ("id", "value") VALUES (E'en_CC', E'انگلیسی (جزایر کوکوس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_KY', E'انگلیسی (جزایر کِیمن)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_MH', E'انگلیسی (جزایر مارشال)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_MP', E'انگلیسی (جزایر ماریانای شمالی)');
@@ -116,29 +124,33 @@ INSERT INTO "list" ("id", "value") VALUES (E'en_VI', E'انگلیسی (جزای�
 INSERT INTO "list" ("id", "value") VALUES (E'en_VG', E'انگلیسی (جزایر ویرجین بریتانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_CX', E'انگلیسی (جزیرهٔ کریسمس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_IM', E'انگلیسی (جزیرهٔ من)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_NF', E'انگلیسی (جزیره نورفک)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_NF', E'انگلیسی (جزیرهٔ نورفولک)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_DK', E'انگلیسی (دانمارک)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_DM', E'انگلیسی (دومینیکا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_DG', E'انگلیسی (دیه‌گو گارسیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_RW', E'انگلیسی (رواندا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_ZM', E'انگلیسی (زامبیا)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_NZ', E'انگلیسی (زلاند نو)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_ZW', E'انگلیسی (زیمبابوه)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_WS', E'انگلیسی (ساموآ)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_AS', E'انگلیسی (ساموآی آمریکا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_AS', E'انگلیسی (ساموآی امریکا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_KN', E'انگلیسی (سنت کیتس و نویس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_LC', E'انگلیسی (سنت لوسیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SX', E'انگلیسی (سنت مارتن)');
-INSERT INTO "list" ("id", "value") VALUES (E'en_VC', E'انگلیسی (سنت وینسنت و گرنادین‌ها)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_VC', E'انگلیسی (سنت وینسنت و گرنادین)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SH', E'انگلیسی (سنت هلن)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SG', E'انگلیسی (سنگاپور)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SZ', E'انگلیسی (سوازیلند)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_SE', E'انگلیسی (سوئد)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_CH', E'انگلیسی (سوئیس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SS', E'انگلیسی (سودان جنوبی)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SD', E'انگلیسی (سودان)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SL', E'انگلیسی (سیرالئون)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_SC', E'انگلیسی (سیشل)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_GH', E'انگلیسی (غنا)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_FI', E'انگلیسی (فنلاند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_FJ', E'انگلیسی (فیجی)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_PH', E'انگلیسی (فیلیپین)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_CY', E'انگلیسی (قبرس)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_IO', E'انگلیسی (قلمرو بریتانیا در اقیانوس هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_CM', E'انگلیسی (کامرون)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_CA', E'انگلیسی (کانادا)');
@@ -163,7 +175,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'en_NR', E'انگلیسی (نائو�
 INSERT INTO "list" ("id", "value") VALUES (E'en_NA', E'انگلیسی (نامیبیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_NG', E'انگلیسی (نیجریه)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_NU', E'انگلیسی (نیوئه)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_NZ', E'انگلیسی (نیوزیلند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_VU', E'انگلیسی (وانواتو)');
+INSERT INTO "list" ("id", "value") VALUES (E'en_NL', E'انگلیسی (هلند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_IN', E'انگلیسی (هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'en_HK', E'انگلیسی (هنگ‌کنگ، ناحیهٔ ویژهٔ حکومتی چین)');
 INSERT INTO "list" ("id", "value") VALUES (E'om', E'اورومویی');
@@ -178,12 +192,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'ee_TG', E'اوه‌ای (توگو)'
 INSERT INTO "list" ("id", "value") VALUES (E'ee_GH', E'اوه‌ای (غنا)');
 INSERT INTO "list" ("id", "value") VALUES (E'ug', E'اویغوری');
 INSERT INTO "list" ("id", "value") VALUES (E'ug_CN', E'اویغوری (چین)');
-INSERT INTO "list" ("id", "value") VALUES (E'ug_Arab_CN', E'اویغوری (عربی, چین)');
-INSERT INTO "list" ("id", "value") VALUES (E'ug_Arab', E'اویغوری (عربی)');
 INSERT INTO "list" ("id", "value") VALUES (E'it', E'ایتالیایی');
 INSERT INTO "list" ("id", "value") VALUES (E'it_IT', E'ایتالیایی (ایتالیا)');
-INSERT INTO "list" ("id", "value") VALUES (E'it_SM', E'ایتالیایی (سن مارینو)');
+INSERT INTO "list" ("id", "value") VALUES (E'it_SM', E'ایتالیایی (سان‌مارینو)');
 INSERT INTO "list" ("id", "value") VALUES (E'it_CH', E'ایتالیایی (سوئیس)');
+INSERT INTO "list" ("id", "value") VALUES (E'it_VA', E'ایتالیایی (واتیکان)');
 INSERT INTO "list" ("id", "value") VALUES (E'ga', E'ایرلندی');
 INSERT INTO "list" ("id", "value") VALUES (E'ga_IE', E'ایرلندی (ایرلند)');
 INSERT INTO "list" ("id", "value") VALUES (E'is', E'ایسلندی');
@@ -193,16 +206,15 @@ INSERT INTO "list" ("id", "value") VALUES (E'ig_NG', E'ایگبویی (نیجر�
 INSERT INTO "list" ("id", "value") VALUES (E'eu', E'باسکی');
 INSERT INTO "list" ("id", "value") VALUES (E'eu_ES', E'باسکی (اسپانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'bm', E'بامبارایی');
-INSERT INTO "list" ("id", "value") VALUES (E'bm_Latn_ML', E'بامبارایی (لاتینی, مالی)');
-INSERT INTO "list" ("id", "value") VALUES (E'bm_Latn', E'بامبارایی (لاتینی)');
-INSERT INTO "list" ("id", "value") VALUES (E'br', E'برتانیایی');
-INSERT INTO "list" ("id", "value") VALUES (E'br_FR', E'برتانیایی (فرانسه)');
+INSERT INTO "list" ("id", "value") VALUES (E'bm_ML', E'بامبارایی (مالی)');
+INSERT INTO "list" ("id", "value") VALUES (E'br', E'برتون');
+INSERT INTO "list" ("id", "value") VALUES (E'br_FR', E'برتون (فرانسه)');
 INSERT INTO "list" ("id", "value") VALUES (E'my', E'برمه‌ای');
 INSERT INTO "list" ("id", "value") VALUES (E'my_MM', E'برمه‌ای (میانمار (برمه))');
+INSERT INTO "list" ("id", "value") VALUES (E'be', E'بلاروسی');
+INSERT INTO "list" ("id", "value") VALUES (E'be_BY', E'بلاروسی (بلاروس)');
 INSERT INTO "list" ("id", "value") VALUES (E'bg', E'بلغاری');
 INSERT INTO "list" ("id", "value") VALUES (E'bg_BG', E'بلغاری (بلغارستان)');
-INSERT INTO "list" ("id", "value") VALUES (E'be', E'بلوروسی');
-INSERT INTO "list" ("id", "value") VALUES (E'be_BY', E'بلوروسی (بلاروس)');
 INSERT INTO "list" ("id", "value") VALUES (E'bn', E'بنگالی');
 INSERT INTO "list" ("id", "value") VALUES (E'bn_BD', E'بنگالی (بنگلادش)');
 INSERT INTO "list" ("id", "value") VALUES (E'bn_IN', E'بنگالی (هند)');
@@ -212,17 +224,17 @@ INSERT INTO "list" ("id", "value") VALUES (E'bs_Cyrl_BA', E'بوسنیایی (س
 INSERT INTO "list" ("id", "value") VALUES (E'bs_Cyrl', E'بوسنیایی (سیریلی)');
 INSERT INTO "list" ("id", "value") VALUES (E'bs_Latn_BA', E'بوسنیایی (لاتینی, بوسنی و هرزگوین)');
 INSERT INTO "list" ("id", "value") VALUES (E'bs_Latn', E'بوسنیایی (لاتینی)');
-INSERT INTO "list" ("id", "value") VALUES (E'nb', E'بوکسمال نروژی');
-INSERT INTO "list" ("id", "value") VALUES (E'nb_SJ', E'بوکسمال نروژی (اسوالبارد و جان‌ماین)');
-INSERT INTO "list" ("id", "value") VALUES (E'nb_NO', E'بوکسمال نروژی (نروژ)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt', E'پرتغالی');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_AO', E'پرتغالی (آنگولا)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_BR', E'پرتغالی (برزیل)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_PT', E'پرتغالی (پرتغال)');
-INSERT INTO "list" ("id", "value") VALUES (E'pt_TL', E'پرتغالی (تیمور شرقی)');
+INSERT INTO "list" ("id", "value") VALUES (E'pt_TL', E'پرتغالی (تیمور-لسته)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_ST', E'پرتغالی (سائوتومه و پرینسیپ)');
+INSERT INTO "list" ("id", "value") VALUES (E'pt_CH', E'پرتغالی (سوئیس)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_CV', E'پرتغالی (کیپ‌ورد)');
+INSERT INTO "list" ("id", "value") VALUES (E'pt_GQ', E'پرتغالی (گینهٔ استوایی)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_GW', E'پرتغالی (گینهٔ بیسائو)');
+INSERT INTO "list" ("id", "value") VALUES (E'pt_LU', E'پرتغالی (لوکزامبورگ)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_MO', E'پرتغالی (ماکائو، ناحیهٔ ویژهٔ حکومتی چین)');
 INSERT INTO "list" ("id", "value") VALUES (E'pt_MZ', E'پرتغالی (موزامبیک)');
 INSERT INTO "list" ("id", "value") VALUES (E'ps', E'پشتو');
@@ -264,6 +276,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'ti_ET', E'تیگرینیایی (ا�
 INSERT INTO "list" ("id", "value") VALUES (E'ti_ER', E'تیگرینیایی (اریتره)');
 INSERT INTO "list" ("id", "value") VALUES (E'dz', E'جونخایی');
 INSERT INTO "list" ("id", "value") VALUES (E'dz_BT', E'جونخایی (بوتان)');
+INSERT INTO "list" ("id", "value") VALUES (E'ce', E'چچنی');
+INSERT INTO "list" ("id", "value") VALUES (E'ce_RU', E'چچنی (روسیه)');
 INSERT INTO "list" ("id", "value") VALUES (E'cs', E'چکی');
 INSERT INTO "list" ("id", "value") VALUES (E'cs_CZ', E'چکی (جمهوری چک)');
 INSERT INTO "list" ("id", "value") VALUES (E'zh', E'چینی');
@@ -308,14 +322,15 @@ INSERT INTO "list" ("id", "value") VALUES (E'se', E'سامی شمالی');
 INSERT INTO "list" ("id", "value") VALUES (E'se_SE', E'سامی شمالی (سوئد)');
 INSERT INTO "list" ("id", "value") VALUES (E'se_FI', E'سامی شمالی (فنلاند)');
 INSERT INTO "list" ("id", "value") VALUES (E'se_NO', E'سامی شمالی (نروژ)');
-INSERT INTO "list" ("id", "value") VALUES (E'sg', E'سانگویی');
-INSERT INTO "list" ("id", "value") VALUES (E'sg_CF', E'سانگویی (جمهوری افریقای مرکزی)');
-INSERT INTO "list" ("id", "value") VALUES (E'sw', E'سواحلی');
-INSERT INTO "list" ("id", "value") VALUES (E'sw_UG', E'سواحلی (اوگاندا)');
-INSERT INTO "list" ("id", "value") VALUES (E'sw_TZ', E'سواحلی (تانزانیا)');
-INSERT INTO "list" ("id", "value") VALUES (E'sw_KE', E'سواحلی (کنیا)');
+INSERT INTO "list" ("id", "value") VALUES (E'sg', E'سانگو');
+INSERT INTO "list" ("id", "value") VALUES (E'sg_CF', E'سانگو (جمهوری افریقای مرکزی)');
+INSERT INTO "list" ("id", "value") VALUES (E'sw', E'سواحیلی');
+INSERT INTO "list" ("id", "value") VALUES (E'sw_UG', E'سواحیلی (اوگاندا)');
+INSERT INTO "list" ("id", "value") VALUES (E'sw_TZ', E'سواحیلی (تانزانیا)');
+INSERT INTO "list" ("id", "value") VALUES (E'sw_CD', E'سواحیلی (کنگو - کینشاسا)');
+INSERT INTO "list" ("id", "value") VALUES (E'sw_KE', E'سواحیلی (کنیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'sv', E'سوئدی');
-INSERT INTO "list" ("id", "value") VALUES (E'sv_AX', E'سوئدی (جزایر اُلند)');
+INSERT INTO "list" ("id", "value") VALUES (E'sv_AX', E'سوئدی (جزایر آلاند)');
 INSERT INTO "list" ("id", "value") VALUES (E'sv_SE', E'سوئدی (سوئد)');
 INSERT INTO "list" ("id", "value") VALUES (E'sv_FI', E'سوئدی (فنلاند)');
 INSERT INTO "list" ("id", "value") VALUES (E'so', E'سومالیایی');
@@ -366,7 +381,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ar_IQ', E'عربی (عراق)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_SA', E'عربی (عربستان سعودی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_OM', E'عربی (عمان)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_QA', E'عربی (قطر)');
-INSERT INTO "list" ("id", "value") VALUES (E'ar_KM', E'عربی (کومور)');
+INSERT INTO "list" ("id", "value") VALUES (E'ar_KM', E'عربی (کومورو)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_KW', E'عربی (کویت)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_LB', E'عربی (لبنان)');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_LY', E'عربی (لیبی)');
@@ -379,6 +394,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'fa_AF', E'فارسی (افغانس�
 INSERT INTO "list" ("id", "value") VALUES (E'fa_IR', E'فارسی (ایران)');
 INSERT INTO "list" ("id", "value") VALUES (E'fo', E'فارویی');
 INSERT INTO "list" ("id", "value") VALUES (E'fo_FO', E'فارویی (جزایر فارو)');
+INSERT INTO "list" ("id", "value") VALUES (E'fo_DK', E'فارویی (دانمارک)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr', E'فرانسوی');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_DZ', E'فرانسوی (الجزایر)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_BE', E'فرانسوی (بلژیک)');
@@ -407,7 +423,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'fr_CM', E'فرانسوی (کامر�
 INSERT INTO "list" ("id", "value") VALUES (E'fr_CA', E'فرانسوی (کانادا)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_CG', E'فرانسوی (کنگو - برازویل)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_CD', E'فرانسوی (کنگو - کینشاسا)');
-INSERT INTO "list" ("id", "value") VALUES (E'fr_KM', E'فرانسوی (کومور)');
+INSERT INTO "list" ("id", "value") VALUES (E'fr_KM', E'فرانسوی (کومورو)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_GA', E'فرانسوی (گابن)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_GP', E'فرانسوی (گوادلوپ)');
 INSERT INTO "list" ("id", "value") VALUES (E'fr_GF', E'فرانسوی (گویان فرانسه)');
@@ -436,20 +452,16 @@ INSERT INTO "list" ("id", "value") VALUES (E'ff_CM', E'فولایی (کامرو�
 INSERT INTO "list" ("id", "value") VALUES (E'ff_GN', E'فولایی (گینه)');
 INSERT INTO "list" ("id", "value") VALUES (E'ff_MR', E'فولایی (موریتانی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ky', E'قرقیزی');
-INSERT INTO "list" ("id", "value") VALUES (E'ky_Cyrl_KG', E'قرقیزی (سیریلی, قرقیزستان)');
-INSERT INTO "list" ("id", "value") VALUES (E'ky_Cyrl', E'قرقیزی (سیریلی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ky_KG', E'قرقیزی (قرقیزستان)');
 INSERT INTO "list" ("id", "value") VALUES (E'kk', E'قزاقی');
-INSERT INTO "list" ("id", "value") VALUES (E'kk_Cyrl_KZ', E'قزاقی (سیریلی, قزاقستان)');
-INSERT INTO "list" ("id", "value") VALUES (E'kk_Cyrl', E'قزاقی (سیریلی)');
 INSERT INTO "list" ("id", "value") VALUES (E'kk_KZ', E'قزاقی (قزاقستان)');
 INSERT INTO "list" ("id", "value") VALUES (E'ca', E'کاتالان');
 INSERT INTO "list" ("id", "value") VALUES (E'ca_AD', E'کاتالان (آندورا)');
 INSERT INTO "list" ("id", "value") VALUES (E'ca_ES', E'کاتالان (اسپانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'ca_IT', E'کاتالان (ایتالیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'ca_FR', E'کاتالان (فرانسه)');
-INSERT INTO "list" ("id", "value") VALUES (E'kn', E'کاناده‌ای');
-INSERT INTO "list" ("id", "value") VALUES (E'kn_IN', E'کاناده‌ای (هند)');
+INSERT INTO "list" ("id", "value") VALUES (E'kn', E'کانارا');
+INSERT INTO "list" ("id", "value") VALUES (E'kn_IN', E'کانارا (هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'qu', E'کچوایی');
 INSERT INTO "list" ("id", "value") VALUES (E'qu_EC', E'کچوایی (اکوادور)');
 INSERT INTO "list" ("id", "value") VALUES (E'qu_BO', E'کچوایی (بولیوی)');
@@ -463,8 +475,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'ko', E'کره‌ای');
 INSERT INTO "list" ("id", "value") VALUES (E'ko_KR', E'کره‌ای (کرهٔ جنوبی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ko_KP', E'کره‌ای (کرهٔ شمالی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ks', E'کشمیری');
-INSERT INTO "list" ("id", "value") VALUES (E'ks_Arab_IN', E'کشمیری (عربی, هند)');
-INSERT INTO "list" ("id", "value") VALUES (E'ks_Arab', E'کشمیری (عربی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ks_IN', E'کشمیری (هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'ki', E'کیکویویی');
 INSERT INTO "list" ("id", "value") VALUES (E'ki_KE', E'کیکویویی (کنیا)');
@@ -506,10 +516,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'ml_IN', E'مالایالامی (ه�
 INSERT INTO "list" ("id", "value") VALUES (E'ms', E'مالایی');
 INSERT INTO "list" ("id", "value") VALUES (E'ms_BN', E'مالایی (برونئی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ms_SG', E'مالایی (سنگاپور)');
-INSERT INTO "list" ("id", "value") VALUES (E'ms_Latn_BN', E'مالایی (لاتینی, برونئی)');
-INSERT INTO "list" ("id", "value") VALUES (E'ms_Latn_SG', E'مالایی (لاتینی, سنگاپور)');
-INSERT INTO "list" ("id", "value") VALUES (E'ms_Latn_MY', E'مالایی (لاتینی, مالزی)');
-INSERT INTO "list" ("id", "value") VALUES (E'ms_Latn', E'مالایی (لاتینی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ms_MY', E'مالایی (مالزی)');
 INSERT INTO "list" ("id", "value") VALUES (E'mt', E'مالتی');
 INSERT INTO "list" ("id", "value") VALUES (E'mt_MT', E'مالتی (مالت)');
@@ -520,22 +526,23 @@ INSERT INTO "list" ("id", "value") VALUES (E'hu_HU', E'مجاری (مجارست�
 INSERT INTO "list" ("id", "value") VALUES (E'mr', E'مراتی');
 INSERT INTO "list" ("id", "value") VALUES (E'mr_IN', E'مراتی (هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'mn', E'مغولی');
-INSERT INTO "list" ("id", "value") VALUES (E'mn_Cyrl_MN', E'مغولی (سیریلی, مغولستان)');
-INSERT INTO "list" ("id", "value") VALUES (E'mn_Cyrl', E'مغولی (سیریلی)');
 INSERT INTO "list" ("id", "value") VALUES (E'mn_MN', E'مغولی (مغولستان)');
 INSERT INTO "list" ("id", "value") VALUES (E'mk', E'مقدونی');
 INSERT INTO "list" ("id", "value") VALUES (E'mk_MK', E'مقدونی (مقدونیه)');
 INSERT INTO "list" ("id", "value") VALUES (E'ne', E'نپالی');
 INSERT INTO "list" ("id", "value") VALUES (E'ne_NP', E'نپالی (نپال)');
 INSERT INTO "list" ("id", "value") VALUES (E'ne_IN', E'نپالی (هند)');
-INSERT INTO "list" ("id", "value") VALUES (E'nn', E'نرس جدید نروژی');
-INSERT INTO "list" ("id", "value") VALUES (E'nn_NO', E'نرس جدید نروژی (نروژ)');
 INSERT INTO "list" ("id", "value") VALUES (E'no', E'نروژی');
 INSERT INTO "list" ("id", "value") VALUES (E'no_NO', E'نروژی (نروژ)');
+INSERT INTO "list" ("id", "value") VALUES (E'nb', E'نروژی بوک‌مُل');
+INSERT INTO "list" ("id", "value") VALUES (E'nb_SJ', E'نروژی بوک‌مُل (اسوالبارد و جان‌ماین)');
+INSERT INTO "list" ("id", "value") VALUES (E'nb_NO', E'نروژی بوک‌مُل (نروژ)');
+INSERT INTO "list" ("id", "value") VALUES (E'nn', E'نروژی نی‌نُشک');
+INSERT INTO "list" ("id", "value") VALUES (E'nn_NO', E'نروژی نی‌نُشک (نروژ)');
+INSERT INTO "list" ("id", "value") VALUES (E'cy', E'ولزی');
+INSERT INTO "list" ("id", "value") VALUES (E'cy_GB', E'ولزی (بریتانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'vi', E'ویتنامی');
 INSERT INTO "list" ("id", "value") VALUES (E'vi_VN', E'ویتنامی (ویتنام)');
-INSERT INTO "list" ("id", "value") VALUES (E'cy', E'ویلزی');
-INSERT INTO "list" ("id", "value") VALUES (E'cy_GB', E'ویلزی (بریتانیا)');
 INSERT INTO "list" ("id", "value") VALUES (E'nl', E'هلندی');
 INSERT INTO "list" ("id", "value") VALUES (E'nl_AW', E'هلندی (آروبا)');
 INSERT INTO "list" ("id", "value") VALUES (E'nl_BE', E'هلندی (بلژیک)');
@@ -548,10 +555,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'hi', E'هندی');
 INSERT INTO "list" ("id", "value") VALUES (E'hi_IN', E'هندی (هند)');
 INSERT INTO "list" ("id", "value") VALUES (E'ha', E'هوسیایی');
 INSERT INTO "list" ("id", "value") VALUES (E'ha_GH', E'هوسیایی (غنا)');
-INSERT INTO "list" ("id", "value") VALUES (E'ha_Latn_GH', E'هوسیایی (لاتینی, غنا)');
-INSERT INTO "list" ("id", "value") VALUES (E'ha_Latn_NE', E'هوسیایی (لاتینی, نیجر)');
-INSERT INTO "list" ("id", "value") VALUES (E'ha_Latn_NG', E'هوسیایی (لاتینی, نیجریه)');
-INSERT INTO "list" ("id", "value") VALUES (E'ha_Latn', E'هوسیایی (لاتینی)');
 INSERT INTO "list" ("id", "value") VALUES (E'ha_NE', E'هوسیایی (نیجر)');
 INSERT INTO "list" ("id", "value") VALUES (E'ha_NG', E'هوسیایی (نیجریه)');
 INSERT INTO "list" ("id", "value") VALUES (E'yi', E'یدی');

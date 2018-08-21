@@ -14,6 +14,7 @@ de_LI: 'Almaeneg (Liechtenstein)'
 de_LU: 'Almaeneg (Lwcsembwrg)'
 de_CH: 'Almaeneg (Y Swistir)'
 de_DE: 'Almaeneg (Yr Almaen)'
+de_IT: 'Almaeneg (Yr Eidal)'
 am: Amhareg
 am_ET: 'Amhareg (Ethiopia)'
 ar: Arabeg
@@ -55,8 +56,7 @@ az_Cyrl: 'Aserbaijaneg (Cyrilig)'
 az_Latn_AZ: 'Aserbaijaneg (Lladin, Azerbaijan)'
 az_Latn: 'Aserbaijaneg (Lladin)'
 bm: Bambareg
-bm_Latn_ML: 'Bambareg (Lladin, Mali)'
-bm_Latn: 'Bambareg (Lladin)'
+bm_ML: 'Bambareg (Mali)'
 eu: Basgeg
 eu_ES: 'Basgeg (Sbaen)'
 bn: Bengaleg
@@ -75,12 +75,8 @@ bg_BG: 'Bwlgareg (Bwlgaria)'
 my: Byrmaneg
 my_MM: 'Byrmaneg (Myanmar (Burma))'
 kk: Casacheg
-kk_Cyrl_KZ: 'Casacheg (Cyrilig, Kazakstan)'
-kk_Cyrl: 'Casacheg (Cyrilig)'
 kk_KZ: 'Casacheg (Kazakstan)'
 ks: Cashmireg
-ks_Arab_IN: 'Cashmireg (Arabaidd, India)'
-ks_Arab: 'Cashmireg (Arabaidd)'
 ks_IN: 'Cashmireg (India)'
 ca: Catalaneg
 ca_AD: 'Catalaneg (Andorra)'
@@ -92,8 +88,6 @@ kw_GB: 'Cernyweg (Y Deyrnas Unedig)'
 rw: Ciniarŵandeg
 rw_RW: 'Ciniarŵandeg (Rwanda)'
 ky: Cirgiseg
-ky_Cyrl_KG: 'Cirgiseg (Cyrilig, Kyrgyzstan)'
-ky_Cyrl: 'Cirgiseg (Cyrilig)'
 ky_KG: 'Cirgiseg (Kyrgyzstan)'
 ko: Coreeg
 ko_KR: 'Coreeg (De Korea)'
@@ -112,6 +106,7 @@ dz: Dzongkha
 dz_BT: 'Dzongkha (Bhutan)'
 it: Eidaleg
 it_SM: 'Eidaleg (San Marino)'
+it_VA: 'Eidaleg (Y Fatican)'
 it_CH: 'Eidaleg (Y Swistir)'
 it_IT: 'Eidaleg (Yr Eidal)'
 eo: Esperanto
@@ -123,7 +118,8 @@ ee_TG: 'Ewe (Togo)'
 vi: Fietnameg
 vi_VN: 'Fietnameg (Fietnam)'
 fo: Ffaröeg
-fo_FO: 'Ffaröeg (Føroyar)'
+fo_DK: 'Ffaröeg (Denmarc)'
+fo_FO: 'Ffaröeg (Ynysoedd Ffaro)'
 fi: Ffinneg
 fi_FI: 'Ffinneg (Y Ffindir)'
 fr: Ffrangeg
@@ -162,7 +158,7 @@ fr_RW: 'Ffrangeg (Rwanda)'
 fr_BL: 'Ffrangeg (Saint Barthélemy)'
 fr_MF: 'Ffrangeg (Saint Martin)'
 fr_PM: 'Ffrangeg (Saint-Pierre-et-Miquelon)'
-fr_SN: 'Ffrangeg (Sénégal)'
+fr_SN: 'Ffrangeg (Senegal)'
 fr_SC: 'Ffrangeg (Seychelles)'
 fr_SY: 'Ffrangeg (Syria)'
 fr_TD: 'Ffrangeg (Tchad)'
@@ -179,7 +175,7 @@ ff: Ffwla
 ff_CM: 'Ffwla (Camerŵn)'
 ff_GN: 'Ffwla (Guinée)'
 ff_MR: 'Ffwla (Mauritania)'
-ff_SN: 'Ffwla (Sénégal)'
+ff_SN: 'Ffwla (Senegal)'
 gd: 'Gaeleg yr Alban'
 gd_GB: 'Gaeleg yr Alban (Y Deyrnas Unedig)'
 gl: Galisieg
@@ -197,10 +193,6 @@ ga: Gwyddeleg
 ga_IE: 'Gwyddeleg (Iwerddon)'
 ha: Hawsa
 ha_GH: 'Hawsa (Ghana)'
-ha_Latn_GH: 'Hawsa (Lladin, Ghana)'
-ha_Latn_NE: 'Hawsa (Lladin, Niger)'
-ha_Latn_NG: 'Hawsa (Lladin, Nigeria)'
-ha_Latn: 'Hawsa (Lladin)'
 ha_NE: 'Hawsa (Niger)'
 ha_NG: 'Hawsa (Nigeria)'
 he: Hebraeg
@@ -230,11 +222,11 @@ is_IS: 'Islandeg (Gwlad yr Iâ)'
 ja: Japaneeg
 ja_JP: 'Japaneeg (Japan)'
 kl: Kalaallisut
-kl_GL: 'Kalaallisut (Greenland)'
+kl_GL: 'Kalaallisut (Yr Ynys Las)'
 kn: Kannada
 kn_IN: 'Kannada (India)'
-ki: ki
-ki_KE: 'ki (Kenya)'
+ki: Kikuyu
+ki_KE: 'Kikuyu (Kenya)'
 lo: Laoeg
 lo_LA: 'Laoeg (Laos)'
 lv: Latfieg
@@ -247,7 +239,7 @@ ln_CD: 'Lingala (Y Congo - Kinshasa)'
 lt: Lithwaneg
 lt_LT: 'Lithwaneg (Lithuania)'
 lu: Luba-Katanga
-lu_CD: 'Luba-Katanga (Congo - Kinshasa)'
+lu_CD: 'Luba-Katanga (Y Congo - Kinshasa)'
 lb: Lwcsembwrgeg
 lb_LU: 'Lwcsembwrgeg (Lwcsembwrg)'
 br: Llydaweg
@@ -260,10 +252,6 @@ ml: Malayalam
 ml_IN: 'Malayalam (India)'
 ms: Maleieg
 ms_BN: 'Maleieg (Brunei)'
-ms_Latn_BN: 'Maleieg (Lladin, Brunei)'
-ms_Latn_MY: 'Maleieg (Lladin, Malaysia)'
-ms_Latn_SG: 'Maleieg (Lladin, Singapore)'
-ms_Latn: 'Maleieg (Lladin)'
 ms_MY: 'Maleieg (Malaysia)'
 ms_SG: 'Maleieg (Singapore)'
 mt: Malteg
@@ -273,8 +261,6 @@ gv_IM: 'Manaweg (Ynys Manaw)'
 mr: Marathi
 mr_IN: 'Marathi (India)'
 mn: Mongoleg
-mn_Cyrl_MN: 'Mongoleg (Cyrilig, Mongolia)'
-mn_Cyrl: 'Mongoleg (Cyrilig)'
 mn_MN: 'Mongoleg (Mongolia)'
 nd: 'Ndebele Gogleddol'
 nd_ZW: 'Ndebele Gogleddol (Zimbabwe)'
@@ -308,11 +294,14 @@ pt_AO: 'Portiwgeeg (Angola)'
 pt_BR: 'Portiwgeeg (Brasil)'
 pt_CV: 'Portiwgeeg (Cabo Verde)'
 pt_GW: 'Portiwgeeg (Guiné-Bissau)'
+pt_GQ: 'Portiwgeeg (Guinea Gyhydeddol)'
+pt_LU: 'Portiwgeeg (Lwcsembwrg)'
 pt_MO: 'Portiwgeeg (Macau RhGA Tsieina)'
 pt_MZ: 'Portiwgeeg (Mozambique)'
 pt_PT: 'Portiwgeeg (Portiwgal)'
 pt_ST: 'Portiwgeeg (São Tomé a Príncipe)'
 pt_TL: 'Portiwgeeg (Timor-Leste)'
+pt_CH: 'Portiwgeeg (Y Swistir)'
 pa: Pwnjabeg
 pa_Arab_PK: 'Pwnjabeg (Arabaidd, Pakistan)'
 pa_Arab: 'Pwnjabeg (Arabaidd)'
@@ -326,8 +315,8 @@ qu: Quechua
 qu_BO: 'Quechua (Bolifia)'
 qu_EC: 'Quechua (Ecuador)'
 qu_PE: 'Quechua (Periw)'
-rm: Romaunsch
-rm_CH: 'Romaunsch (Y Swistir)'
+rm: Románsh
+rm_CH: 'Románsh (Y Swistir)'
 ro: Rwmaneg
 ro_MD: 'Rwmaneg (Moldofa)'
 ro_RO: 'Rwmaneg (Rwmania)'
@@ -344,14 +333,18 @@ en: Saesneg
 en_AI: 'Saesneg (Anguilla)'
 en_AG: 'Saesneg (Antigua a Barbuda)'
 en_AU: 'Saesneg (Awstralia)'
+en_AT: 'Saesneg (Awstria)'
 en_BB: 'Saesneg (Barbados)'
 en_BZ: 'Saesneg (Belize)'
 en_BM: 'Saesneg (Bermuda)'
 en_BW: 'Saesneg (Botswana)'
+en_BI: 'Saesneg (Burundi)'
 en_CM: 'Saesneg (Camerŵn)'
 en_CA: 'Saesneg (Canada)'
+en_CY: 'Saesneg (Cyprus)'
 en_ZA: 'Saesneg (De Affrica)'
 en_SS: 'Saesneg (De Swdan)'
+en_DK: 'Saesneg (Denmarc)'
 en_DG: 'Saesneg (Diego Garcia)'
 en_DM: 'Saesneg (Dominica)'
 en_ER: 'Saesneg (Eritrea)'
@@ -366,6 +359,7 @@ en_BE: 'Saesneg (Gwlad Belg)'
 en_SZ: 'Saesneg (Gwlad Swazi)'
 en_HK: 'Saesneg (Hong Kong RhGA Tsieina)'
 en_IN: 'Saesneg (India)'
+en_IL: 'Saesneg (Israel)'
 en_IE: 'Saesneg (Iwerddon)'
 en_JM: 'Saesneg (Jamaica)'
 en_JE: 'Saesneg (Jersey)'
@@ -388,7 +382,6 @@ en_NU: 'Saesneg (Niue)'
 en_PK: 'Saesneg (Pakistan)'
 en_PW: 'Saesneg (Palau)'
 en_PG: 'Saesneg (Papua Guinea Newydd)'
-en_PH: 'Saesneg (Pilipinas)'
 en_PR: 'Saesneg (Puerto Rico)'
 en_RW: 'Saesneg (Rwanda)'
 en_SH: 'Saesneg (Saint Helena)'
@@ -402,7 +395,9 @@ en_SC: 'Saesneg (Seychelles)'
 en_SL: 'Saesneg (Sierra Leone)'
 en_SG: 'Saesneg (Singapore)'
 en_SX: 'Saesneg (Sint Maarten)'
+en_SI: 'Saesneg (Slofenia)'
 en_SD: 'Saesneg (Swdan)'
+en_SE: 'Saesneg (Sweden)'
 en_TZ: 'Saesneg (Tanzania)'
 en_IO: 'Saesneg (Tiriogaeth Brydeinig Cefnfor India)'
 en_TO: 'Saesneg (Tonga)'
@@ -413,6 +408,9 @@ en_UG: 'Saesneg (Uganda)'
 en_VU: 'Saesneg (Vanuatu)'
 en_BS: 'Saesneg (Y Bahamas)'
 en_GB: 'Saesneg (Y Deyrnas Unedig)'
+en_FI: 'Saesneg (Y Ffindir)'
+en_PH: 'Saesneg (Y Philipinau)'
+en_CH: 'Saesneg (Y Swistir)'
 en_IM: 'Saesneg (Ynys Manaw)'
 en_NF: 'Saesneg (Ynys Norfolk)'
 en_GG: 'Saesneg (Ynys y Garn)'
@@ -429,6 +427,8 @@ en_PN: 'Saesneg (Ynysoedd Pitcairn)'
 en_SB: 'Saesneg (Ynysoedd Solomon)'
 en_TC: 'Saesneg (Ynysoedd Turks a Caicos)'
 en_FK: 'Saesneg (Ynysoedd y Falkland/Malvinas)'
+en_DE: 'Saesneg (Yr Almaen)'
+en_NL: 'Saesneg (Yr Iseldiroedd)'
 en_US: 'Saesneg (Yr Unol Daleithiau)'
 en_ZM: 'Saesneg (Zambia)'
 en_ZW: 'Saesneg (Zimbabwe)'
@@ -439,7 +439,9 @@ se_NO: 'Sami Gogleddol (Norwy)'
 se_SE: 'Sami Gogleddol (Sweden)'
 se_FI: 'Sami Gogleddol (Y Ffindir)'
 es: Sbaeneg
+es_BZ: 'Sbaeneg (Belize)'
 es_BO: 'Sbaeneg (Bolifia)'
+es_BR: 'Sbaeneg (Brasil)'
 es_EA: 'Sbaeneg (Ceuta a Melilla)'
 es_CU: 'Sbaeneg (Ciwba)'
 es_CO: 'Sbaeneg (Colombia)'
@@ -456,11 +458,11 @@ es_NI: 'Sbaeneg (Nicaragua)'
 es_PA: 'Sbaeneg (Panama)'
 es_PY: 'Sbaeneg (Paraguay)'
 es_PE: 'Sbaeneg (Periw)'
-es_PH: 'Sbaeneg (Pilipinas)'
 es_PR: 'Sbaeneg (Puerto Rico)'
 es_ES: 'Sbaeneg (Sbaen)'
 es_UY: 'Sbaeneg (Uruguay)'
 es_VE: 'Sbaeneg (Venezuela)'
+es_PH: 'Sbaeneg (Y Philipinau)'
 es_AR: 'Sbaeneg (Yr Ariannin)'
 es_US: 'Sbaeneg (Yr Unol Daleithiau)'
 es_IC: 'Sbaeneg (Yr Ynysoedd Dedwydd)'
@@ -498,6 +500,7 @@ sw: Swahili
 sw_KE: 'Swahili (Kenya)'
 sw_TZ: 'Swahili (Tanzania)'
 sw_UG: 'Swahili (Uganda)'
+sw_CD: 'Swahili (Y Congo - Kinshasa)'
 sv: Swedeg
 sv_SE: 'Swedeg (Sweden)'
 sv_FI: 'Swedeg (Y Ffindir)'
@@ -505,7 +508,7 @@ sv_AX: 'Swedeg (Ynysoedd Åland)'
 zu: Swlw
 zu_ZA: 'Swlw (De Affrica)'
 tl: Tagalog
-tl_PH: 'Tagalog (Pilipinas)'
+tl_PH: 'Tagalog (Y Philipinau)'
 ta: Tamileg
 ta_IN: 'Tamileg (India)'
 ta_MY: 'Tamileg (Malaysia)'
@@ -522,7 +525,7 @@ ti_ET: 'Tigrinya (Ethiopia)'
 to: Tongeg
 to_TO: 'Tongeg (Tonga)'
 cs: Tsieceg
-cs_CZ: 'Tsieceg (Gweriniaeth Tsiec)'
+cs_CZ: 'Tsieceg (Tsiecia)'
 zh: Tsieineeg
 zh_HK: 'Tsieineeg (Hong Kong RhGA Tsieina)'
 zh_MO: 'Tsieineeg (Macau RhGA Tsieina)'
@@ -538,14 +541,14 @@ zh_Hant_MO: 'Tsieineeg (Traddodiadol, Macau RhGA Tsieina)'
 zh_Hant_TW: 'Tsieineeg (Traddodiadol, Taiwan)'
 zh_Hant: 'Tsieineeg (Traddodiadol)'
 zh_CN: 'Tsieineeg (Tsieina)'
+ce: Tsietsieneg
+ce_RU: 'Tsietsieneg (Rwsia)'
 tr: Tyrceg
 tr_CY: 'Tyrceg (Cyprus)'
 tr_TR: 'Tyrceg (Twrci)'
 th: Thai
 th_TH: 'Thai (Gwlad Thai)'
 ug: Uighur
-ug_Arab_CN: 'Uighur (Arabaidd, Tsieina)'
-ug_Arab: 'Uighur (Arabaidd)'
 ug_CN: 'Uighur (Tsieina)'
 uk: Wcreineg
 uk_UA: 'Wcreineg (Wcráin)'

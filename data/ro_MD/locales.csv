@@ -7,7 +7,7 @@ ak_GH,"akan (Ghana)"
 sq,albaneză
 sq_AL,"albaneză (Albania)"
 sq_XK,"albaneză (Kosovo)"
-sq_MK,"albaneză (Macedonia)"
+sq_MK,"albaneză (Republica Macedonia)"
 am,amharică
 am_ET,"amharică (Etiopia)"
 ar,arabă
@@ -49,8 +49,7 @@ az_Cyrl,"azeră (chirilică)"
 az_Latn_AZ,"azeră (latină, Azerbaidjan)"
 az_Latn,"azeră (latină)"
 bm,bambara
-bm_Latn_ML,"bambara (latină, Mali)"
-bm_Latn,"bambara (latină)"
+bm_ML,"bambara (Mali)"
 eu,bască
 eu_ES,"bască (Spania)"
 bn,bengaleză
@@ -58,8 +57,8 @@ bn_BD,"bengaleză (Bangladesh)"
 bn_IN,"bengaleză (India)"
 be,bielorusă
 be_BY,"bielorusă (Belarus)"
-my,birmaneză
-my_MM,"birmaneză (Myanmar (Birmania))"
+my,birmană
+my_MM,"birmană (Myanmar)"
 bs,bosniacă
 bs_BA,"bosniacă (Bosnia și Herțegovina)"
 bs_Cyrl_BA,"bosniacă (chirilică, Bosnia și Herțegovina)"
@@ -71,16 +70,16 @@ br_FR,"bretonă (Franța)"
 bg,bulgară
 bg_BG,"bulgară (Bulgaria)"
 ks,cașmiră
-ks_Arab_IN,"cașmiră (arabă, India)"
-ks_Arab,"cașmiră (arabă)"
 ks_IN,"cașmiră (India)"
 ca,catalană
 ca_AD,"catalană (Andorra)"
 ca_FR,"catalană (Franța)"
 ca_IT,"catalană (Italia)"
 ca_ES,"catalană (Spania)"
+ce,cecenă
+ce_RU,"cecenă (Rusia)"
 cs,cehă
-cs_CZ,"cehă (Republica Cehă)"
+cs_CZ,"cehă (Cehia)"
 zh,chineză
 zh_CN,"chineză (China)"
 zh_HK,"chineză (R.A.S. Hong Kong a Chinei)"
@@ -116,20 +115,27 @@ en_ZA,"engleză (Africa de Sud)"
 en_AI,"engleză (Anguilla)"
 en_AG,"engleză (Antigua și Barbuda)"
 en_AU,"engleză (Australia)"
+en_AT,"engleză (Austria)"
 en_BS,"engleză (Bahamas)"
 en_BB,"engleză (Barbados)"
 en_BE,"engleză (Belgia)"
 en_BZ,"engleză (Belize)"
 en_BM,"engleză (Bermuda)"
 en_BW,"engleză (Botswana)"
+en_BI,"engleză (Burundi)"
 en_CM,"engleză (Camerun)"
 en_CA,"engleză (Canada)"
+en_CY,"engleză (Cipru)"
+en_DK,"engleză (Danemarca)"
 en_DG,"engleză (Diego Garcia)"
 en_DM,"engleză (Dominica)"
+en_CH,"engleză (Elveția)"
 en_ER,"engleză (Eritreea)"
 en_FJ,"engleză (Fiji)"
 en_PH,"engleză (Filipine)"
+en_FI,"engleză (Finlanda)"
 en_GM,"engleză (Gambia)"
+en_DE,"engleză (Germania)"
 en_GH,"engleză (Ghana)"
 en_GI,"engleză (Gibraltar)"
 en_GD,"engleză (Grenada)"
@@ -139,6 +145,7 @@ en_GY,"engleză (Guyana)"
 en_IN,"engleză (India)"
 en_CX,"engleză (Insula Christmas)"
 en_IM,"engleză (Insula Man)"
+en_NF,"engleză (Insula Norfolk)"
 en_KY,"engleză (Insulele Cayman)"
 en_CC,"engleză (Insulele Cocos (Keeling))"
 en_CK,"engleză (Insulele Cook)"
@@ -146,13 +153,13 @@ en_FK,"engleză (Insulele Falkland)"
 en_UM,"engleză (Insulele Îndepărtate ale S.U.A.)"
 en_MP,"engleză (Insulele Mariane de Nord)"
 en_MH,"engleză (Insulele Marshall)"
-en_NF,"engleză (Insulele Norfolk)"
 en_PN,"engleză (Insulele Pitcairn)"
 en_SB,"engleză (Insulele Solomon)"
 en_TC,"engleză (Insulele Turks și Caicos)"
+en_VI,"engleză (Insulele Virgine Americane)"
 en_VG,"engleză (Insulele Virgine Britanice)"
-en_VI,"engleză (Insulele Virgine S.U.A.)"
 en_IE,"engleză (Irlanda)"
+en_IL,"engleză (Israel)"
 en_JM,"engleză (Jamaica)"
 en_JE,"engleză (Jersey)"
 en_KE,"engleză (Kenya)"
@@ -160,8 +167,8 @@ en_KI,"engleză (Kiribati)"
 en_LS,"engleză (Lesotho)"
 en_LR,"engleză (Liberia)"
 en_MG,"engleză (Madagascar)"
-en_MY,"engleză (Malaezia)"
 en_MW,"engleză (Malawi)"
+en_MY,"engleză (Malaysia)"
 en_MT,"engleză (Malta)"
 en_MU,"engleză (Mauritius)"
 en_FM,"engleză (Micronezia)"
@@ -180,7 +187,7 @@ en_MO,"engleză (R.A.S. Macao a Chinei)"
 en_GB,"engleză (Regatul Unit)"
 en_RW,"engleză (Rwanda)"
 en_KN,"engleză (Saint Kitts și Nevis)"
-en_VC,"engleză (Saint Vincent și Grenadine)"
+en_VC,"engleză (Saint Vincent și Grenadinele)"
 en_AS,"engleză (Samoa Americană)"
 en_WS,"engleză (Samoa)"
 en_SC,"engleză (Seychelles)"
@@ -189,9 +196,11 @@ en_LC,"engleză (Sfânta Lucia)"
 en_SL,"engleză (Sierra Leone)"
 en_SG,"engleză (Singapore)"
 en_SX,"engleză (Sint-Maarten)"
+en_SI,"engleză (Slovenia)"
 en_US,"engleză (Statele Unite ale Americii)"
 en_SD,"engleză (Sudan)"
 en_SS,"engleză (Sudanul de Sud)"
+en_SE,"engleză (Suedia)"
 en_SZ,"engleză (Swaziland)"
 en_TZ,"engleză (Tanzania)"
 en_IO,"engleză (Teritoriul Britanic din Oceanul Indian)"
@@ -199,17 +208,19 @@ en_TK,"engleză (Tokelau)"
 en_TO,"engleză (Tonga)"
 en_TT,"engleză (Trinidad și Tobago)"
 en_TV,"engleză (Tuvalu)"
+en_NL,"engleză (Țările de Jos)"
 en_UG,"engleză (Uganda)"
 en_VU,"engleză (Vanuatu)"
 en_ZM,"engleză (Zambia)"
 en_ZW,"engleză (Zimbabwe)"
 eo,esperanto
-et,estoniană
-et_EE,"estoniană (Estonia)"
+et,estonă
+et_EE,"estonă (Estonia)"
 ee,ewe
 ee_GH,"ewe (Ghana)"
 ee_TG,"ewe (Togo)"
 fo,faroeză
+fo_DK,"faroeză (Danemarca)"
 fo_FO,"faroeză (Insulele Feroe)"
 fi,finlandeză
 fi_FI,"finlandeză (Finlanda)"
@@ -282,6 +293,7 @@ de_AT,"germană (Austria)"
 de_BE,"germană (Belgia)"
 de_CH,"germană (Elveția)"
 de_DE,"germană (Germania)"
+de_IT,"germană (Italia)"
 de_LI,"germană (Liechtenstein)"
 de_LU,"germană (Luxemburg)"
 el,greacă
@@ -291,10 +303,6 @@ gu,gujarati
 gu_IN,"gujarati (India)"
 ha,hausa
 ha_GH,"hausa (Ghana)"
-ha_Latn_GH,"hausa (latină, Ghana)"
-ha_Latn_NE,"hausa (latină, Niger)"
-ha_Latn_NG,"hausa (latină, Nigeria)"
-ha_Latn,"hausa (latină)"
 ha_NE,"hausa (Niger)"
 ha_NG,"hausa (Nigeria)"
 hi,hindi
@@ -312,6 +320,7 @@ it,italiană
 it_CH,"italiană (Elveția)"
 it_IT,"italiană (Italia)"
 it_SM,"italiană (San Marino)"
+it_VA,"italiană (Statul Cetății Vaticanului)"
 ja,japoneză
 ja_JP,"japoneză (Japonia)"
 kl,kalaallisut
@@ -319,12 +328,8 @@ kl_GL,"kalaallisut (Groenlanda)"
 kn,kannada
 kn_IN,"kannada (India)"
 kk,kazahă
-kk_Cyrl_KZ,"kazahă (chirilică, Kazahstan)"
-kk_Cyrl,"kazahă (chirilică)"
 kk_KZ,"kazahă (Kazahstan)"
 ky,kârgâză
-ky_Cyrl_KG,"kârgâză (chirilică, Kârgâzstan)"
-ky_Cyrl,"kârgâză (chirilică)"
 ky_KG,"kârgâză (Kârgâzstan)"
 km,khmeră
 km_KH,"khmeră (Cambodgia)"
@@ -350,16 +355,12 @@ lu_CD,"luba-katanga (Congo - Kinshasa)"
 lb,luxemburgheză
 lb_LU,"luxemburgheză (Luxemburg)"
 mk,macedoneană
-mk_MK,"macedoneană (Macedonia)"
+mk_MK,"macedoneană (Republica Macedonia)"
 hu,maghiară
 hu_HU,"maghiară (Ungaria)"
 ms,malaeză
 ms_BN,"malaeză (Brunei)"
-ms_Latn_BN,"malaeză (latină, Brunei)"
-ms_Latn_MY,"malaeză (latină, Malaezia)"
-ms_Latn_SG,"malaeză (latină, Singapore)"
-ms_Latn,"malaeză (latină)"
-ms_MY,"malaeză (Malaezia)"
+ms_MY,"malaeză (Malaysia)"
 ms_SG,"malaeză (Singapore)"
 ml,malayalam
 ml_IN,"malayalam (India)"
@@ -372,11 +373,17 @@ gv_IM,"manx (Insula Man)"
 mr,marathi
 mr_IN,"marathi (India)"
 mn,mongolă
-mn_Cyrl_MN,"mongolă (chirilică, Mongolia)"
-mn_Cyrl,"mongolă (chirilică)"
 mn_MN,"mongolă (Mongolia)"
 nd,"ndebele de nord"
 nd_ZW,"ndebele de nord (Zimbabwe)"
+nl,neerlandeză
+nl_AW,"neerlandeză (Aruba)"
+nl_BE,"neerlandeză (Belgia)"
+nl_CW,"neerlandeză (Curaçao)"
+nl_BQ,"neerlandeză (Insulele Caraibe Olandeze)"
+nl_SX,"neerlandeză (Sint-Maarten)"
+nl_SR,"neerlandeză (Suriname)"
+nl_NL,"neerlandeză (Țările de Jos)"
 ne,nepaleză
 ne_IN,"nepaleză (India)"
 ne_NP,"nepaleză (Nepal)"
@@ -387,14 +394,6 @@ nb_NO,"norvegiană bokmål (Norvegia)"
 nb_SJ,"norvegiană bokmål (Svalbard și Jan Mayen)"
 nn,"norvegiană nynorsk"
 nn_NO,"norvegiană nynorsk (Norvegia)"
-nl,olandeză
-nl_AW,"olandeză (Aruba)"
-nl_BE,"olandeză (Belgia)"
-nl_CW,"olandeză (Curaçao)"
-nl_BQ,"olandeză (Insulele Caraibe Olandeze)"
-nl_SX,"olandeză (Sint-Maarten)"
-nl_SR,"olandeză (Surinam)"
-nl_NL,"olandeză (Țările de Jos)"
 or,oriya
 or_IN,"oriya (India)"
 om,oromo
@@ -414,11 +413,14 @@ pt,portugheză
 pt_AO,"portugheză (Angola)"
 pt_BR,"portugheză (Brazilia)"
 pt_CV,"portugheză (Capul Verde)"
+pt_CH,"portugheză (Elveția)"
+pt_GQ,"portugheză (Guineea Ecuatorială)"
 pt_GW,"portugheză (Guineea-Bissau)"
+pt_LU,"portugheză (Luxemburg)"
 pt_MZ,"portugheză (Mozambic)"
 pt_PT,"portugheză (Portugalia)"
 pt_MO,"portugheză (R.A.S. Macao a Chinei)"
-pt_ST,"portugheză (Sao Tome și Principe)"
+pt_ST,"portugheză (Sao Tomé și Príncipe)"
 pt_TL,"portugheză (Timorul de Est)"
 pa,punjabi
 pa_Arab_PK,"punjabi (arabă, Pakistan)"
@@ -470,8 +472,8 @@ sn,shona
 sn_ZW,"shona (Zimbabwe)"
 ii,"sichuan yi"
 ii_CN,"sichuan yi (China)"
-si,singhaleză
-si_LK,"singhaleză (Sri Lanka)"
+si,singaleză
+si_LK,"singaleză (Sri Lanka)"
 sk,slovacă
 sk_SK,"slovacă (Slovacia)"
 sl,slovenă
@@ -483,7 +485,9 @@ so_KE,"somaleză (Kenya)"
 so_SO,"somaleză (Somalia)"
 es,spaniolă
 es_AR,"spaniolă (Argentina)"
+es_BZ,"spaniolă (Belize)"
 es_BO,"spaniolă (Bolivia)"
+es_BR,"spaniolă (Brazilia)"
 es_EA,"spaniolă (Ceuta și Melilla)"
 es_CL,"spaniolă (Chile)"
 es_CO,"spaniolă (Columbia)"
@@ -512,6 +516,7 @@ sv_FI,"suedeză (Finlanda)"
 sv_AX,"suedeză (Insulele Åland)"
 sv_SE,"suedeză (Suedia)"
 sw,swahili
+sw_CD,"swahili (Congo - Kinshasa)"
 sw_KE,"swahili (Kenya)"
 sw_TZ,"swahili (Tanzania)"
 sw_UG,"swahili (Uganda)"
@@ -519,7 +524,7 @@ tl,tagalog
 tl_PH,"tagalog (Filipine)"
 ta,tamilă
 ta_IN,"tamilă (India)"
-ta_MY,"tamilă (Malaezia)"
+ta_MY,"tamilă (Malaysia)"
 ta_SG,"tamilă (Singapore)"
 ta_LK,"tamilă (Sri Lanka)"
 te,telugu
@@ -532,16 +537,14 @@ bo_IN,"tibetană (India)"
 ti,tigrină
 ti_ER,"tigrină (Eritreea)"
 ti_ET,"tigrină (Etiopia)"
-to,tonga
-to_TO,"tonga (Tonga)"
+to,tongană
+to_TO,"tongană (Tonga)"
 tr,turcă
 tr_CY,"turcă (Cipru)"
 tr_TR,"turcă (Turcia)"
 uk,ucraineană
 uk_UA,"ucraineană (Ucraina)"
 ug,uigură
-ug_Arab_CN,"uigură (arabă, China)"
-ug_Arab,"uigură (arabă)"
 ug_CN,"uigură (China)"
 ur,urdu
 ur_IN,"urdu (India)"

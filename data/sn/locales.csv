@@ -20,8 +20,7 @@ az_Cyrl,"Azerbaijani (Cyrillic)"
 az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
 az_Latn,"Azerbaijani (Latin)"
 bm,Bambara
-bm_Latn_ML,"Bambara (Latin, Mali)"
-bm_Latn,"Bambara (Latin)"
+bm_ML,"Bambara (Mali)"
 eu,Basque
 eu_ES,"Basque (Spain)"
 bs,Bosnian
@@ -37,6 +36,8 @@ ca_AD,"Catalan (Andorra)"
 ca_FR,"Catalan (France)"
 ca_IT,"Catalan (Italy)"
 ca_ES,"Catalan (Spain)"
+ce,Chechen
+ce_RU,"Chechen (Russia)"
 ak,chiAkani
 ak_GH,"chiAkani (Ghana)"
 am,chiAmaric
@@ -152,6 +153,7 @@ de,chiJerimani
 de_AT,"chiJerimani (Austria)"
 de_BE,"chiJerimani (Beljium)"
 de_DE,"chiJerimani (Germany)"
+de_IT,"chiJerimani (Italy)"
 de_LI,"chiJerimani (Liechtenstein)"
 de_LU,"chiJerimani (Luxembourg)"
 de_CH,"chiJerimani (Switzerland)"
@@ -190,10 +192,13 @@ pt,chiPutukezi
 pt_AO,"chiPutukezi (Angola)"
 pt_BR,"chiPutukezi (Brazil)"
 pt_TL,"chiPutukezi (East Timor)"
+pt_GQ,"chiPutukezi (Equatorial Guinea)"
 pt_GW,"chiPutukezi (Guinea-Bissau)"
+pt_LU,"chiPutukezi (Luxembourg)"
 pt_MZ,"chiPutukezi (Mozambique)"
 pt_PT,"chiPutukezi (Portugal)"
 pt_ST,"chiPutukezi (São Tomé and Príncipe)"
+pt_CH,"chiPutukezi (Switzerland)"
 pt_CV,"chiPutukezi (Zvitsuwa zveCape Verde)"
 ru,chiRashiya
 ru_BY,"chiRashiya (Belarusi)"
@@ -210,6 +215,7 @@ en_US,"Chirungu (Amerika)"
 en_AI,"Chirungu (Anguila)"
 en_AG,"Chirungu (Antigua ne Barbuda)"
 en_AU,"Chirungu (Australia)"
+en_AT,"Chirungu (Austria)"
 en_BS,"Chirungu (Bahama)"
 en_BB,"Chirungu (Barbados)"
 en_BZ,"Chirungu (Belize)"
@@ -217,11 +223,16 @@ en_BE,"Chirungu (Beljium)"
 en_BM,"Chirungu (Bermuda)"
 en_BW,"Chirungu (Botswana)"
 en_IO,"Chirungu (British Indian Ocean Territory)"
+en_BI,"Chirungu (Burundi)"
 en_NF,"Chirungu (Chitsuwa cheNorfolk)"
+en_CY,"Chirungu (Cyprus)"
+en_DK,"Chirungu (Denmark)"
 en_DM,"Chirungu (Dominica)"
 en_ER,"Chirungu (Eritrea)"
 en_FJ,"Chirungu (Fiji)"
+en_FI,"Chirungu (Finland)"
 en_GM,"Chirungu (Gambia)"
+en_DE,"Chirungu (Germany)"
 en_GH,"Chirungu (Ghana)"
 en_GI,"Chirungu (Gibraltar)"
 en_GD,"Chirungu (Grenada)"
@@ -229,6 +240,7 @@ en_GU,"Chirungu (Guam)"
 en_GY,"Chirungu (Guyana)"
 en_IN,"Chirungu (India)"
 en_IE,"Chirungu (Ireland)"
+en_IL,"Chirungu (Izuraeri)"
 en_JM,"Chirungu (Jamaica)"
 en_CM,"Chirungu (Kameruni)"
 en_CA,"Chirungu (Kanada)"
@@ -245,6 +257,7 @@ en_FM,"Chirungu (Micronesia)"
 en_MS,"Chirungu (Montserrat)"
 en_NA,"Chirungu (Namibia)"
 en_NR,"Chirungu (Nauru)"
+en_NL,"Chirungu (Netherlands)"
 en_NZ,"Chirungu (New Zealand)"
 en_NG,"Chirungu (Nigeria)"
 en_NU,"Chirungu (Niue)"
@@ -264,9 +277,12 @@ en_WS,"Chirungu (Samoa)"
 en_SC,"Chirungu (Seychelles)"
 en_SL,"Chirungu (Sierra Leone)"
 en_SG,"Chirungu (Singapore)"
+en_SI,"Chirungu (Slovenia)"
 en_ZA,"Chirungu (South Africa)"
 en_SD,"Chirungu (Sudan)"
 en_SZ,"Chirungu (Swaziland)"
+en_SE,"Chirungu (Sweden)"
+en_CH,"Chirungu (Switzerland)"
 en_TZ,"Chirungu (Tanzania)"
 en_TK,"Chirungu (Tokelau)"
 en_TO,"Chirungu (Tonga)"
@@ -298,7 +314,9 @@ so_SO,"chiSomali (Somalia)"
 es,chiSpanish
 es_AR,"chiSpanish (Ajentina)"
 es_US,"chiSpanish (Amerika)"
+es_BZ,"chiSpanish (Belize)"
 es_BO,"chiSpanish (Bolivia)"
+es_BR,"chiSpanish (Brazil)"
 es_CL,"chiSpanish (Chile)"
 es_CU,"chiSpanish (Cuba)"
 es_DO,"chiSpanish (Dominican Republic)"
@@ -331,6 +349,7 @@ it,chiTariana
 it_IT,"chiTariana (Italy)"
 it_SM,"chiTariana (San Marino)"
 it_CH,"chiTariana (Switzerland)"
+it_VA,"chiTariana (Vatican State)"
 th,chiThai
 th_TH,"chiThai (Thailand)"
 tr,chiTurkish
@@ -379,6 +398,7 @@ ee,Ewe
 ee_GH,"Ewe (Ghana)"
 ee_TG,"Ewe (Togo)"
 fo,Faroese
+fo_DK,"Faroese (Denmark)"
 fo_FO,"Faroese (Faroe Islands)"
 fi,Finnish
 fi_FI,"Finnish (Finland)"
@@ -397,10 +417,6 @@ ka,Georgian
 ka_GE,"Georgian (Georgia)"
 gu,Gujarati
 gu_IN,"Gujarati (India)"
-ha_Latn_GH,"Hausa (Latin, Ghana)"
-ha_Latn_NE,"Hausa (Latin, Niger)"
-ha_Latn_NG,"Hausa (Latin, Nigeria)"
-ha_Latn,"Hausa (Latin)"
 he,Hebrew
 he_IL,"Hebrew (Israel)"
 is,Icelandic
@@ -412,18 +428,12 @@ kl_GL,"Kalaallisut (Greenland)"
 kn,Kannada
 kn_IN,"Kannada (India)"
 ks,Kashmiri
-ks_Arab_IN,"Kashmiri (Arabic, India)"
-ks_Arab,"Kashmiri (Arabic)"
 ks_IN,"Kashmiri (India)"
 kk,Kazakh
-kk_Cyrl_KZ,"Kazakh (Cyrillic, Kazakhstan)"
-kk_Cyrl,"Kazakh (Cyrillic)"
 kk_KZ,"Kazakh (Kazakhstan)"
 ki,Kikuyu
 ki_KE,"Kikuyu (Kenya)"
 ky,Kyrgyz
-ky_Cyrl_KG,"Kyrgyz (Cyrillic, Kyrgyzstan)"
-ky_Cyrl,"Kyrgyz (Cyrillic)"
 ky_KG,"Kyrgyz (Kyrgyzstan)"
 lo,Lao
 lo_LA,"Lao (Laos)"
@@ -444,10 +454,6 @@ mk,Macedonian
 mk_MK,"Macedonian (Macedonia)"
 mg,Malagasy
 mg_MG,"Malagasy (Madagascar)"
-ms_Latn_BN,"Malay (Latin, Brunei)"
-ms_Latn_MY,"Malay (Latin, Malaysia)"
-ms_Latn_SG,"Malay (Latin, Singapore)"
-ms_Latn,"Malay (Latin)"
 ml,Malayalam
 ml_IN,"Malayalam (India)"
 mt,Maltese
@@ -457,8 +463,6 @@ gv_IM,"Manx (Isle of Man)"
 mr,Marathi
 mr_IN,"Marathi (India)"
 mn,Mongolian
-mn_Cyrl_MN,"Mongolian (Cyrillic, Mongolia)"
-mn_Cyrl,"Mongolian (Cyrillic)"
 mn_MN,"Mongolian (Mongolia)"
 nd,"North Ndebele"
 nd_ZW,"North Ndebele (Zimbabwe)"
@@ -473,8 +477,8 @@ nb_NO,"Norwegian Bokmål (Norway)"
 nb_SJ,"Norwegian Bokmål (Svalbard & Jan Mayen)"
 nn,"Norwegian Nynorsk"
 nn_NO,"Norwegian Nynorsk (Norway)"
-or,Oriya
-or_IN,"Oriya (India)"
+or,Odia
+or_IN,"Odia (India)"
 om,Oromo
 om_ET,"Oromo (Ethiopia)"
 om_KE,"Oromo (Kenya)"
@@ -528,6 +532,7 @@ sl_SI,"Slovenian (Slovenia)"
 es_IC,"Spanish (Canary Islands)"
 es_EA,"Spanish (Ceuta & Melilla)"
 sw,Swahili
+sw_CD,"Swahili (Congo - Kinshasa)"
 sw_KE,"Swahili (Kenya)"
 sw_TZ,"Swahili (Tanzania)"
 sw_UG,"Swahili (Uganda)"
@@ -545,8 +550,6 @@ ti_ET,"Tigrinya (Ethiopia)"
 to,Tongan
 to_TO,"Tongan (Tonga)"
 ug,Uyghur
-ug_Arab_CN,"Uyghur (Arabic, China)"
-ug_Arab,"Uyghur (Arabic)"
 ug_CN,"Uyghur (China)"
 uz,Uzbek
 uz_AF,"Uzbek (Afghanistan)"

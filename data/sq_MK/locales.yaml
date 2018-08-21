@@ -3,51 +3,59 @@ af_ZA: 'afrikanisht (Afrika e Jugut)'
 af_NA: 'afrikanisht (Namibi)'
 ak: akanisht
 ak_GH: 'akanisht (Ganë)'
-am: amarike
-am_ET: 'amarike (Etiopi)'
+am: amarisht
+am_ET: 'amarisht (Etiopi)'
 en: anglisht
 en_ZA: 'anglisht (Afrika e Jugut)'
 en_AI: 'anglisht (Anguilë)'
 en_AG: 'anglisht (Antigua e Barbuda)'
 en_AU: 'anglisht (Australi)'
+en_AT: 'anglisht (Austri)'
 en_BS: 'anglisht (Bahamas)'
 en_BB: 'anglisht (Barbados)'
 en_BE: 'anglisht (Belgjikë)'
 en_BZ: 'anglisht (Belizë)'
 en_BM: 'anglisht (Bermudë)'
 en_BW: 'anglisht (Botsvanë)'
-en_DG: 'anglisht (Diego Garsia)'
+en_BI: 'anglisht (Burundi)'
+en_DK: 'anglisht (Danimarkë)'
+en_DG: 'anglisht (Diego-Garsia)'
 en_DM: 'anglisht (Dominikë)'
 en_ER: 'anglisht (Eritre)'
 en_PH: 'anglisht (Filipine)'
+en_FI: 'anglisht (Finlandë)'
 en_FJ: 'anglisht (Fixhi)'
-en_GM: 'anglisht (Gambi)'
+en_GM: 'anglisht (Gambia)'
 en_GH: 'anglisht (Ganë)'
+en_GG: 'anglisht (Gernsej)'
 en_GD: 'anglisht (Grenadë)'
 en_GY: 'anglisht (Guajanë)'
 en_GU: 'anglisht (Guam)'
-en_GG: 'anglisht (Guernsej)'
+en_DE: 'anglisht (Gjermani)'
 en_GI: 'anglisht (Gjibraltar)'
+en_NL: 'anglisht (Holandë)'
 en_IN: 'anglisht (Indi)'
 en_IE: 'anglisht (Irlandë)'
 en_MP: 'anglisht (Ishujt e Marianës Veriore)'
 en_VI: 'anglisht (Ishujt e Virgjër Amerikanë)'
 en_VG: 'anglisht (Ishujt e Virgjër Britanikë)'
-en_FK: 'anglisht (Ishujt Folklandë)'
-en_KY: 'anglisht (Ishujt Kajmanë)'
+en_FK: 'anglisht (Ishujt Falkland)'
+en_KY: 'anglisht (Ishujt Kajman)'
 en_CC: 'anglisht (Ishujt Kokos)'
-en_CK: 'anglisht (Ishujt Kukë)'
-en_MH: 'anglisht (Ishujt Marshallë)'
-en_NF: 'anglisht (Ishujt Norfolkë)'
+en_CK: 'anglisht (Ishujt Kuk)'
+en_MH: 'anglisht (Ishujt Marshall)'
 en_UM: 'anglisht (Ishujt periferikë të SHBA-së)'
-en_PN: 'anglisht (Ishujt Pitkernë)'
-en_SB: 'anglisht (Ishujt Solomonë)'
-en_TC: 'anglisht (Ishujt Turke dhe Kaike)'
+en_PN: 'anglisht (Ishujt Pitkern)'
+en_SB: 'anglisht (Ishujt Solomon)'
+en_TC: 'anglisht (Ishujt Turks dhe Kaikos)'
 en_CX: 'anglisht (Ishulli i Krishtlindjes)'
 en_IM: 'anglisht (Ishulli i Manit)'
+en_NF: 'anglisht (Ishulli Norfolk)'
+en_IL: 'anglisht (Izrael)'
 en_CM: 'anglisht (Kamerun)'
 en_CA: 'anglisht (Kanada)'
 en_KE: 'anglisht (Kenia)'
+en_KI: 'anglisht (Kiribati)'
 en_LS: 'anglisht (Lesoto)'
 en_LR: 'anglisht (Liberi)'
 en_MG: 'anglisht (Madagaskar)'
@@ -65,24 +73,26 @@ en_NU: 'anglisht (Niue)'
 en_PK: 'anglisht (Pakistan)'
 en_PW: 'anglisht (Palau)'
 en_PG: 'anglisht (Papua Guineja e Re)'
-en_PR: 'anglisht (Porto Riko)'
-en_KI: 'anglisht (Qiribati)'
+en_PR: 'anglisht (Porto-Riko)'
+en_CY: 'anglisht (Qipro)'
 en_RW: 'anglisht (Ruandë)'
 en_HK: 'anglisht (RVAK i Hong Kongut)'
 en_MO: 'anglisht (RVAK i Makaos)'
 en_AS: 'anglisht (Samoa Amerikane)'
 en_WS: 'anglisht (Samoa)'
-en_SL: 'anglisht (Siera Leone)'
+en_SC: 'anglisht (Sejshelle)'
+en_SL: 'anglisht (Siera-Leone)'
 en_SG: 'anglisht (Singapor)'
-en_SC: 'anglisht (Sishel)'
+en_SX: 'anglisht (Sint Marten)'
+en_SI: 'anglisht (Slloveni)'
 en_SD: 'anglisht (Sudan)'
 en_SS: 'anglisht (Sudani i Jugut)'
+en_SE: 'anglisht (Suedi)'
 en_SZ: 'anglisht (Svazilandë)'
-en_SH: 'anglisht (Shën Helena)'
-en_KN: 'anglisht (Shën Kits e Nevis)'
-en_LC: 'anglisht (Shën Luçia)'
-en_SX: 'anglisht (Shën Martin (Sint Maarten-pjesa e Mbretërisë së Holandës))'
-en_VC: 'anglisht (Shën Vinsent dhe Grenadinet)'
+en_KN: 'anglisht (Shën Kits dhe Nevis)'
+en_VC: 'anglisht (Shën Vincent dhe Grenadine)'
+en_SH: 'anglisht (Shën-Helenë)'
+en_LC: 'anglisht (Shën-Luçia)'
 en_US: 'anglisht (Shtetet e Bashkuara të Amerikës)'
 en_TZ: 'anglisht (Tanzani)'
 en_IO: 'anglisht (Territori Britanik i Oqeanit Indian)'
@@ -94,13 +104,14 @@ en_UG: 'anglisht (Ugandë)'
 en_VU: 'anglisht (Vanuatu)'
 en_JM: 'anglisht (Xhamajkë)'
 en_JE: 'anglisht (Xhersej)'
-en_ZM: 'anglisht (Zambi)'
-en_NZ: 'anglisht (Zelanda e Re)'
+en_ZM: 'anglisht (Zambia)'
+en_NZ: 'anglisht (Zelandë e Re)'
 en_ZW: 'anglisht (Zimbabve)'
+en_CH: 'anglisht (Zvicër)'
 ar: arabisht
 ar_DZ: 'arabisht (Algjeri)'
 ar_SA: 'arabisht (Arabia Saudite)'
-ar_BH: 'arabisht (Bahrein)'
+ar_BH: 'arabisht (Bahrejn)'
 ar_TD: 'arabisht (Çad)'
 ar_EG: 'arabisht (Egjipt)'
 ar_AE: 'arabisht (Emiratet e Bashkuara Arabe)'
@@ -124,20 +135,19 @@ ar_SD: 'arabisht (Sudan)'
 ar_SS: 'arabisht (Sudani i Jugut)'
 ar_PS: 'arabisht (Territoret Palestineze)'
 ar_TN: 'arabisht (Tunizi)'
-ar_DJ: 'arabisht (Xhibut)'
+ar_DJ: 'arabisht (Xhibuti)'
 hy: armenisht
 hy_AM: 'armenisht (Armeni)'
 as: asamezisht
 as_IN: 'asamezisht (Indi)'
-az: azere
-az_AZ: 'azere (Azerbajxhan)'
-az_Cyrl_AZ: 'azere (cirilik, Azerbajxhan)'
-az_Cyrl: 'azere (cirilik)'
-az_Latn_AZ: 'azere (latin, Azerbajxhan)'
-az_Latn: 'azere (latin)'
-bm: bambara
-bm_Latn_ML: 'bambara (latin, Mali)'
-bm_Latn: 'bambara (latin)'
+az: azerbajxhanisht
+az_AZ: 'azerbajxhanisht (Azerbajxhan)'
+az_Cyrl_AZ: 'azerbajxhanisht (cirilik, Azerbajxhan)'
+az_Cyrl: 'azerbajxhanisht (cirilik)'
+az_Latn_AZ: 'azerbajxhanisht (latin, Azerbajxhan)'
+az_Latn: 'azerbajxhanisht (latin)'
+bm: bambarisht
+bm_ML: 'bambarisht (Mali)'
 eu: baskisht
 eu_ES: 'baskisht (Spanjë)'
 bn: bengalisht
@@ -147,28 +157,31 @@ my: birmanisht
 my_MM: 'birmanisht (Mianmar (Burma))'
 be: bjellorusisht
 be_BY: 'bjellorusisht (Bjellorusi)'
-nb: 'bokmalishte norvegjeze'
-nb_NO: 'bokmalishte norvegjeze (Norvegji)'
-nb_SJ: 'bokmalishte norvegjeze (Svalbard e Zhan Majen)'
 bs: boshnjakisht
 bs_BA: 'boshnjakisht (Bosnjë-Hercegovinë)'
 bs_Cyrl_BA: 'boshnjakisht (cirilik, Bosnjë-Hercegovinë)'
 bs_Cyrl: 'boshnjakisht (cirilik)'
 bs_Latn_BA: 'boshnjakisht (latin, Bosnjë-Hercegovinë)'
 bs_Latn: 'boshnjakisht (latin)'
-br: bretone
-br_FR: 'bretone (Francë)'
+br: bretonisht
+br_FR: 'bretonisht (Francë)'
 bg: bullgarisht
 bg_BG: 'bullgarisht (Bullgari)'
+ce: çeçenisht
+ce_RU: 'çeçenisht (Rusi)'
 cs: çekisht
-cs_CZ: 'çekisht (Republika Çeke)'
+cs_CZ: 'çekisht (Çeki)'
 da: danisht
 da_DK: 'danisht (Danimarkë)'
 da_GL: 'danisht (Grenlandë)'
 eo: esperanto
 et: estonisht
 et_EE: 'estonisht (Estoni)'
+ee: eveisht
+ee_GH: 'eveisht (Ganë)'
+ee_TG: 'eveisht (Togo)'
 fo: faroisht
+fo_DK: 'faroisht (Danimarkë)'
 fo_FO: 'faroisht (Ishujt Faroe)'
 fi: finlandisht
 fi_FI: 'finlandisht (Finlandë)'
@@ -176,9 +189,9 @@ fr: frëngjisht
 fr_DZ: 'frëngjisht (Algjeri)'
 fr_BE: 'frëngjisht (Belgjikë)'
 fr_BJ: 'frëngjisht (Benin)'
-fr_CI: 'frëngjisht (Bregu i Fildishtë)'
-fr_BF: 'frëngjisht (Burkina Faso)'
-fr_BI: 'frëngjisht (Burund)'
+fr_BF: 'frëngjisht (Burkina-Faso)'
+fr_BI: 'frëngjisht (Burundi)'
+fr_CI: 'frëngjisht (Côte d’Ivoire)'
 fr_TD: 'frëngjisht (Çad)'
 fr_FR: 'frëngjisht (Francë)'
 fr_GA: 'frëngjisht (Gabon)'
@@ -198,38 +211,40 @@ fr_MG: 'frëngjisht (Madagaskar)'
 fr_YT: 'frëngjisht (Majotë)'
 fr_ML: 'frëngjisht (Mali)'
 fr_MA: 'frëngjisht (Marok)'
-fr_MQ: 'frëngjisht (Martinik)'
+fr_MQ: 'frëngjisht (Martinikë)'
 fr_MR: 'frëngjisht (Mauritani)'
 fr_MU: 'frëngjisht (Mauritius)'
 fr_MC: 'frëngjisht (Monako)'
 fr_NE: 'frëngjisht (Niger)'
 fr_PF: 'frëngjisht (Polinezia Franceze)'
-fr_CF: 'frëngjisht (Republika Afrikano-Qendrore)'
+fr_CF: 'frëngjisht (Repubika e Afrikës Qendrore)'
 fr_RE: 'frëngjisht (Reunion)'
 fr_RW: 'frëngjisht (Ruandë)'
-fr_SN: 'frëngjisht (Senegali)'
+fr_SC: 'frëngjisht (Sejshelle)'
+fr_SN: 'frëngjisht (Senegal)'
 fr_SY: 'frëngjisht (Siri)'
-fr_SC: 'frëngjisht (Sishel)'
-fr_BL: 'frëngjisht (Shën Bartolemeo)'
-fr_MF: 'frëngjisht (Shën Martin)'
-fr_PM: 'frëngjisht (Shën Peir dhe Mikuelon)'
+fr_BL: 'frëngjisht (Shën Bartolomeu)'
+fr_PM: 'frëngjisht (Shën Pier dhe Mikelon)'
+fr_MF: 'frëngjisht (Shën-Martin)'
 fr_TG: 'frëngjisht (Togo)'
 fr_TN: 'frëngjisht (Tunizi)'
-fr_WF: 'frëngjisht (Uollis e Futina)'
+fr_WF: 'frëngjisht (Uollis e Futuna)'
 fr_VU: 'frëngjisht (Vanuatu)'
-fr_DJ: 'frëngjisht (Xhibut)'
+fr_DJ: 'frëngjisht (Xhibuti)'
 fr_CH: 'frëngjisht (Zvicër)'
-fy: frizianisht
-fy_NL: 'frizianisht (Holandë)'
-ff: Fulah
-ff_CM: 'Fulah (Cameroon)'
-ff_GN: 'Fulah (Guinea)'
-ff_MR: 'Fulah (Mauritania)'
-ff_SN: 'Fulah (Senegal)'
-gl: galike
-gl_ES: 'galike (Spanjë)'
-lg: gandisht
-lg_UG: 'gandisht (Ugandë)'
+fy: 'frizianishte perëndimore'
+fy_NL: 'frizianishte perëndimore (Holandë)'
+ff: fulaisht
+ff_GN: 'fulaisht (Guine)'
+ff_CM: 'fulaisht (Kamerun)'
+ff_MR: 'fulaisht (Mauritani)'
+ff_SN: 'fulaisht (Senegal)'
+gl: galicisht
+gl_ES: 'galicisht (Spanjë)'
+gd: 'galishte skoceze'
+gd_GB: 'galishte skoceze (Mbretëria e Bashkuar)'
+lg: gandaisht
+lg_UG: 'gandaisht (Ugandë)'
 el: greqisht
 el_GR: 'greqisht (Greqi)'
 el_CY: 'greqisht (Qipro)'
@@ -241,15 +256,12 @@ de: gjermanisht
 de_AT: 'gjermanisht (Austri)'
 de_BE: 'gjermanisht (Belgjikë)'
 de_DE: 'gjermanisht (Gjermani)'
-de_LI: 'gjermanisht (Lihtënshtajn)'
+de_IT: 'gjermanisht (Itali)'
+de_LI: 'gjermanisht (Lihtenshtajn)'
 de_LU: 'gjermanisht (Luksemburg)'
 de_CH: 'gjermanisht (Zvicër)'
 ha: hausisht
 ha_GH: 'hausisht (Ganë)'
-ha_Latn_GH: 'hausisht (latin, Ganë)'
-ha_Latn_NE: 'hausisht (latin, Niger)'
-ha_Latn_NG: 'hausisht (latin, Nigeri)'
-ha_Latn: 'hausisht (latin)'
 ha_NE: 'hausisht (Niger)'
 ha_NG: 'hausisht (Nigeri)'
 he: hebraisht
@@ -260,53 +272,48 @@ nl_BE: 'holandisht (Belgjikë)'
 nl_NL: 'holandisht (Holandë)'
 nl_BQ: 'holandisht (Karaibet holandeze)'
 nl_CW: 'holandisht (Kuraçao)'
+nl_SX: 'holandisht (Sint Marten)'
 nl_SR: 'holandisht (Surinami)'
-nl_SX: 'holandisht (Shën Martin (Sint Maarten-pjesa e Mbretërisë së Holandës))'
 hu: hungarisht
 hu_HU: 'hungarisht (Hungari)'
-ig: igbe
-ig_NG: 'igbe (Nigeri)'
-hi: indishte
-hi_IN: 'indishte (Indi)'
+ig: igboisht
+ig_NG: 'igboisht (Nigeri)'
+hi: indisht
+hi_IN: 'indisht (Indi)'
 id: indonezisht
 id_ID: 'indonezisht (Indonezi)'
-ga: irlandezçe
-ga_IE: 'irlandezçe (Irlandë)'
+ga: irlandisht
+ga_IE: 'irlandisht (Irlandë)'
 is: islandisht
 is_IS: 'islandisht (Islandë)'
 it: italisht
 it_IT: 'italisht (Itali)'
-it_SM: 'italisht (San Marino)'
+it_SM: 'italisht (San-Marino)'
+it_VA: 'italisht (Vatikan)'
 it_CH: 'italisht (Zvicër)'
 ja: japonisht
 ja_JP: 'japonisht (Japoni)'
-yo: jorubisht
-yo_BJ: 'jorubisht (Benin)'
-yo_NG: 'jorubisht (Nigeri)'
-ee: juisht
-ee_GH: 'juisht (Ganë)'
-ee_TG: 'juisht (Togo)'
-kl: kalalisute
-kl_GL: 'kalalisute (Grenlandë)'
-kn: kanade
-kn_IN: 'kanade (Indi)'
-ks: kashmire
-ks_Arab_IN: 'kashmire (arabik, Indi)'
-ks_Arab: 'kashmire (arabik)'
-ks_IN: 'kashmire (Indi)'
+yi: jidisht
+yo: jorubaisht
+yo_BJ: 'jorubaisht (Benin)'
+yo_NG: 'jorubaisht (Nigeri)'
+kl: kalalisutisht
+kl_GL: 'kalalisutisht (Grenlandë)'
+kn: kanadisht
+kn_IN: 'kanadisht (Indi)'
+ks: kashmirisht
+ks_IN: 'kashmirisht (Indi)'
 ca: katalonisht
 ca_AD: 'katalonisht (Andorrë)'
 ca_FR: 'katalonisht (Francë)'
 ca_IT: 'katalonisht (Itali)'
 ca_ES: 'katalonisht (Spanjë)'
 kk: kazakisht
-kk_Cyrl_KZ: 'kazakisht (cirilik, Kazakistan)'
-kk_Cyrl: 'kazakisht (cirilik)'
 kk_KZ: 'kazakisht (Kazakistan)'
-qu: keçua
-qu_BO: 'keçua (Bolivi)'
-qu_EC: 'keçua (Ekuador)'
-qu_PE: 'keçua (Peru)'
+qu: keçuaisht
+qu_BO: 'keçuaisht (Bolivi)'
+qu_EC: 'keçuaisht (Ekuador)'
+qu_PE: 'keçuaisht (Peru)'
 ki: kikujuisht
 ki_KE: 'kikujuisht (Kenia)'
 zh: kinezisht
@@ -327,11 +334,9 @@ zh_Hant: 'kinezisht (tradicional)'
 rw: kiniaruandisht
 rw_RW: 'kiniaruandisht (Ruandë)'
 ky: kirgizisht
-ky_Cyrl_KG: 'kirgizisht (cirilik, Kirgistan)'
-ky_Cyrl: 'kirgizisht (cirilik)'
 ky_KG: 'kirgizisht (Kirgistan)'
-km: kmere
-km_KH: 'kmere (Kamboxhia)'
+km: kmerisht
+km_KH: 'kmerisht (Kamboxhia)'
 ko: koreanisht
 ko_KR: 'koreanisht (Koreja e Jugut)'
 ko_KP: 'koreanisht (Koreja e Veriut)'
@@ -348,63 +353,60 @@ ln: lingalisht
 ln_AO: 'lingalisht (Angolë)'
 ln_CG: 'lingalisht (Kongo-Brazavilë)'
 ln_CD: 'lingalisht (Kongo-Kinshasa)'
-ln_CF: 'lingalisht (Republika Afrikano-Qendrore)'
+ln_CF: 'lingalisht (Repubika e Afrikës Qendrore)'
 lt: lituanisht
 lt_LT: 'lituanisht (Lituani)'
-lu: Lubakatange
-lu_CD: 'Lubakatange (Kongo-Kinshasa)'
-lb: luksemburgase
-lb_LU: 'luksemburgase (Luksemburg)'
-mg: malageze
-mg_MG: 'malageze (Madagaskar)'
-ml: malajalame
-ml_IN: 'malajalame (Indi)'
+lu: luba-katangaisht
+lu_CD: 'luba-katangaisht (Kongo-Kinshasa)'
+lb: luksemburgisht
+lb_LU: 'luksemburgisht (Luksemburg)'
+mg: malagezisht
+mg_MG: 'malagezisht (Madagaskar)'
+ml: malajalamisht
+ml_IN: 'malajalamisht (Indi)'
 ms: malajisht
-ms_BN: 'malajisht (Brunej)'
-ms_Latn_BN: 'malajisht (latin, Brunej)'
-ms_Latn_MY: 'malajisht (latin, Malajzi)'
-ms_Latn_SG: 'malajisht (latin, Singapor)'
-ms_Latn: 'malajisht (latin)'
+ms_BN: 'malajisht (Brunei)'
 ms_MY: 'malajisht (Malajzi)'
 ms_SG: 'malajisht (Singapor)'
 mt: maltisht
 mt_MT: 'maltisht (Maltë)'
-gv: mankse
-gv_IM: 'mankse (Ishulli i Manit)'
+gv: manksisht
+gv_IM: 'manksisht (Ishulli i Manit)'
 mk: maqedonisht
 mk_MK: 'maqedonisht (Maqedoni)'
 mr: maratisht
 mr_IN: 'maratisht (Indi)'
 mn: mongolisht
-mn_Cyrl_MN: 'mongolisht (cirilik, Mongoli)'
-mn_Cyrl: 'mongolisht (cirilik)'
 mn_MN: 'mongolisht (Mongoli)'
 nd: 'ndebelishte veriore'
 nd_ZW: 'ndebelishte veriore (Zimbabve)'
 ne: nepalisht
 ne_IN: 'nepalisht (Indi)'
 ne_NP: 'nepalisht (Nepal)'
-nn: 'ninorske norvegjeze'
-nn_NO: 'ninorske norvegjeze (Norvegji)'
-'no': Norwegian
-no_NO: 'Norwegian (Norway)'
-or: orije
-or_IN: 'orije (Indi)'
+'no': norvegjisht
+no_NO: 'norvegjisht (Norvegji)'
+nb: 'norvegjishte letrare'
+nb_NO: 'norvegjishte letrare (Norvegji)'
+nb_SJ: 'norvegjishte letrare (Svalbard e Jan-Majen)'
+nn: 'norvegjishte nynorsk'
+nn_NO: 'norvegjishte nynorsk (Norvegji)'
+or: odisht
+or_IN: 'odisht (Indi)'
 om: oromoisht
 om_ET: 'oromoisht (Etiopi)'
 om_KE: 'oromoisht (Kenia)'
-os: Ossetic
-os_GE: 'Ossetic (Georgia)'
-os_RU: 'Ossetic (Russia)'
-pa: panxhabe
-pa_Arab_PK: 'panxhabe (arabik, Pakistan)'
-pa_Arab: 'panxhabe (arabik)'
-pa_Guru_IN: 'panxhabe (gurmuk, Indi)'
-pa_Guru: 'panxhabe (gurmuk)'
-pa_IN: 'panxhabe (Indi)'
-pa_PK: 'panxhabe (Pakistan)'
-ps: pashto
-ps_AF: 'pashto (Afganistan)'
+os: osetisht
+os_GE: 'osetisht (Gjeorgji)'
+os_RU: 'osetisht (Rusi)'
+pa: panxhabisht
+pa_Arab_PK: 'panxhabisht (arabik, Pakistan)'
+pa_Arab: 'panxhabisht (arabik)'
+pa_Guru_IN: 'panxhabisht (gurmuk, Indi)'
+pa_Guru: 'panxhabisht (gurmuk)'
+pa_IN: 'panxhabisht (Indi)'
+pa_PK: 'panxhabisht (Pakistan)'
+ps: pashtoisht
+ps_AF: 'pashtoisht (Afganistan)'
 fa: persisht
 fa_AF: 'persisht (Afganistan)'
 fa_IR: 'persisht (Iran)'
@@ -414,19 +416,22 @@ pt: portugalisht
 pt_AO: 'portugalisht (Angolë)'
 pt_BR: 'portugalisht (Brazil)'
 pt_GW: 'portugalisht (Guine-Bisau)'
+pt_GQ: 'portugalisht (Guineja Ekuatoriale)'
 pt_CV: 'portugalisht (Kepi i Gjelbër)'
+pt_LU: 'portugalisht (Luksemburg)'
 pt_MZ: 'portugalisht (Mozambik)'
 pt_PT: 'portugalisht (Portugali)'
 pt_MO: 'portugalisht (RVAK i Makaos)'
-pt_ST: 'portugalisht (Sao Tome e Prinsipe)'
-pt_TL: 'portugalisht (Timori Lindor)'
-rm: rome
-rm_CH: 'rome (Zvicër)'
+pt_ST: 'portugalisht (Sao-Tome e Prinsipe)'
+pt_TL: 'portugalisht (Timor-Leste)'
+pt_CH: 'portugalisht (Zvicër)'
+rm: retoromanisht
+rm_CH: 'retoromanisht (Zvicër)'
 ro: rumanisht
 ro_MD: 'rumanisht (Moldavi)'
 ro_RO: 'rumanisht (Rumani)'
 rn: rundisht
-rn_BI: 'rundisht (Burund)'
+rn_BI: 'rundisht (Burundi)'
 ru: rusisht
 ru_BY: 'rusisht (Bjellorusi)'
 ru_KZ: 'rusisht (Kazakistan)'
@@ -439,28 +444,26 @@ se_FI: 'samishte veriore (Finlandë)'
 se_NO: 'samishte veriore (Norvegji)'
 se_SE: 'samishte veriore (Suedi)'
 sg: sangoisht
-sg_CF: 'sangoisht (Republika Afrikano-Qendrore)'
-gd: 'Scottish Gaelic'
-gd_GB: 'Scottish Gaelic (United Kingdom)'
+sg_CF: 'sangoisht (Repubika e Afrikës Qendrore)'
 sr: serbisht
 sr_BA: 'serbisht (Bosnjë-Hercegovinë)'
 sr_Cyrl_BA: 'serbisht (cirilik, Bosnjë-Hercegovinë)'
 sr_Cyrl_XK: 'serbisht (cirilik, Kosovë)'
-sr_Cyrl_ME: 'serbisht (cirilik, Mali i Zi)'
+sr_Cyrl_ME: 'serbisht (cirilik, Mal i Zi)'
 sr_Cyrl_RS: 'serbisht (cirilik, Serbi)'
 sr_Cyrl: 'serbisht (cirilik)'
 sr_XK: 'serbisht (Kosovë)'
 sr_Latn_BA: 'serbisht (latin, Bosnjë-Hercegovinë)'
 sr_Latn_XK: 'serbisht (latin, Kosovë)'
-sr_Latn_ME: 'serbisht (latin, Mali i Zi)'
+sr_Latn_ME: 'serbisht (latin, Mal i Zi)'
 sr_Latn_RS: 'serbisht (latin, Serbi)'
 sr_Latn: 'serbisht (latin)'
-sr_ME: 'serbisht (Mali i Zi)'
+sr_ME: 'serbisht (Mal i Zi)'
 sr_RS: 'serbisht (Serbi)'
-sh: Serbo-Kroatisht
-sh_BA: 'Serbo-Kroatisht (Bosnjë-Hercegovinë)'
-si: sinhale
-si_LK: 'sinhale (Sri Lankë)'
+sh: serbo-kroatisht
+sh_BA: 'serbo-kroatisht (Bosnjë-Hercegovinë)'
+si: sinhalisht
+si_LK: 'sinhalisht (Sri-Lankë)'
 ii: sishuanisht
 ii_CN: 'sishuanisht (Kinë)'
 sk: sllovakisht
@@ -471,12 +474,13 @@ so: somalisht
 so_ET: 'somalisht (Etiopi)'
 so_KE: 'somalisht (Kenia)'
 so_SO: 'somalisht (Somali)'
-so_DJ: 'somalisht (Xhibut)'
+so_DJ: 'somalisht (Xhibuti)'
 es: spanjisht
 es_AR: 'spanjisht (Argjentinë)'
+es_BZ: 'spanjisht (Belizë)'
 es_BO: 'spanjisht (Bolivi)'
+es_BR: 'spanjisht (Brazil)'
 es_EC: 'spanjisht (Ekuador)'
-es_SV: 'spanjisht (El Salvador)'
 es_PH: 'spanjisht (Filipine)'
 es_GT: 'spanjisht (Guatemalë)'
 es_GQ: 'spanjisht (Guineja Ekuatoriale)'
@@ -484,15 +488,16 @@ es_HN: 'spanjisht (Honduras)'
 es_IC: 'spanjisht (Ishujt Kanarie)'
 es_CL: 'spanjisht (Kili)'
 es_CO: 'spanjisht (Kolumbi)'
-es_CR: 'spanjisht (Kosta Rikë)'
+es_CR: 'spanjisht (Kosta-Rikë)'
 es_CU: 'spanjisht (Kubë)'
 es_MX: 'spanjisht (Meksikë)'
 es_NI: 'spanjisht (Nikaragua)'
 es_PA: 'spanjisht (Panama)'
 es_PY: 'spanjisht (Paraguai)'
 es_PE: 'spanjisht (Peru)'
-es_PR: 'spanjisht (Porto Riko)'
+es_PR: 'spanjisht (Porto-Riko)'
 es_DO: 'spanjisht (Republika Dominikane)'
+es_SV: 'spanjisht (Salvador)'
 es_ES: 'spanjisht (Spanjë)'
 es_US: 'spanjisht (Shtetet e Bashkuara të Amerikës)'
 es_EA: 'spanjisht (Theuta e Melila)'
@@ -500,6 +505,7 @@ es_UY: 'spanjisht (Uruguai)'
 es_VE: 'spanjisht (Venezuelë)'
 sw: suahilisht
 sw_KE: 'suahilisht (Kenia)'
+sw_CD: 'suahilisht (Kongo-Kinshasa)'
 sw_TZ: 'suahilisht (Tanzani)'
 sw_UG: 'suahilisht (Ugandë)'
 sv: suedisht
@@ -516,19 +522,19 @@ tl: Tagalog
 tl_PH: 'Tagalog (Philippines)'
 th: tajlandisht
 th_TH: 'tajlandisht (Tajlandë)'
-ta: tamile
-ta_IN: 'tamile (Indi)'
-ta_MY: 'tamile (Malajzi)'
-ta_SG: 'tamile (Singapor)'
-ta_LK: 'tamile (Sri Lankë)'
-te: teluge
-te_IN: 'teluge (Indi)'
+ta: tamilisht
+ta_IN: 'tamilisht (Indi)'
+ta_MY: 'tamilisht (Malajzi)'
+ta_SG: 'tamilisht (Singapor)'
+ta_LK: 'tamilisht (Sri-Lankë)'
+te: teluguisht
+te_IN: 'teluguisht (Indi)'
 bo: tibetisht
 bo_IN: 'tibetisht (Indi)'
 bo_CN: 'tibetisht (Kinë)'
-ti: tigrinje
-ti_ER: 'tigrinje (Eritre)'
-ti_ET: 'tigrinje (Etiopi)'
+ti: tigrinjaisht
+ti_ER: 'tigrinjaisht (Eritre)'
+ti_ET: 'tigrinjaisht (Etiopi)'
 to: tonganisht
 to_TO: 'tonganisht (Tonga)'
 tr: turqisht
@@ -536,28 +542,25 @@ tr_CY: 'turqisht (Qipro)'
 tr_TR: 'turqisht (Turqi)'
 cy: uellsisht
 cy_GB: 'uellsisht (Mbretëria e Bashkuar)'
-ug: ujgure
-ug_Arab_CN: 'ujgure (arabik, Kinë)'
-ug_Arab: 'ujgure (arabik)'
-ug_CN: 'ujgure (Kinë)'
+ug: ujgurisht
+ug_CN: 'ujgurisht (Kinë)'
 uk: ukrainisht
 uk_UA: 'ukrainisht (Ukrainë)'
-ur: urdu
-ur_IN: 'urdu (Indi)'
-ur_PK: 'urdu (Pakistan)'
-uz: uzbeke
-uz_AF: 'uzbeke (Afganistan)'
-uz_Arab_AF: 'uzbeke (arabik, Afganistan)'
-uz_Arab: 'uzbeke (arabik)'
-uz_Cyrl_UZ: 'uzbeke (cirilik, Uzbekistan)'
-uz_Cyrl: 'uzbeke (cirilik)'
-uz_Latn_UZ: 'uzbeke (latin, Uzbekistan)'
-uz_Latn: 'uzbeke (latin)'
-uz_UZ: 'uzbeke (Uzbekistan)'
+ur: urduisht
+ur_IN: 'urduisht (Indi)'
+ur_PK: 'urduisht (Pakistan)'
+uz: uzbekisht
+uz_AF: 'uzbekisht (Afganistan)'
+uz_Arab_AF: 'uzbekisht (arabik, Afganistan)'
+uz_Arab: 'uzbekisht (arabik)'
+uz_Cyrl_UZ: 'uzbekisht (cirilik, Uzbekistan)'
+uz_Cyrl: 'uzbekisht (cirilik)'
+uz_Latn_UZ: 'uzbekisht (latin, Uzbekistan)'
+uz_Latn: 'uzbekisht (latin)'
+uz_UZ: 'uzbekisht (Uzbekistan)'
 vi: vietnamisht
 vi_VN: 'vietnamisht (Vietnam)'
-dz: xongka
-dz_BT: 'xongka (Butan)'
-yi: Yiddish
-zu: zulu
-zu_ZA: 'zulu (Afrika e Jugut)'
+dz: xhongaisht
+dz_BT: 'xhongaisht (Butan)'
+zu: zuluisht
+zu_ZA: 'zuluisht (Afrika e Jugut)'
